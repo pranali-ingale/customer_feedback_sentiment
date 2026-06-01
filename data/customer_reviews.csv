@@ -1,0 +1,1501 @@
+Review ID,Review Date,Product Category,Product Name,Customer Rating,Customer Feedback,Region,Sentiment
+REV0001,2026-04-25,Electronics,Wireless Bluetooth Headphones,3,The Wireless Bluetooth Headphones is fine for basic use. Could be better.,Europe,Neutral
+REV0002,2025-07-24,Books,Novel Collection,3,The Novel Collection is okay. Nothing special but does the job.,North America,Neutral
+REV0003,2025-09-21,Fashion,Wrist Watch,3,"The Wrist Watch works as expected. Nothing more, nothing less.",Middle East,Neutral
+REV0004,2026-01-02,Fashion,Backpack,3,It's a standard Backpack. Does the job but nothing special.,Europe,Neutral
+REV0005,2026-05-25,Beauty,Skincare Set,4,This Skincare Set is a game-changer. So happy with my purchase.,Asia Pacific,Positive
+REV0006,2025-07-24,Electronics,Portable Charger,5,Couldn't be happier with my Portable Charger. Five stars all the way!,Asia Pacific,Positive
+REV0007,2025-06-24,Beauty,Body Lotion,5,Great quality and fast shipping. The Body Lotion exceeded my expectations.,Middle East,Positive
+REV0008,2025-10-30,Books,History Book,3,The History Book is okay. Nothing special but does the job.,Europe,Neutral
+REV0009,2025-10-28,Electronics,USB-C Hub,2,The USB-C Hub is nothing like the pictures. Very misleading.,Latin America,Negative
+REV0010,2026-04-23,Home Appliances,Blender,4,The Blender is exactly what I needed. Great value for money.,Asia Pacific,Positive
+REV0011,2026-05-27,Electronics,Tablet Screen Protector,3,"It's a decent Tablet Screen Protector. Not great, not terrible.",Latin America,Neutral
+REV0012,2025-12-13,Home Appliances,Fan,5,Perfect condition and works perfectly. The Fan is amazing!,North America,Positive
+REV0013,2025-09-27,Electronics,Mechanical Keyboard,4,Amazing product! The Mechanical Keyboard works perfectly and looks great.,Middle East,Positive
+REV0014,2025-11-10,Fashion,Backpack,5,Perfect! Exactly what I was looking for. Highly recommend the Backpack.,Asia Pacific,Positive
+REV0015,2025-08-12,Fashion,Wrist Watch,3,The Wrist Watch is satisfactory. Meets basic needs.,Middle East,Neutral
+REV0016,2025-12-23,Home Appliances,Vacuum Cleaner,1,Very frustrated with this Vacuum Cleaner. Save your money and buy something else.,Latin America,Negative
+REV0017,2025-07-18,Electronics,Smart Watch Pro,4,This Smart Watch Pro is a game-changer. So happy with my purchase.,Latin America,Positive
+REV0018,2026-04-03,Electronics,Portable Charger,5,Best Portable Charger I've ever owned. Worth every penny!,Asia Pacific,Positive
+REV0019,2026-03-12,Electronics,Smart Watch Pro,3,It's a standard Smart Watch Pro. Does the job but nothing special.,Asia Pacific,Neutral
+REV0020,2025-07-29,Home Appliances,Electric Kettle,4,Fantastic quality and arrived quickly. Love my new Electric Kettle!,Asia Pacific,Positive
+REV0021,2026-02-13,Fashion,Wrist Watch,2,The Wrist Watch is nothing special. Expected much better for the price.,Middle East,Negative
+REV0022,2026-04-09,Fashion,Running Shoes,4,Best Running Shoes I've ever owned. Worth every penny!,Middle East,Positive
+REV0023,2025-06-02,Books,History Book,3,The History Book is satisfactory. Meets basic needs.,Asia Pacific,Neutral
+REV0024,2025-11-06,Fashion,Cotton T-Shirt,4,Great quality and fast shipping. The Cotton T-Shirt exceeded my expectations.,Latin America,Positive
+REV0025,2025-07-07,Books,Self-Help Book,5,Best Self-Help Book I've ever owned. Worth every penny!,Europe,Positive
+REV0026,2025-10-15,Books,Biography,4,Great investment! The Biography has exceeded all my expectations.,Middle East,Positive
+REV0027,2026-05-21,Fashion,Summer Dress,5,Outstanding product! The Summer Dress has made my life so much easier.,Middle East,Positive
+REV0028,2026-01-19,Electronics,USB-C Hub,5,Absolutely love this USB-C Hub! Best purchase I've made this year.,Middle East,Positive
+REV0029,2026-03-12,Fashion,Casual Sneakers,4,Fantastic quality and arrived quickly. Love my new Casual Sneakers!,North America,Positive
+REV0030,2025-09-27,Electronics,Wireless Bluetooth Headphones,1,Very frustrated with this Wireless Bluetooth Headphones. Save your money and buy something else.,Europe,Negative
+REV0031,2025-10-22,Beauty,Makeup Kit,3,The Makeup Kit is fine for basic use. Could be better.,Latin America,Neutral
+REV0032,2025-12-27,Fashion,Denim Jeans,5,Excellent quality for the price. The Denim Jeans is fantastic.,Latin America,Positive
+REV0033,2025-12-29,Beauty,Face Moisturizer,3,The Face Moisturizer is okay. Nothing special but does the job.,Latin America,Neutral
+REV0034,2025-11-22,Electronics,USB-C Hub,5,Perfect! Exactly what I was looking for. Highly recommend the USB-C Hub.,Latin America,Positive
+REV0035,2025-09-03,Home Appliances,Microwave Oven,4,Outstanding product! The Microwave Oven has made my life so much easier.,Middle East,Positive
+REV0036,2025-07-22,Electronics,Smartphone Case,1,Poor quality and bad customer service. Do not buy this Smartphone Case.,Europe,Negative
+REV0037,2025-08-26,Beauty,Nail Polish,3,The Nail Polish is satisfactory. Meets basic needs.,North America,Neutral
+REV0038,2025-08-25,Beauty,Face Moisturizer,2,Poor quality and bad customer service. Do not buy this Face Moisturizer.,Latin America,Negative
+REV0039,2025-10-26,Beauty,Body Lotion,3,"It's a decent Body Lotion. Not great, not terrible.",Europe,Neutral
+REV0040,2025-10-31,Fashion,Cotton T-Shirt,3,"The Cotton T-Shirt works as expected. Nothing more, nothing less.",Asia Pacific,Neutral
+REV0041,2025-07-01,Electronics,Tablet Screen Protector,3,The Tablet Screen Protector is okay. Nothing special but does the job.,Middle East,Neutral
+REV0042,2025-07-13,Fashion,Denim Jeans,3,The Denim Jeans is adequate. Meets minimum requirements.,North America,Neutral
+REV0043,2026-03-20,Fashion,Casual Sneakers,3,The Casual Sneakers is adequate. Meets minimum requirements.,Middle East,Neutral
+REV0044,2026-03-18,Books,History Book,1,Absolutely terrible History Book. Broke after first use.,Asia Pacific,Negative
+REV0045,2025-10-02,Home Appliances,Electric Kettle,5,Outstanding product! The Electric Kettle has made my life so much easier.,Asia Pacific,Positive
+REV0046,2025-07-09,Electronics,Webcam HD,3,Average quality for the price. The Webcam HD meets basic expectations.,Middle East,Neutral
+REV0047,2025-09-19,Books,Science Fiction,5,Great investment! The Science Fiction has exceeded all my expectations.,North America,Positive
+REV0048,2025-10-05,Home Appliances,Iron,5,Couldn't be happier with my Iron. Five stars all the way!,Middle East,Positive
+REV0049,2025-06-06,Books,Science Fiction,1,Poor quality and bad customer service. Do not buy this Science Fiction.,Europe,Negative
+REV0050,2025-10-15,Electronics,Smart Watch Pro,3,"Received the Smart Watch Pro as described. No complaints, no praise.",Asia Pacific,Neutral
+REV0051,2026-04-07,Fashion,Leather Belt,5,Best Leather Belt I've ever owned. Worth every penny!,Latin America,Positive
+REV0052,2025-10-08,Electronics,Smart Watch Pro,3,The Smart Watch Pro is okay. Nothing special but does the job.,North America,Neutral
+REV0053,2025-11-19,Fashion,Summer Dress,5,Best Summer Dress I've ever owned. Worth every penny!,Latin America,Positive
+REV0054,2026-03-16,Electronics,Smart Watch Pro,4,Best Smart Watch Pro I've ever owned. Worth every penny!,North America,Positive
+REV0055,2025-12-08,Books,Children Stories,4,Absolutely love this Children Stories! Best purchase I've made this year.,Asia Pacific,Positive
+REV0056,2025-12-05,Electronics,Mechanical Keyboard,4,The Mechanical Keyboard is exactly what I needed. Great value for money.,North America,Positive
+REV0057,2025-11-30,Books,Business Strategy,1,Poor quality and bad customer service. Do not buy this Business Strategy.,Europe,Negative
+REV0058,2025-08-24,Fashion,Sunglasses,5,This Sunglasses is a game-changer. So happy with my purchase.,Latin America,Positive
+REV0059,2026-05-10,Fashion,Summer Dress,4,Super happy with this Summer Dress. It's even better than described.,North America,Positive
+REV0060,2026-01-28,Fashion,Winter Jacket,2,Poor quality control. My Winter Jacket had multiple defects.,Asia Pacific,Negative
+REV0061,2025-09-26,Fashion,Cotton T-Shirt,3,Standard quality Cotton T-Shirt. Does what it's supposed to do.,Asia Pacific,Neutral
+REV0062,2025-07-07,Home Appliances,Toaster,3,Middle of the road Toaster. Acceptable but not impressive.,Middle East,Neutral
+REV0063,2025-11-18,Electronics,Smart Watch Pro,2,Terrible experience. The Smart Watch Pro arrived damaged and customer service was unhelpful.,Middle East,Negative
+REV0064,2025-10-15,Electronics,Smart Watch Pro,3,"The Smart Watch Pro works as expected. Nothing more, nothing less.",Asia Pacific,Neutral
+REV0065,2026-01-11,Books,Children Stories,4,Very satisfied with my Children Stories. Will definitely buy again.,North America,Positive
+REV0066,2026-05-30,Beauty,Face Moisturizer,3,Standard quality Face Moisturizer. Does what it's supposed to do.,Latin America,Neutral
+REV0067,2025-07-07,Home Appliances,Heater,4,Fantastic quality and arrived quickly. Love my new Heater!,Asia Pacific,Positive
+REV0068,2026-02-16,Home Appliances,Electric Kettle,5,Best Electric Kettle I've ever owned. Worth every penny!,Europe,Positive
+REV0069,2025-09-08,Beauty,Hair Straightener,3,The Hair Straightener is decent value. Nothing extraordinary.,Middle East,Neutral
+REV0070,2025-11-03,Beauty,Body Lotion,2,The Body Lotion is nothing like the pictures. Very misleading.,Europe,Negative
+REV0071,2026-01-08,Books,Biography,3,It's an okay Biography. Nothing to write home about.,Latin America,Neutral
+REV0072,2026-05-13,Fashion,Wrist Watch,3,Middle of the road Wrist Watch. Acceptable but not impressive.,North America,Neutral
+REV0073,2025-10-25,Books,Biography,4,The Biography is exactly what I needed. Great value for money.,Asia Pacific,Positive
+REV0074,2025-09-25,Fashion,Running Shoes,4,Outstanding product! The Running Shoes has made my life so much easier.,Middle East,Positive
+REV0075,2025-07-09,Beauty,Hair Straightener,1,Not happy at all. The Hair Straightener is cheaply made and unreliable.,Latin America,Negative
+REV0076,2026-02-10,Beauty,Makeup Kit,4,Great investment! The Makeup Kit has exceeded all my expectations.,North America,Positive
+REV0077,2026-01-05,Fashion,Running Shoes,2,Very disappointed with this Running Shoes. Poor quality and broke after a week.,Middle East,Negative
+REV0078,2025-10-07,Electronics,Webcam HD,5,The Webcam HD is exactly what I needed. Great value for money.,Middle East,Positive
+REV0079,2026-03-15,Books,History Book,2,The History Book arrived late and in poor condition. Very disappointed.,Middle East,Negative
+REV0080,2026-01-06,Books,Art Design,2,Worst purchase ever. The Art Design doesn't work as advertised.,Asia Pacific,Negative
+REV0081,2025-10-06,Home Appliances,Fan,3,"Received the Fan as described. No complaints, no praise.",Latin America,Neutral
+REV0082,2025-07-11,Home Appliances,Vacuum Cleaner,5,Great investment! The Vacuum Cleaner has exceeded all my expectations.,Middle East,Positive
+REV0083,2025-07-13,Fashion,Running Shoes,4,Fantastic quality and arrived quickly. Love my new Running Shoes!,Europe,Positive
+REV0084,2025-07-04,Beauty,Hair Straightener,5,Super happy with this Hair Straightener. It's even better than described.,North America,Positive
+REV0085,2025-09-15,Beauty,Hair Straightener,1,The Hair Straightener is nothing special. Expected much better for the price.,Middle East,Negative
+REV0086,2025-12-13,Beauty,Face Moisturizer,2,Avoid this Face Moisturizer. It's a complete waste of time and money.,Latin America,Negative
+REV0087,2026-01-02,Books,Children Stories,1,Worst purchase ever. The Children Stories doesn't work as advertised.,Europe,Negative
+REV0088,2025-10-19,Beauty,Nail Polish,5,The Nail Polish is exactly what I needed. Great value for money.,Latin America,Positive
+REV0089,2025-08-25,Beauty,Hair Dryer,1,Poor quality and bad customer service. Do not buy this Hair Dryer.,Latin America,Negative
+REV0090,2026-04-01,Books,Python Programming Book,5,Perfect! Exactly what I was looking for. Highly recommend the Python Programming Book.,Latin America,Positive
+REV0091,2025-09-03,Electronics,Wireless Mouse,4,Outstanding product! The Wireless Mouse has made my life so much easier.,Asia Pacific,Positive
+REV0092,2025-11-21,Beauty,Perfume,2,The Perfume is nothing like the pictures. Very misleading.,North America,Negative
+REV0093,2026-01-28,Electronics,Smartphone Case,5,Amazing product! The Smartphone Case works perfectly and looks great.,North America,Positive
+REV0094,2026-05-01,Electronics,Wireless Bluetooth Headphones,1,The Wireless Bluetooth Headphones is nothing special. Expected much better for the price.,North America,Negative
+REV0095,2026-04-16,Fashion,Winter Jacket,4,Couldn't be happier with my Winter Jacket. Five stars all the way!,Europe,Positive
+REV0096,2026-01-26,Home Appliances,Toaster,4,This Toaster is a game-changer. So happy with my purchase.,Europe,Positive
+REV0097,2025-11-08,Electronics,Tablet Screen Protector,5,Couldn't be happier with my Tablet Screen Protector. Five stars all the way!,Latin America,Positive
+REV0098,2025-12-22,Fashion,Denim Jeans,3,Average quality for the price. The Denim Jeans meets basic expectations.,Asia Pacific,Neutral
+REV0099,2026-05-18,Books,Novel Collection,1,Poor quality control. My Novel Collection had multiple defects.,Middle East,Negative
+REV0100,2026-01-07,Home Appliances,Coffee Maker,3,The Coffee Maker is okay. Nothing special but does the job.,Latin America,Neutral
+REV0101,2026-02-07,Electronics,Portable Charger,2,Not happy at all. The Portable Charger is cheaply made and unreliable.,Europe,Negative
+REV0102,2026-01-10,Fashion,Wrist Watch,2,The Wrist Watch arrived late and in poor condition. Very disappointed.,Middle East,Negative
+REV0103,2026-02-04,Beauty,Hair Straightener,2,Poor quality control. My Hair Straightener had multiple defects.,Europe,Negative
+REV0104,2025-07-16,Home Appliances,Microwave Oven,5,Couldn't be happier with my Microwave Oven. Five stars all the way!,Middle East,Positive
+REV0105,2026-05-10,Beauty,Skincare Set,5,Perfect! Exactly what I was looking for. Highly recommend the Skincare Set.,Latin America,Positive
+REV0106,2025-09-18,Home Appliances,Iron,5,Best Iron I've ever owned. Worth every penny!,North America,Positive
+REV0107,2026-02-21,Fashion,Denim Jeans,5,Outstanding product! The Denim Jeans has made my life so much easier.,Middle East,Positive
+REV0108,2025-10-03,Beauty,Nail Polish,4,Great quality and fast shipping. The Nail Polish exceeded my expectations.,Asia Pacific,Positive
+REV0109,2025-09-23,Beauty,Makeup Kit,5,Outstanding product! The Makeup Kit has made my life so much easier.,Middle East,Positive
+REV0110,2026-02-28,Home Appliances,Electric Kettle,2,Poor quality control. My Electric Kettle had multiple defects.,Latin America,Negative
+REV0111,2025-10-18,Home Appliances,Iron,4,Excellent quality for the price. The Iron is fantastic.,North America,Positive
+REV0112,2026-03-03,Fashion,Winter Jacket,5,Very satisfied with my Winter Jacket. Will definitely buy again.,Middle East,Positive
+REV0113,2026-02-25,Books,Science Fiction,1,The Science Fiction is nothing like the pictures. Very misleading.,Europe,Negative
+REV0114,2025-12-03,Fashion,Summer Dress,4,Very satisfied with my Summer Dress. Will definitely buy again.,North America,Positive
+REV0115,2025-06-29,Books,Science Fiction,3,Middle of the road Science Fiction. Acceptable but not impressive.,Latin America,Neutral
+REV0116,2025-07-24,Electronics,Tablet Screen Protector,5,Outstanding product! The Tablet Screen Protector has made my life so much easier.,Asia Pacific,Positive
+REV0117,2025-09-04,Electronics,Wireless Mouse,2,Not worth the money. The Wireless Mouse stopped working after a few days.,North America,Negative
+REV0118,2025-12-24,Beauty,Lipstick Set,3,"It's a decent Lipstick Set. Not great, not terrible.",Europe,Neutral
+REV0119,2026-03-17,Home Appliances,Coffee Maker,1,Very frustrated with this Coffee Maker. Save your money and buy something else.,Latin America,Negative
+REV0120,2026-04-08,Books,Biography,5,Outstanding product! The Biography has made my life so much easier.,Latin America,Positive
+REV0121,2025-11-01,Books,Business Strategy,4,Couldn't be happier with my Business Strategy. Five stars all the way!,North America,Positive
+REV0122,2025-09-16,Fashion,Summer Dress,3,The Summer Dress is fine for basic use. Could be better.,Europe,Neutral
+REV0123,2026-03-11,Electronics,Laptop Stand,5,Fantastic quality and arrived quickly. Love my new Laptop Stand!,Middle East,Positive
+REV0124,2026-01-28,Home Appliances,Air Fryer,5,Fantastic quality and arrived quickly. Love my new Air Fryer!,Latin America,Positive
+REV0125,2025-07-08,Fashion,Summer Dress,1,Regret buying this Summer Dress. It's overpriced for what you get.,North America,Negative
+REV0126,2026-03-07,Fashion,Running Shoes,1,Not worth the money. The Running Shoes stopped working after a few days.,North America,Negative
+REV0127,2025-08-25,Home Appliances,Heater,3,It's an okay Heater. Nothing to write home about.,North America,Neutral
+REV0128,2026-01-27,Home Appliances,Electric Kettle,2,Worst purchase ever. The Electric Kettle doesn't work as advertised.,North America,Negative
+REV0129,2026-04-04,Electronics,Portable Charger,3,The Portable Charger is okay. Nothing special but does the job.,North America,Neutral
+REV0130,2025-09-27,Books,Biography,2,The Biography arrived late and in poor condition. Very disappointed.,North America,Negative
+REV0131,2025-08-30,Beauty,Body Lotion,3,"It's a decent Body Lotion. Not great, not terrible.",Middle East,Neutral
+REV0132,2026-01-11,Beauty,Lipstick Set,3,Standard quality Lipstick Set. Does what it's supposed to do.,Asia Pacific,Neutral
+REV0133,2026-05-11,Electronics,Laptop Stand,5,Very satisfied with my Laptop Stand. Will definitely buy again.,Latin America,Positive
+REV0134,2026-03-10,Electronics,Webcam HD,5,Excellent quality for the price. The Webcam HD is fantastic.,North America,Positive
+REV0135,2025-12-25,Books,Python Programming Book,3,The Python Programming Book is adequate. Meets minimum requirements.,North America,Neutral
+REV0136,2025-09-06,Books,History Book,3,Middle of the road History Book. Acceptable but not impressive.,Latin America,Neutral
+REV0137,2025-06-28,Fashion,Summer Dress,3,It's an okay Summer Dress. Nothing to write home about.,Latin America,Neutral
+REV0138,2025-08-03,Electronics,Tablet Screen Protector,1,The Tablet Screen Protector is nothing like the pictures. Very misleading.,Middle East,Negative
+REV0139,2025-06-09,Books,Business Strategy,4,Outstanding product! The Business Strategy has made my life so much easier.,North America,Positive
+REV0140,2026-04-29,Fashion,Backpack,2,Very frustrated with this Backpack. Save your money and buy something else.,Asia Pacific,Negative
+REV0141,2025-12-31,Beauty,Nail Polish,4,Super happy with this Nail Polish. It's even better than described.,Europe,Positive
+REV0142,2026-04-04,Books,Self-Help Book,2,Avoid this Self-Help Book. It's a complete waste of time and money.,Latin America,Negative
+REV0143,2025-11-23,Books,Science Fiction,2,Not happy at all. The Science Fiction is cheaply made and unreliable.,Asia Pacific,Negative
+REV0144,2026-03-29,Books,Art Design,2,Very frustrated with this Art Design. Save your money and buy something else.,Latin America,Negative
+REV0145,2025-11-25,Home Appliances,Fan,2,Worst purchase ever. The Fan doesn't work as advertised.,Asia Pacific,Negative
+REV0146,2025-09-06,Fashion,Casual Sneakers,5,Absolutely love this Casual Sneakers! Best purchase I've made this year.,Asia Pacific,Positive
+REV0147,2026-01-30,Beauty,Hair Straightener,1,Worst purchase ever. The Hair Straightener doesn't work as advertised.,North America,Negative
+REV0148,2025-08-05,Books,Biography,4,Perfect condition and works perfectly. The Biography is amazing!,Latin America,Positive
+REV0149,2025-07-23,Books,Art Design,4,Super happy with this Art Design. It's even better than described.,Europe,Positive
+REV0150,2025-07-10,Beauty,Perfume,5,The Perfume is exactly what I needed. Great value for money.,North America,Positive
+REV0151,2025-11-17,Books,Business Strategy,2,The Business Strategy is nothing special. Expected much better for the price.,Middle East,Negative
+REV0152,2025-06-20,Books,Novel Collection,5,Amazing product! The Novel Collection works perfectly and looks great.,North America,Positive
+REV0153,2026-01-10,Electronics,Smart Watch Pro,5,Great investment! The Smart Watch Pro has exceeded all my expectations.,North America,Positive
+REV0154,2025-06-25,Home Appliances,Air Fryer,5,Super happy with this Air Fryer. It's even better than described.,Europe,Positive
+REV0155,2025-10-05,Books,Business Strategy,3,"It's a decent Business Strategy. Not great, not terrible.",Europe,Neutral
+REV0156,2025-07-12,Books,Business Strategy,3,It's an okay Business Strategy. Nothing to write home about.,Middle East,Neutral
+REV0157,2025-08-14,Fashion,Backpack,3,"Received the Backpack as described. No complaints, no praise.",North America,Neutral
+REV0158,2026-01-26,Home Appliances,Fan,5,Excellent quality for the price. The Fan is fantastic.,Middle East,Positive
+REV0159,2025-11-02,Beauty,Perfume,3,The Perfume is fine for basic use. Could be better.,Latin America,Neutral
+REV0160,2026-02-04,Electronics,USB-C Hub,5,Couldn't be happier with my USB-C Hub. Five stars all the way!,Asia Pacific,Positive
+REV0161,2026-05-26,Home Appliances,Air Fryer,2,The Air Fryer is nothing like the pictures. Very misleading.,North America,Negative
+REV0162,2026-03-18,Electronics,Tablet Screen Protector,3,It's a standard Tablet Screen Protector. Does the job but nothing special.,Europe,Neutral
+REV0163,2026-04-08,Home Appliances,Vacuum Cleaner,3,Middle of the road Vacuum Cleaner. Acceptable but not impressive.,Europe,Neutral
+REV0164,2026-04-19,Electronics,Wireless Bluetooth Headphones,5,Absolutely love this Wireless Bluetooth Headphones! Best purchase I've made this year.,Middle East,Positive
+REV0165,2025-12-05,Fashion,Denim Jeans,2,Not happy at all. The Denim Jeans is cheaply made and unreliable.,Latin America,Negative
+REV0166,2025-08-30,Fashion,Running Shoes,2,Very frustrated with this Running Shoes. Save your money and buy something else.,Middle East,Negative
+REV0167,2025-10-19,Fashion,Summer Dress,2,Avoid this Summer Dress. It's a complete waste of time and money.,Asia Pacific,Negative
+REV0168,2025-11-22,Electronics,Webcam HD,1,Avoid this Webcam HD. It's a complete waste of time and money.,Europe,Negative
+REV0169,2026-05-14,Beauty,Body Lotion,5,Absolutely love this Body Lotion! Best purchase I've made this year.,Asia Pacific,Positive
+REV0170,2026-03-03,Electronics,Webcam HD,5,Couldn't be happier with my Webcam HD. Five stars all the way!,Latin America,Positive
+REV0171,2026-04-24,Home Appliances,Coffee Maker,3,The Coffee Maker is okay. Nothing special but does the job.,Middle East,Neutral
+REV0172,2026-03-16,Home Appliances,Heater,4,The Heater is exactly what I needed. Great value for money.,Latin America,Positive
+REV0173,2026-05-26,Home Appliances,Electric Kettle,4,Absolutely love this Electric Kettle! Best purchase I've made this year.,Asia Pacific,Positive
+REV0174,2026-02-09,Electronics,Smart Watch Pro,4,Super happy with this Smart Watch Pro. It's even better than described.,Latin America,Positive
+REV0175,2025-12-08,Books,Business Strategy,3,The Business Strategy is satisfactory. Meets basic needs.,Latin America,Neutral
+REV0176,2026-05-03,Electronics,Webcam HD,3,The Webcam HD is okay. Nothing special but does the job.,Asia Pacific,Neutral
+REV0177,2025-09-21,Beauty,Nail Polish,2,Not worth the money. The Nail Polish stopped working after a few days.,Asia Pacific,Negative
+REV0178,2026-03-07,Home Appliances,Air Fryer,4,Great quality and fast shipping. The Air Fryer exceeded my expectations.,Latin America,Positive
+REV0179,2025-07-18,Fashion,Casual Sneakers,1,Avoid this Casual Sneakers. It's a complete waste of time and money.,Asia Pacific,Negative
+REV0180,2025-10-04,Fashion,Casual Sneakers,4,Couldn't be happier with my Casual Sneakers. Five stars all the way!,Europe,Positive
+REV0181,2025-09-29,Home Appliances,Blender,1,The Blender is nothing like the pictures. Very misleading.,Europe,Negative
+REV0182,2025-08-07,Books,Science Fiction,1,Absolutely terrible Science Fiction. Broke after first use.,North America,Negative
+REV0183,2025-08-08,Electronics,Mechanical Keyboard,1,The Mechanical Keyboard arrived late and in poor condition. Very disappointed.,Asia Pacific,Negative
+REV0184,2025-06-10,Fashion,Summer Dress,5,Best Summer Dress I've ever owned. Worth every penny!,North America,Positive
+REV0185,2025-07-04,Beauty,Nail Polish,1,Worst purchase ever. The Nail Polish doesn't work as advertised.,Middle East,Negative
+REV0186,2025-09-23,Books,Python Programming Book,3,It's an okay Python Programming Book. Nothing to write home about.,North America,Neutral
+REV0187,2025-07-03,Beauty,Hair Straightener,4,Outstanding product! The Hair Straightener has made my life so much easier.,Latin America,Positive
+REV0188,2025-07-09,Electronics,Mechanical Keyboard,3,"It's a decent Mechanical Keyboard. Not great, not terrible.",Asia Pacific,Neutral
+REV0189,2026-04-17,Books,Children Stories,3,The Children Stories is decent value. Nothing extraordinary.,Middle East,Neutral
+REV0190,2025-10-30,Beauty,Body Lotion,3,It's a standard Body Lotion. Does the job but nothing special.,North America,Neutral
+REV0191,2026-05-03,Books,Cooking Recipes,4,Super happy with this Cooking Recipes. It's even better than described.,Asia Pacific,Positive
+REV0192,2026-01-20,Beauty,Hair Straightener,3,The Hair Straightener is adequate. Meets minimum requirements.,Asia Pacific,Neutral
+REV0193,2026-05-08,Home Appliances,Toaster,2,Not worth the money. The Toaster stopped working after a few days.,North America,Negative
+REV0194,2025-07-15,Electronics,Portable Charger,5,This Portable Charger is a game-changer. So happy with my purchase.,Europe,Positive
+REV0195,2026-03-13,Electronics,Tablet Screen Protector,2,Absolutely terrible Tablet Screen Protector. Broke after first use.,North America,Negative
+REV0196,2025-12-29,Home Appliances,Electric Kettle,1,The Electric Kettle is nothing like the pictures. Very misleading.,Middle East,Negative
+REV0197,2025-11-08,Home Appliances,Coffee Maker,3,"It's a decent Coffee Maker. Not great, not terrible.",Latin America,Neutral
+REV0198,2025-09-24,Electronics,Mechanical Keyboard,2,Not worth the money. The Mechanical Keyboard stopped working after a few days.,Asia Pacific,Negative
+REV0199,2026-03-22,Fashion,Sunglasses,1,The Sunglasses arrived late and in poor condition. Very disappointed.,Asia Pacific,Negative
+REV0200,2025-06-16,Fashion,Summer Dress,3,The Summer Dress is satisfactory. Meets basic needs.,Asia Pacific,Neutral
+REV0201,2025-11-28,Electronics,Laptop Stand,2,Not worth the money. The Laptop Stand stopped working after a few days.,Europe,Negative
+REV0202,2026-04-22,Electronics,Smart Watch Pro,3,The Smart Watch Pro is adequate. Meets minimum requirements.,Latin America,Neutral
+REV0203,2026-01-20,Home Appliances,Blender,5,This Blender is a game-changer. So happy with my purchase.,Middle East,Positive
+REV0204,2026-04-03,Electronics,Wireless Bluetooth Headphones,4,The Wireless Bluetooth Headphones is exactly what I needed. Great value for money.,North America,Positive
+REV0205,2025-10-19,Beauty,Hair Straightener,3,The Hair Straightener is adequate. Meets minimum requirements.,Asia Pacific,Neutral
+REV0206,2025-09-20,Books,Novel Collection,4,Very satisfied with my Novel Collection. Will definitely buy again.,Middle East,Positive
+REV0207,2026-02-06,Books,Science Fiction,5,Couldn't be happier with my Science Fiction. Five stars all the way!,North America,Positive
+REV0208,2025-06-05,Fashion,Summer Dress,1,Avoid this Summer Dress. It's a complete waste of time and money.,Asia Pacific,Negative
+REV0209,2025-10-28,Home Appliances,Coffee Maker,5,Perfect! Exactly what I was looking for. Highly recommend the Coffee Maker.,Europe,Positive
+REV0210,2025-12-13,Books,Cooking Recipes,3,Average quality for the price. The Cooking Recipes meets basic expectations.,Latin America,Neutral
+REV0211,2025-06-23,Beauty,Face Moisturizer,3,Average experience with the Face Moisturizer. Could use some improvements.,Asia Pacific,Neutral
+REV0212,2026-03-23,Beauty,Sunscreen,5,Very satisfied with my Sunscreen. Will definitely buy again.,North America,Positive
+REV0213,2025-12-26,Electronics,Mechanical Keyboard,5,Perfect condition and works perfectly. The Mechanical Keyboard is amazing!,Asia Pacific,Positive
+REV0214,2025-07-17,Beauty,Lipstick Set,5,Best Lipstick Set I've ever owned. Worth every penny!,North America,Positive
+REV0215,2025-12-21,Home Appliances,Toaster,4,Great quality and fast shipping. The Toaster exceeded my expectations.,Middle East,Positive
+REV0216,2026-04-22,Electronics,Smartphone Case,3,Standard quality Smartphone Case. Does what it's supposed to do.,Europe,Neutral
+REV0217,2025-09-30,Electronics,Laptop Stand,4,Couldn't be happier with my Laptop Stand. Five stars all the way!,Europe,Positive
+REV0218,2026-05-03,Electronics,Laptop Stand,2,Worst purchase ever. The Laptop Stand doesn't work as advertised.,Middle East,Negative
+REV0219,2026-03-25,Beauty,Sunscreen,3,Average experience with the Sunscreen. Could use some improvements.,Asia Pacific,Neutral
+REV0220,2025-08-18,Beauty,Lipstick Set,3,It's a standard Lipstick Set. Does the job but nothing special.,Asia Pacific,Neutral
+REV0221,2026-03-31,Electronics,Mechanical Keyboard,3,It's an okay Mechanical Keyboard. Nothing to write home about.,Latin America,Neutral
+REV0222,2025-06-21,Electronics,Mechanical Keyboard,1,Absolutely terrible Mechanical Keyboard. Broke after first use.,North America,Negative
+REV0223,2026-04-12,Books,Children Stories,4,Outstanding product! The Children Stories has made my life so much easier.,Middle East,Positive
+REV0224,2026-05-01,Fashion,Leather Belt,3,The Leather Belt is okay. Nothing special but does the job.,Latin America,Neutral
+REV0225,2025-07-24,Home Appliances,Coffee Maker,3,The Coffee Maker is okay. Nothing special but does the job.,Europe,Neutral
+REV0226,2026-05-30,Beauty,Nail Polish,3,Standard quality Nail Polish. Does what it's supposed to do.,Asia Pacific,Neutral
+REV0227,2025-10-24,Beauty,Hair Straightener,1,Avoid this Hair Straightener. It's a complete waste of time and money.,Asia Pacific,Negative
+REV0228,2025-07-05,Home Appliances,Coffee Maker,3,"Received the Coffee Maker as described. No complaints, no praise.",Asia Pacific,Neutral
+REV0229,2026-05-04,Books,Self-Help Book,4,Great investment! The Self-Help Book has exceeded all my expectations.,Asia Pacific,Positive
+REV0230,2025-11-07,Beauty,Hair Dryer,3,"Received the Hair Dryer as described. No complaints, no praise.",Middle East,Neutral
+REV0231,2025-12-11,Home Appliances,Blender,3,Middle of the road Blender. Acceptable but not impressive.,Latin America,Neutral
+REV0232,2026-02-17,Home Appliances,Air Fryer,4,Amazing product! The Air Fryer works perfectly and looks great.,Asia Pacific,Positive
+REV0233,2026-02-05,Fashion,Winter Jacket,1,Not worth the money. The Winter Jacket stopped working after a few days.,Asia Pacific,Negative
+REV0234,2025-07-23,Books,Children Stories,1,Absolutely terrible Children Stories. Broke after first use.,Asia Pacific,Negative
+REV0235,2026-04-14,Fashion,Casual Sneakers,4,Perfect! Exactly what I was looking for. Highly recommend the Casual Sneakers.,Middle East,Positive
+REV0236,2025-08-25,Beauty,Face Moisturizer,4,Outstanding product! The Face Moisturizer has made my life so much easier.,Middle East,Positive
+REV0237,2025-10-25,Beauty,Makeup Kit,3,It's a standard Makeup Kit. Does the job but nothing special.,Latin America,Neutral
+REV0238,2025-09-09,Home Appliances,Heater,2,Avoid this Heater. It's a complete waste of time and money.,Asia Pacific,Negative
+REV0239,2025-12-14,Books,Children Stories,4,Perfect condition and works perfectly. The Children Stories is amazing!,Europe,Positive
+REV0240,2026-04-07,Fashion,Summer Dress,5,Perfect condition and works perfectly. The Summer Dress is amazing!,Asia Pacific,Positive
+REV0241,2026-03-12,Electronics,Smartphone Case,2,Not worth the money. The Smartphone Case stopped working after a few days.,Europe,Negative
+REV0242,2025-10-19,Beauty,Body Lotion,5,Great quality and fast shipping. The Body Lotion exceeded my expectations.,Europe,Positive
+REV0243,2026-01-18,Home Appliances,Air Fryer,5,Best Air Fryer I've ever owned. Worth every penny!,Asia Pacific,Positive
+REV0244,2025-09-30,Beauty,Lipstick Set,4,Excellent quality for the price. The Lipstick Set is fantastic.,North America,Positive
+REV0245,2026-06-02,Home Appliances,Blender,5,Great investment! The Blender has exceeded all my expectations.,Latin America,Positive
+REV0246,2026-05-24,Fashion,Backpack,4,Great investment! The Backpack has exceeded all my expectations.,North America,Positive
+REV0247,2025-06-11,Home Appliances,Vacuum Cleaner,2,Not worth the money. The Vacuum Cleaner stopped working after a few days.,Asia Pacific,Negative
+REV0248,2025-10-01,Home Appliances,Coffee Maker,5,The Coffee Maker is exactly what I needed. Great value for money.,Middle East,Positive
+REV0249,2026-01-22,Electronics,Smart Watch Pro,2,The Smart Watch Pro arrived late and in poor condition. Very disappointed.,Middle East,Negative
+REV0250,2025-06-10,Books,Biography,4,Very satisfied with my Biography. Will definitely buy again.,Latin America,Positive
+REV0251,2025-06-02,Books,History Book,5,Perfect! Exactly what I was looking for. Highly recommend the History Book.,North America,Positive
+REV0252,2026-02-25,Home Appliances,Coffee Maker,1,Regret buying this Coffee Maker. It's overpriced for what you get.,Latin America,Negative
+REV0253,2025-06-24,Beauty,Skincare Set,4,Excellent quality for the price. The Skincare Set is fantastic.,North America,Positive
+REV0254,2025-11-25,Fashion,Denim Jeans,2,Terrible experience. The Denim Jeans arrived damaged and customer service was unhelpful.,North America,Negative
+REV0255,2025-11-29,Books,History Book,1,The History Book is nothing special. Expected much better for the price.,Latin America,Negative
+REV0256,2026-05-24,Beauty,Hair Dryer,1,Not happy at all. The Hair Dryer is cheaply made and unreliable.,Latin America,Negative
+REV0257,2025-06-20,Home Appliances,Vacuum Cleaner,4,Great investment! The Vacuum Cleaner has exceeded all my expectations.,North America,Positive
+REV0258,2025-11-10,Home Appliances,Fan,5,Very satisfied with my Fan. Will definitely buy again.,North America,Positive
+REV0259,2026-04-29,Fashion,Summer Dress,4,Perfect condition and works perfectly. The Summer Dress is amazing!,Asia Pacific,Positive
+REV0260,2025-10-19,Electronics,Mechanical Keyboard,5,Fantastic quality and arrived quickly. Love my new Mechanical Keyboard!,Latin America,Positive
+REV0261,2025-12-16,Home Appliances,Blender,3,Standard quality Blender. Does what it's supposed to do.,Middle East,Neutral
+REV0262,2025-10-16,Electronics,Portable Charger,4,Best Portable Charger I've ever owned. Worth every penny!,Asia Pacific,Positive
+REV0263,2025-11-13,Electronics,Smart Watch Pro,5,Very satisfied with my Smart Watch Pro. Will definitely buy again.,Latin America,Positive
+REV0264,2026-04-06,Beauty,Hair Dryer,3,It's an okay Hair Dryer. Nothing to write home about.,North America,Neutral
+REV0265,2025-11-29,Books,Business Strategy,4,Great quality and fast shipping. The Business Strategy exceeded my expectations.,Latin America,Positive
+REV0266,2025-12-05,Books,Self-Help Book,1,The Self-Help Book is nothing special. Expected much better for the price.,Middle East,Negative
+REV0267,2026-05-15,Beauty,Face Moisturizer,4,This Face Moisturizer is a game-changer. So happy with my purchase.,Asia Pacific,Positive
+REV0268,2025-12-04,Beauty,Sunscreen,4,The Sunscreen is exactly what I needed. Great value for money.,Latin America,Positive
+REV0269,2025-12-08,Home Appliances,Microwave Oven,1,Very frustrated with this Microwave Oven. Save your money and buy something else.,Asia Pacific,Negative
+REV0270,2025-12-22,Home Appliances,Iron,4,Absolutely love this Iron! Best purchase I've made this year.,Europe,Positive
+REV0271,2026-02-12,Books,Business Strategy,1,The Business Strategy is nothing like the pictures. Very misleading.,Asia Pacific,Negative
+REV0272,2026-05-28,Beauty,Makeup Kit,2,Not happy at all. The Makeup Kit is cheaply made and unreliable.,Latin America,Negative
+REV0273,2025-09-12,Electronics,Laptop Stand,2,Terrible experience. The Laptop Stand arrived damaged and customer service was unhelpful.,Latin America,Negative
+REV0274,2025-07-16,Home Appliances,Toaster,3,The Toaster is satisfactory. Meets basic needs.,Asia Pacific,Neutral
+REV0275,2025-08-21,Fashion,Leather Belt,3,The Leather Belt is fine for basic use. Could be better.,Europe,Neutral
+REV0276,2025-10-01,Beauty,Face Moisturizer,5,Outstanding product! The Face Moisturizer has made my life so much easier.,Middle East,Positive
+REV0277,2025-08-07,Books,Novel Collection,5,Fantastic quality and arrived quickly. Love my new Novel Collection!,Latin America,Positive
+REV0278,2026-02-26,Beauty,Hair Straightener,1,Terrible experience. The Hair Straightener arrived damaged and customer service was unhelpful.,Asia Pacific,Negative
+REV0279,2026-04-26,Electronics,Webcam HD,3,"It's a decent Webcam HD. Not great, not terrible.",Middle East,Neutral
+REV0280,2026-04-25,Books,Self-Help Book,1,Regret buying this Self-Help Book. It's overpriced for what you get.,Middle East,Negative
+REV0281,2025-06-30,Electronics,Smartphone Case,4,Perfect! Exactly what I was looking for. Highly recommend the Smartphone Case.,Asia Pacific,Positive
+REV0282,2026-05-31,Fashion,Leather Belt,2,The Leather Belt is nothing special. Expected much better for the price.,North America,Negative
+REV0283,2025-10-08,Fashion,Wrist Watch,5,Couldn't be happier with my Wrist Watch. Five stars all the way!,Middle East,Positive
+REV0284,2025-07-19,Books,Self-Help Book,3,"It's a decent Self-Help Book. Not great, not terrible.",Middle East,Neutral
+REV0285,2026-04-07,Home Appliances,Heater,4,Great quality and fast shipping. The Heater exceeded my expectations.,North America,Positive
+REV0286,2026-04-26,Books,Science Fiction,3,The Science Fiction is decent value. Nothing extraordinary.,North America,Neutral
+REV0287,2026-02-11,Books,Science Fiction,3,It's an okay Science Fiction. Nothing to write home about.,Europe,Neutral
+REV0288,2026-05-18,Beauty,Perfume,3,"It's a decent Perfume. Not great, not terrible.",Latin America,Neutral
+REV0289,2025-12-31,Beauty,Nail Polish,4,Excellent quality for the price. The Nail Polish is fantastic.,Asia Pacific,Positive
+REV0290,2025-11-25,Beauty,Hair Dryer,1,Poor quality control. My Hair Dryer had multiple defects.,Europe,Negative
+REV0291,2026-01-26,Electronics,Wireless Mouse,4,Great quality and fast shipping. The Wireless Mouse exceeded my expectations.,North America,Positive
+REV0292,2025-10-28,Beauty,Sunscreen,4,Perfect condition and works perfectly. The Sunscreen is amazing!,Asia Pacific,Positive
+REV0293,2026-03-24,Home Appliances,Vacuum Cleaner,2,Very frustrated with this Vacuum Cleaner. Save your money and buy something else.,Latin America,Negative
+REV0294,2026-02-12,Home Appliances,Microwave Oven,5,Best Microwave Oven I've ever owned. Worth every penny!,Latin America,Positive
+REV0295,2025-10-03,Fashion,Casual Sneakers,4,Very satisfied with my Casual Sneakers. Will definitely buy again.,Latin America,Positive
+REV0296,2026-04-03,Beauty,Perfume,3,The Perfume is adequate. Meets minimum requirements.,Europe,Neutral
+REV0297,2025-10-15,Home Appliances,Electric Kettle,5,Absolutely love this Electric Kettle! Best purchase I've made this year.,Middle East,Positive
+REV0298,2026-03-16,Fashion,Leather Belt,3,The Leather Belt is adequate. Meets minimum requirements.,Middle East,Neutral
+REV0299,2026-01-18,Books,Science Fiction,1,Terrible experience. The Science Fiction arrived damaged and customer service was unhelpful.,North America,Negative
+REV0300,2025-12-20,Home Appliances,Toaster,3,It's a standard Toaster. Does the job but nothing special.,Europe,Neutral
+REV0301,2025-09-11,Books,Children Stories,4,Absolutely love this Children Stories! Best purchase I've made this year.,North America,Positive
+REV0302,2025-08-11,Home Appliances,Microwave Oven,3,The Microwave Oven is decent value. Nothing extraordinary.,Middle East,Neutral
+REV0303,2025-08-12,Home Appliances,Heater,5,Couldn't be happier with my Heater. Five stars all the way!,Asia Pacific,Positive
+REV0304,2026-04-01,Home Appliances,Fan,2,Not happy at all. The Fan is cheaply made and unreliable.,Middle East,Negative
+REV0305,2025-11-02,Beauty,Face Moisturizer,4,Super happy with this Face Moisturizer. It's even better than described.,Middle East,Positive
+REV0306,2025-11-06,Electronics,Tablet Screen Protector,3,"The Tablet Screen Protector works as expected. Nothing more, nothing less.",North America,Neutral
+REV0307,2026-03-27,Beauty,Hair Dryer,3,"It's a decent Hair Dryer. Not great, not terrible.",Europe,Neutral
+REV0308,2025-06-18,Books,Novel Collection,5,Excellent quality for the price. The Novel Collection is fantastic.,Latin America,Positive
+REV0309,2025-08-18,Beauty,Makeup Kit,5,Perfect condition and works perfectly. The Makeup Kit is amazing!,North America,Positive
+REV0310,2026-05-29,Fashion,Wrist Watch,5,The Wrist Watch is exactly what I needed. Great value for money.,Latin America,Positive
+REV0311,2026-02-26,Beauty,Skincare Set,2,Poor quality and bad customer service. Do not buy this Skincare Set.,Middle East,Negative
+REV0312,2025-11-24,Books,History Book,3,The History Book is decent value. Nothing extraordinary.,Latin America,Neutral
+REV0313,2025-09-08,Fashion,Summer Dress,3,"Received the Summer Dress as described. No complaints, no praise.",Asia Pacific,Neutral
+REV0314,2026-05-28,Fashion,Backpack,5,Best Backpack I've ever owned. Worth every penny!,Asia Pacific,Positive
+REV0315,2025-10-27,Electronics,Tablet Screen Protector,3,The Tablet Screen Protector is satisfactory. Meets basic needs.,Latin America,Neutral
+REV0316,2025-11-25,Fashion,Summer Dress,4,Excellent quality for the price. The Summer Dress is fantastic.,Latin America,Positive
+REV0317,2026-05-03,Home Appliances,Microwave Oven,5,Great investment! The Microwave Oven has exceeded all my expectations.,Middle East,Positive
+REV0318,2026-05-24,Home Appliances,Blender,4,Amazing product! The Blender works perfectly and looks great.,North America,Positive
+REV0319,2026-05-10,Books,Cooking Recipes,3,Average quality for the price. The Cooking Recipes meets basic expectations.,Latin America,Neutral
+REV0320,2025-11-18,Beauty,Lipstick Set,3,The Lipstick Set is okay. Nothing special but does the job.,Middle East,Neutral
+REV0321,2025-08-21,Beauty,Nail Polish,3,It's a standard Nail Polish. Does the job but nothing special.,Asia Pacific,Neutral
+REV0322,2025-11-13,Home Appliances,Air Fryer,1,Absolutely terrible Air Fryer. Broke after first use.,Middle East,Negative
+REV0323,2025-09-28,Books,Python Programming Book,1,Regret buying this Python Programming Book. It's overpriced for what you get.,Europe,Negative
+REV0324,2025-06-20,Beauty,Nail Polish,5,Great investment! The Nail Polish has exceeded all my expectations.,North America,Positive
+REV0325,2025-06-06,Home Appliances,Heater,3,"Received the Heater as described. No complaints, no praise.",Latin America,Neutral
+REV0326,2026-04-26,Books,Children Stories,3,Average experience with the Children Stories. Could use some improvements.,Middle East,Neutral
+REV0327,2026-01-27,Home Appliances,Vacuum Cleaner,2,Terrible experience. The Vacuum Cleaner arrived damaged and customer service was unhelpful.,Latin America,Negative
+REV0328,2026-04-29,Home Appliances,Blender,5,This Blender is a game-changer. So happy with my purchase.,Asia Pacific,Positive
+REV0329,2026-03-19,Fashion,Running Shoes,3,Average experience with the Running Shoes. Could use some improvements.,Latin America,Neutral
+REV0330,2026-02-20,Home Appliances,Coffee Maker,4,Perfect! Exactly what I was looking for. Highly recommend the Coffee Maker.,Europe,Positive
+REV0331,2026-02-01,Home Appliances,Vacuum Cleaner,5,Amazing product! The Vacuum Cleaner works perfectly and looks great.,Latin America,Positive
+REV0332,2025-10-16,Home Appliances,Iron,3,"Received the Iron as described. No complaints, no praise.",Asia Pacific,Neutral
+REV0333,2026-05-22,Fashion,Cotton T-Shirt,3,"Received the Cotton T-Shirt as described. No complaints, no praise.",Europe,Neutral
+REV0334,2025-12-26,Books,Science Fiction,3,Standard quality Science Fiction. Does what it's supposed to do.,Middle East,Neutral
+REV0335,2025-09-23,Fashion,Running Shoes,3,"The Running Shoes works as expected. Nothing more, nothing less.",Middle East,Neutral
+REV0336,2025-12-10,Beauty,Body Lotion,1,Avoid this Body Lotion. It's a complete waste of time and money.,Europe,Negative
+REV0337,2026-05-16,Books,Novel Collection,3,Average quality for the price. The Novel Collection meets basic expectations.,Middle East,Neutral
+REV0338,2025-07-29,Electronics,Smartphone Case,1,The Smartphone Case arrived late and in poor condition. Very disappointed.,Middle East,Negative
+REV0339,2025-08-17,Fashion,Leather Belt,2,Not worth the money. The Leather Belt stopped working after a few days.,Europe,Negative
+REV0340,2026-03-27,Beauty,Lipstick Set,2,Avoid this Lipstick Set. It's a complete waste of time and money.,North America,Negative
+REV0341,2026-01-20,Fashion,Wrist Watch,4,Best Wrist Watch I've ever owned. Worth every penny!,Latin America,Positive
+REV0342,2026-05-12,Home Appliances,Air Fryer,4,Fantastic quality and arrived quickly. Love my new Air Fryer!,Europe,Positive
+REV0343,2026-03-25,Electronics,Wireless Bluetooth Headphones,4,Best Wireless Bluetooth Headphones I've ever owned. Worth every penny!,North America,Positive
+REV0344,2025-07-07,Beauty,Face Moisturizer,4,This Face Moisturizer is a game-changer. So happy with my purchase.,Europe,Positive
+REV0345,2026-04-26,Beauty,Skincare Set,2,Worst purchase ever. The Skincare Set doesn't work as advertised.,Latin America,Negative
+REV0346,2025-12-11,Electronics,Smartphone Case,5,Great quality and fast shipping. The Smartphone Case exceeded my expectations.,Europe,Positive
+REV0347,2026-03-04,Beauty,Body Lotion,4,Perfect condition and works perfectly. The Body Lotion is amazing!,North America,Positive
+REV0348,2025-06-13,Home Appliances,Microwave Oven,3,Basic functionality works. The Microwave Oven is average at best.,Latin America,Neutral
+REV0349,2025-09-27,Fashion,Backpack,5,Amazing product! The Backpack works perfectly and looks great.,North America,Positive
+REV0350,2025-06-18,Beauty,Sunscreen,1,Would not recommend this Sunscreen. Complete waste of money.,Europe,Negative
+REV0351,2025-07-06,Electronics,Tablet Screen Protector,4,Amazing product! The Tablet Screen Protector works perfectly and looks great.,North America,Positive
+REV0352,2025-12-24,Beauty,Makeup Kit,3,"It's a decent Makeup Kit. Not great, not terrible.",Middle East,Neutral
+REV0353,2025-10-28,Fashion,Casual Sneakers,5,Amazing product! The Casual Sneakers works perfectly and looks great.,Asia Pacific,Positive
+REV0354,2025-08-14,Books,Cooking Recipes,5,Absolutely love this Cooking Recipes! Best purchase I've made this year.,Middle East,Positive
+REV0355,2026-03-31,Fashion,Sunglasses,3,Standard quality Sunglasses. Does what it's supposed to do.,Latin America,Neutral
+REV0356,2026-02-25,Home Appliances,Electric Kettle,5,Super happy with this Electric Kettle. It's even better than described.,Europe,Positive
+REV0357,2026-03-04,Beauty,Makeup Kit,2,The Makeup Kit is nothing special. Expected much better for the price.,Europe,Negative
+REV0358,2026-01-25,Electronics,Smartphone Case,5,Best Smartphone Case I've ever owned. Worth every penny!,Middle East,Positive
+REV0359,2025-08-09,Beauty,Makeup Kit,5,The Makeup Kit is exactly what I needed. Great value for money.,North America,Positive
+REV0360,2026-01-18,Home Appliances,Coffee Maker,3,The Coffee Maker is okay. Nothing special but does the job.,Asia Pacific,Neutral
+REV0361,2025-12-12,Books,Biography,4,Amazing product! The Biography works perfectly and looks great.,Middle East,Positive
+REV0362,2026-05-11,Books,Cooking Recipes,3,"Received the Cooking Recipes as described. No complaints, no praise.",North America,Neutral
+REV0363,2025-09-18,Fashion,Denim Jeans,3,The Denim Jeans is satisfactory. Meets basic needs.,Europe,Neutral
+REV0364,2026-05-24,Books,Cooking Recipes,4,Best Cooking Recipes I've ever owned. Worth every penny!,Asia Pacific,Positive
+REV0365,2025-10-24,Beauty,Nail Polish,3,"Received the Nail Polish as described. No complaints, no praise.",Asia Pacific,Neutral
+REV0366,2025-12-03,Books,Art Design,3,It's a standard Art Design. Does the job but nothing special.,Asia Pacific,Neutral
+REV0367,2025-09-14,Home Appliances,Toaster,4,Fantastic quality and arrived quickly. Love my new Toaster!,Europe,Positive
+REV0368,2025-06-10,Home Appliances,Fan,2,The Fan is nothing like the pictures. Very misleading.,Europe,Negative
+REV0369,2025-09-10,Home Appliances,Vacuum Cleaner,4,Outstanding product! The Vacuum Cleaner has made my life so much easier.,Middle East,Positive
+REV0370,2026-05-03,Home Appliances,Iron,2,Not happy at all. The Iron is cheaply made and unreliable.,Latin America,Negative
+REV0371,2026-01-23,Fashion,Leather Belt,5,Perfect! Exactly what I was looking for. Highly recommend the Leather Belt.,Middle East,Positive
+REV0372,2026-04-26,Electronics,Smartphone Case,4,Perfect condition and works perfectly. The Smartphone Case is amazing!,North America,Positive
+REV0373,2025-06-05,Beauty,Hair Dryer,1,Not worth the money. The Hair Dryer stopped working after a few days.,Europe,Negative
+REV0374,2025-06-06,Fashion,Wrist Watch,3,The Wrist Watch is decent value. Nothing extraordinary.,Middle East,Neutral
+REV0375,2026-02-04,Beauty,Face Moisturizer,5,Absolutely love this Face Moisturizer! Best purchase I've made this year.,North America,Positive
+REV0376,2026-02-28,Home Appliances,Fan,1,Very frustrated with this Fan. Save your money and buy something else.,Latin America,Negative
+REV0377,2025-09-01,Electronics,Smart Watch Pro,3,The Smart Watch Pro is fine for basic use. Could be better.,Middle East,Neutral
+REV0378,2026-02-26,Home Appliances,Toaster,5,Great quality and fast shipping. The Toaster exceeded my expectations.,Asia Pacific,Positive
+REV0379,2025-12-26,Beauty,Sunscreen,4,Very satisfied with my Sunscreen. Will definitely buy again.,North America,Positive
+REV0380,2026-05-02,Electronics,Smart Watch Pro,5,Best Smart Watch Pro I've ever owned. Worth every penny!,Latin America,Positive
+REV0381,2025-06-30,Electronics,Laptop Stand,5,The Laptop Stand is exactly what I needed. Great value for money.,Asia Pacific,Positive
+REV0382,2026-03-18,Electronics,Smartphone Case,1,Would not recommend this Smartphone Case. Complete waste of money.,Middle East,Negative
+REV0383,2026-01-31,Home Appliances,Air Fryer,2,Poor quality and bad customer service. Do not buy this Air Fryer.,Middle East,Negative
+REV0384,2026-03-17,Electronics,Laptop Stand,2,Very disappointed with this Laptop Stand. Poor quality and broke after a week.,Europe,Negative
+REV0385,2026-03-29,Fashion,Sunglasses,2,Terrible experience. The Sunglasses arrived damaged and customer service was unhelpful.,Middle East,Negative
+REV0386,2025-10-03,Books,Business Strategy,3,The Business Strategy is adequate. Meets minimum requirements.,Europe,Neutral
+REV0387,2026-05-20,Electronics,Smartphone Case,3,The Smartphone Case is okay. Nothing special but does the job.,North America,Neutral
+REV0388,2026-01-11,Fashion,Denim Jeans,5,This Denim Jeans is a game-changer. So happy with my purchase.,Asia Pacific,Positive
+REV0389,2025-06-17,Home Appliances,Microwave Oven,3,Basic functionality works. The Microwave Oven is average at best.,Latin America,Neutral
+REV0390,2026-01-09,Fashion,Casual Sneakers,3,It's a standard Casual Sneakers. Does the job but nothing special.,Middle East,Neutral
+REV0391,2025-10-31,Fashion,Denim Jeans,4,Super happy with this Denim Jeans. It's even better than described.,Europe,Positive
+REV0392,2025-12-18,Home Appliances,Toaster,4,Very satisfied with my Toaster. Will definitely buy again.,Latin America,Positive
+REV0393,2025-12-03,Home Appliances,Coffee Maker,4,Super happy with this Coffee Maker. It's even better than described.,Latin America,Positive
+REV0394,2026-03-14,Books,Children Stories,4,Great quality and fast shipping. The Children Stories exceeded my expectations.,Asia Pacific,Positive
+REV0395,2026-03-12,Electronics,Tablet Screen Protector,3,Average experience with the Tablet Screen Protector. Could use some improvements.,Latin America,Neutral
+REV0396,2025-06-08,Home Appliances,Electric Kettle,4,Fantastic quality and arrived quickly. Love my new Electric Kettle!,Middle East,Positive
+REV0397,2025-10-04,Books,Children Stories,5,Perfect! Exactly what I was looking for. Highly recommend the Children Stories.,Europe,Positive
+REV0398,2025-10-17,Home Appliances,Iron,3,"It's a decent Iron. Not great, not terrible.",Latin America,Neutral
+REV0399,2025-10-21,Beauty,Perfume,3,Standard quality Perfume. Does what it's supposed to do.,Asia Pacific,Neutral
+REV0400,2025-10-06,Beauty,Sunscreen,3,Average quality for the price. The Sunscreen meets basic expectations.,Europe,Neutral
+REV0401,2025-11-04,Electronics,Portable Charger,5,This Portable Charger is a game-changer. So happy with my purchase.,Asia Pacific,Positive
+REV0402,2026-01-13,Home Appliances,Electric Kettle,1,The Electric Kettle is nothing like the pictures. Very misleading.,Asia Pacific,Negative
+REV0403,2026-04-06,Fashion,Backpack,5,Excellent quality for the price. The Backpack is fantastic.,Asia Pacific,Positive
+REV0404,2026-05-23,Beauty,Sunscreen,2,Regret buying this Sunscreen. It's overpriced for what you get.,Asia Pacific,Negative
+REV0405,2025-12-20,Home Appliances,Coffee Maker,1,The Coffee Maker arrived late and in poor condition. Very disappointed.,Middle East,Negative
+REV0406,2025-09-02,Books,Python Programming Book,2,Not happy at all. The Python Programming Book is cheaply made and unreliable.,Europe,Negative
+REV0407,2026-01-12,Home Appliances,Coffee Maker,2,Absolutely terrible Coffee Maker. Broke after first use.,Latin America,Negative
+REV0408,2025-08-12,Home Appliances,Vacuum Cleaner,4,Fantastic quality and arrived quickly. Love my new Vacuum Cleaner!,Latin America,Positive
+REV0409,2025-12-12,Electronics,Webcam HD,2,The Webcam HD arrived late and in poor condition. Very disappointed.,Latin America,Negative
+REV0410,2026-03-02,Books,Business Strategy,3,"The Business Strategy works as expected. Nothing more, nothing less.",Middle East,Neutral
+REV0411,2026-04-02,Electronics,Smart Watch Pro,2,Terrible experience. The Smart Watch Pro arrived damaged and customer service was unhelpful.,Middle East,Negative
+REV0412,2025-06-24,Books,Business Strategy,2,Avoid this Business Strategy. It's a complete waste of time and money.,Latin America,Negative
+REV0413,2025-07-26,Electronics,Smart Watch Pro,4,Outstanding product! The Smart Watch Pro has made my life so much easier.,Asia Pacific,Positive
+REV0414,2025-12-19,Beauty,Sunscreen,3,Standard quality Sunscreen. Does what it's supposed to do.,North America,Neutral
+REV0415,2026-02-04,Electronics,Wireless Mouse,4,Great quality and fast shipping. The Wireless Mouse exceeded my expectations.,Europe,Positive
+REV0416,2025-11-27,Home Appliances,Toaster,3,Basic functionality works. The Toaster is average at best.,Latin America,Neutral
+REV0417,2025-11-27,Beauty,Lipstick Set,5,Excellent quality for the price. The Lipstick Set is fantastic.,North America,Positive
+REV0418,2025-11-02,Electronics,Smart Watch Pro,5,The Smart Watch Pro is exactly what I needed. Great value for money.,North America,Positive
+REV0419,2026-05-14,Fashion,Winter Jacket,3,Standard quality Winter Jacket. Does what it's supposed to do.,Middle East,Neutral
+REV0420,2026-01-06,Beauty,Makeup Kit,1,Terrible experience. The Makeup Kit arrived damaged and customer service was unhelpful.,Latin America,Negative
+REV0421,2025-12-21,Electronics,Tablet Screen Protector,2,The Tablet Screen Protector arrived late and in poor condition. Very disappointed.,Latin America,Negative
+REV0422,2025-12-18,Electronics,USB-C Hub,4,Couldn't be happier with my USB-C Hub. Five stars all the way!,North America,Positive
+REV0423,2026-03-03,Fashion,Leather Belt,5,Great quality and fast shipping. The Leather Belt exceeded my expectations.,Asia Pacific,Positive
+REV0424,2026-05-11,Beauty,Body Lotion,2,The Body Lotion arrived late and in poor condition. Very disappointed.,Latin America,Negative
+REV0425,2026-04-10,Beauty,Sunscreen,5,Perfect condition and works perfectly. The Sunscreen is amazing!,Latin America,Positive
+REV0426,2026-04-14,Fashion,Summer Dress,1,Absolutely terrible Summer Dress. Broke after first use.,Europe,Negative
+REV0427,2025-11-09,Electronics,USB-C Hub,4,Excellent quality for the price. The USB-C Hub is fantastic.,Europe,Positive
+REV0428,2026-02-18,Beauty,Hair Straightener,3,The Hair Straightener is adequate. Meets minimum requirements.,Europe,Neutral
+REV0429,2026-02-06,Books,Self-Help Book,3,"Received the Self-Help Book as described. No complaints, no praise.",Europe,Neutral
+REV0430,2025-09-05,Home Appliances,Microwave Oven,3,The Microwave Oven is okay. Nothing special but does the job.,Latin America,Neutral
+REV0431,2025-08-10,Fashion,Sunglasses,2,Regret buying this Sunglasses. It's overpriced for what you get.,Latin America,Negative
+REV0432,2025-12-31,Beauty,Nail Polish,4,This Nail Polish is a game-changer. So happy with my purchase.,Europe,Positive
+REV0433,2025-10-29,Electronics,Wireless Mouse,5,Perfect! Exactly what I was looking for. Highly recommend the Wireless Mouse.,Latin America,Positive
+REV0434,2026-03-18,Beauty,Body Lotion,3,"Received the Body Lotion as described. No complaints, no praise.",Middle East,Neutral
+REV0435,2025-12-06,Books,Python Programming Book,2,Very frustrated with this Python Programming Book. Save your money and buy something else.,Europe,Negative
+REV0436,2026-01-05,Electronics,USB-C Hub,4,Outstanding product! The USB-C Hub has made my life so much easier.,Asia Pacific,Positive
+REV0437,2025-11-27,Electronics,Webcam HD,1,Avoid this Webcam HD. It's a complete waste of time and money.,Europe,Negative
+REV0438,2025-09-17,Books,History Book,2,Terrible experience. The History Book arrived damaged and customer service was unhelpful.,Middle East,Negative
+REV0439,2025-08-12,Fashion,Winter Jacket,2,Very frustrated with this Winter Jacket. Save your money and buy something else.,Asia Pacific,Negative
+REV0440,2026-04-03,Books,Self-Help Book,5,Very satisfied with my Self-Help Book. Will definitely buy again.,Middle East,Positive
+REV0441,2025-10-16,Books,Novel Collection,5,Great investment! The Novel Collection has exceeded all my expectations.,North America,Positive
+REV0442,2025-10-21,Fashion,Running Shoes,5,Perfect condition and works perfectly. The Running Shoes is amazing!,Europe,Positive
+REV0443,2026-05-14,Beauty,Nail Polish,5,The Nail Polish is exactly what I needed. Great value for money.,Latin America,Positive
+REV0444,2025-12-11,Beauty,Lipstick Set,3,The Lipstick Set is adequate. Meets minimum requirements.,Middle East,Neutral
+REV0445,2025-10-22,Home Appliances,Microwave Oven,2,The Microwave Oven arrived late and in poor condition. Very disappointed.,North America,Negative
+REV0446,2025-07-19,Beauty,Skincare Set,2,Would not recommend this Skincare Set. Complete waste of money.,Latin America,Negative
+REV0447,2025-09-18,Beauty,Perfume,5,Excellent quality for the price. The Perfume is fantastic.,Middle East,Positive
+REV0448,2026-03-24,Fashion,Casual Sneakers,2,Poor quality and bad customer service. Do not buy this Casual Sneakers.,North America,Negative
+REV0449,2025-06-25,Electronics,Webcam HD,4,Outstanding product! The Webcam HD has made my life so much easier.,Latin America,Positive
+REV0450,2025-06-02,Beauty,Makeup Kit,1,Poor quality and bad customer service. Do not buy this Makeup Kit.,Asia Pacific,Negative
+REV0451,2025-08-22,Home Appliances,Coffee Maker,3,Average quality for the price. The Coffee Maker meets basic expectations.,Asia Pacific,Neutral
+REV0452,2026-05-08,Fashion,Cotton T-Shirt,5,Fantastic quality and arrived quickly. Love my new Cotton T-Shirt!,Europe,Positive
+REV0453,2026-01-07,Electronics,Smart Watch Pro,5,Great quality and fast shipping. The Smart Watch Pro exceeded my expectations.,Europe,Positive
+REV0454,2026-04-01,Fashion,Wrist Watch,3,The Wrist Watch is okay. Nothing special but does the job.,Asia Pacific,Neutral
+REV0455,2025-08-02,Beauty,Hair Dryer,3,The Hair Dryer is adequate. Meets minimum requirements.,North America,Neutral
+REV0456,2025-07-24,Electronics,Mechanical Keyboard,5,Perfect! Exactly what I was looking for. Highly recommend the Mechanical Keyboard.,Latin America,Positive
+REV0457,2025-08-09,Fashion,Denim Jeans,3,The Denim Jeans is decent value. Nothing extraordinary.,Europe,Neutral
+REV0458,2026-01-13,Home Appliances,Vacuum Cleaner,3,The Vacuum Cleaner is satisfactory. Meets basic needs.,Latin America,Neutral
+REV0459,2026-04-13,Beauty,Makeup Kit,4,Perfect! Exactly what I was looking for. Highly recommend the Makeup Kit.,North America,Positive
+REV0460,2026-03-30,Beauty,Skincare Set,2,Avoid this Skincare Set. It's a complete waste of time and money.,Europe,Negative
+REV0461,2025-10-06,Home Appliances,Coffee Maker,5,This Coffee Maker is a game-changer. So happy with my purchase.,North America,Positive
+REV0462,2026-05-05,Home Appliances,Vacuum Cleaner,3,"The Vacuum Cleaner works as expected. Nothing more, nothing less.",Latin America,Neutral
+REV0463,2025-10-31,Electronics,USB-C Hub,3,The USB-C Hub is fine for basic use. Could be better.,Latin America,Neutral
+REV0464,2026-04-24,Books,Novel Collection,3,Standard quality Novel Collection. Does what it's supposed to do.,Asia Pacific,Neutral
+REV0465,2025-08-08,Beauty,Sunscreen,4,This Sunscreen is a game-changer. So happy with my purchase.,Latin America,Positive
+REV0466,2025-07-09,Electronics,Tablet Screen Protector,5,Amazing product! The Tablet Screen Protector works perfectly and looks great.,North America,Positive
+REV0467,2025-07-02,Beauty,Body Lotion,5,Super happy with this Body Lotion. It's even better than described.,Latin America,Positive
+REV0468,2025-07-14,Books,Children Stories,3,Average quality for the price. The Children Stories meets basic expectations.,Asia Pacific,Neutral
+REV0469,2025-07-12,Books,Cooking Recipes,1,Very frustrated with this Cooking Recipes. Save your money and buy something else.,Asia Pacific,Negative
+REV0470,2025-12-19,Books,Novel Collection,5,Fantastic quality and arrived quickly. Love my new Novel Collection!,Europe,Positive
+REV0471,2025-07-01,Fashion,Denim Jeans,1,Worst purchase ever. The Denim Jeans doesn't work as advertised.,Middle East,Negative
+REV0472,2026-04-09,Electronics,Wireless Mouse,3,Average quality for the price. The Wireless Mouse meets basic expectations.,North America,Neutral
+REV0473,2026-05-30,Fashion,Cotton T-Shirt,5,Best Cotton T-Shirt I've ever owned. Worth every penny!,Middle East,Positive
+REV0474,2025-10-12,Fashion,Leather Belt,5,Fantastic quality and arrived quickly. Love my new Leather Belt!,North America,Positive
+REV0475,2025-06-17,Home Appliances,Electric Kettle,4,Very satisfied with my Electric Kettle. Will definitely buy again.,Middle East,Positive
+REV0476,2026-04-19,Electronics,Webcam HD,3,The Webcam HD is okay. Nothing special but does the job.,Latin America,Neutral
+REV0477,2026-03-19,Fashion,Leather Belt,4,Great investment! The Leather Belt has exceeded all my expectations.,Middle East,Positive
+REV0478,2026-05-13,Electronics,USB-C Hub,3,The USB-C Hub is okay. Nothing special but does the job.,North America,Neutral
+REV0479,2025-10-05,Electronics,Webcam HD,4,Perfect! Exactly what I was looking for. Highly recommend the Webcam HD.,North America,Positive
+REV0480,2026-03-12,Beauty,Makeup Kit,5,Great investment! The Makeup Kit has exceeded all my expectations.,Asia Pacific,Positive
+REV0481,2025-10-18,Electronics,Tablet Screen Protector,4,Perfect! Exactly what I was looking for. Highly recommend the Tablet Screen Protector.,Europe,Positive
+REV0482,2026-02-21,Electronics,Portable Charger,5,Perfect condition and works perfectly. The Portable Charger is amazing!,Asia Pacific,Positive
+REV0483,2025-11-08,Home Appliances,Coffee Maker,3,Standard quality Coffee Maker. Does what it's supposed to do.,Europe,Neutral
+REV0484,2025-10-29,Books,Science Fiction,3,It's an okay Science Fiction. Nothing to write home about.,Asia Pacific,Neutral
+REV0485,2026-03-31,Beauty,Makeup Kit,3,"It's a decent Makeup Kit. Not great, not terrible.",North America,Neutral
+REV0486,2025-12-28,Electronics,USB-C Hub,3,Standard quality USB-C Hub. Does what it's supposed to do.,North America,Neutral
+REV0487,2026-05-04,Beauty,Perfume,4,Super happy with this Perfume. It's even better than described.,Latin America,Positive
+REV0488,2025-07-02,Fashion,Summer Dress,4,Great investment! The Summer Dress has exceeded all my expectations.,Middle East,Positive
+REV0489,2025-12-30,Home Appliances,Microwave Oven,1,The Microwave Oven arrived late and in poor condition. Very disappointed.,North America,Negative
+REV0490,2026-02-15,Fashion,Sunglasses,4,Super happy with this Sunglasses. It's even better than described.,Europe,Positive
+REV0491,2025-10-01,Home Appliances,Iron,2,Not happy at all. The Iron is cheaply made and unreliable.,Asia Pacific,Negative
+REV0492,2025-11-11,Beauty,Perfume,4,Perfect! Exactly what I was looking for. Highly recommend the Perfume.,Middle East,Positive
+REV0493,2025-07-27,Fashion,Denim Jeans,5,Excellent quality for the price. The Denim Jeans is fantastic.,Latin America,Positive
+REV0494,2025-08-02,Books,History Book,1,Worst purchase ever. The History Book doesn't work as advertised.,Asia Pacific,Negative
+REV0495,2026-01-25,Home Appliances,Coffee Maker,5,Perfect condition and works perfectly. The Coffee Maker is amazing!,Middle East,Positive
+REV0496,2025-06-22,Fashion,Leather Belt,4,Excellent quality for the price. The Leather Belt is fantastic.,Latin America,Positive
+REV0497,2026-02-19,Electronics,Wireless Mouse,4,Absolutely love this Wireless Mouse! Best purchase I've made this year.,Latin America,Positive
+REV0498,2026-01-19,Books,Children Stories,5,Great quality and fast shipping. The Children Stories exceeded my expectations.,Europe,Positive
+REV0499,2025-08-03,Electronics,Wireless Bluetooth Headphones,1,Terrible experience. The Wireless Bluetooth Headphones arrived damaged and customer service was unhelpful.,Europe,Negative
+REV0500,2025-12-24,Home Appliances,Coffee Maker,3,The Coffee Maker is satisfactory. Meets basic needs.,North America,Neutral
+REV0501,2025-06-13,Electronics,USB-C Hub,2,Avoid this USB-C Hub. It's a complete waste of time and money.,Europe,Negative
+REV0502,2025-07-19,Home Appliances,Coffee Maker,5,Absolutely love this Coffee Maker! Best purchase I've made this year.,Europe,Positive
+REV0503,2026-03-22,Beauty,Hair Straightener,3,Middle of the road Hair Straightener. Acceptable but not impressive.,Latin America,Neutral
+REV0504,2025-08-29,Home Appliances,Vacuum Cleaner,2,The Vacuum Cleaner is nothing like the pictures. Very misleading.,Latin America,Negative
+REV0505,2025-08-17,Electronics,Tablet Screen Protector,3,Middle of the road Tablet Screen Protector. Acceptable but not impressive.,Asia Pacific,Neutral
+REV0506,2026-02-12,Beauty,Body Lotion,3,"Received the Body Lotion as described. No complaints, no praise.",Latin America,Neutral
+REV0507,2025-08-11,Beauty,Makeup Kit,3,Middle of the road Makeup Kit. Acceptable but not impressive.,Middle East,Neutral
+REV0508,2025-06-11,Beauty,Skincare Set,3,Standard quality Skincare Set. Does what it's supposed to do.,Middle East,Neutral
+REV0509,2026-02-14,Home Appliances,Electric Kettle,4,Excellent quality for the price. The Electric Kettle is fantastic.,Middle East,Positive
+REV0510,2025-09-22,Electronics,Wireless Mouse,5,Best Wireless Mouse I've ever owned. Worth every penny!,Asia Pacific,Positive
+REV0511,2026-03-28,Fashion,Running Shoes,4,Very satisfied with my Running Shoes. Will definitely buy again.,Middle East,Positive
+REV0512,2025-06-30,Fashion,Casual Sneakers,2,Poor quality control. My Casual Sneakers had multiple defects.,Europe,Negative
+REV0513,2025-08-31,Fashion,Casual Sneakers,5,Great investment! The Casual Sneakers has exceeded all my expectations.,Middle East,Positive
+REV0514,2025-06-16,Home Appliances,Heater,3,Average experience with the Heater. Could use some improvements.,Latin America,Neutral
+REV0515,2026-03-06,Home Appliances,Blender,3,The Blender is okay. Nothing special but does the job.,Europe,Neutral
+REV0516,2026-04-06,Fashion,Cotton T-Shirt,3,Standard quality Cotton T-Shirt. Does what it's supposed to do.,Middle East,Neutral
+REV0517,2025-09-13,Fashion,Leather Belt,3,The Leather Belt is okay. Nothing special but does the job.,North America,Neutral
+REV0518,2025-08-16,Books,Self-Help Book,2,Not worth the money. The Self-Help Book stopped working after a few days.,Asia Pacific,Negative
+REV0519,2026-05-28,Beauty,Sunscreen,5,Excellent quality for the price. The Sunscreen is fantastic.,Europe,Positive
+REV0520,2025-08-21,Beauty,Nail Polish,3,"The Nail Polish works as expected. Nothing more, nothing less.",Middle East,Neutral
+REV0521,2026-05-23,Books,History Book,4,Super happy with this History Book. It's even better than described.,Asia Pacific,Positive
+REV0522,2026-05-20,Home Appliances,Blender,4,Fantastic quality and arrived quickly. Love my new Blender!,Middle East,Positive
+REV0523,2025-12-19,Books,Python Programming Book,5,Great investment! The Python Programming Book has exceeded all my expectations.,Middle East,Positive
+REV0524,2025-09-23,Books,Novel Collection,1,Poor quality control. My Novel Collection had multiple defects.,North America,Negative
+REV0525,2025-10-01,Home Appliances,Toaster,4,Perfect condition and works perfectly. The Toaster is amazing!,Asia Pacific,Positive
+REV0526,2026-01-16,Electronics,Wireless Mouse,4,Excellent quality for the price. The Wireless Mouse is fantastic.,Asia Pacific,Positive
+REV0527,2025-07-27,Electronics,Wireless Bluetooth Headphones,5,Perfect! Exactly what I was looking for. Highly recommend the Wireless Bluetooth Headphones.,Latin America,Positive
+REV0528,2026-02-09,Beauty,Skincare Set,3,Average experience with the Skincare Set. Could use some improvements.,Latin America,Neutral
+REV0529,2026-03-24,Fashion,Running Shoes,3,"Received the Running Shoes as described. No complaints, no praise.",North America,Neutral
+REV0530,2025-11-12,Home Appliances,Coffee Maker,4,Great investment! The Coffee Maker has exceeded all my expectations.,Latin America,Positive
+REV0531,2025-08-23,Electronics,Smartphone Case,1,Poor quality control. My Smartphone Case had multiple defects.,Middle East,Negative
+REV0532,2026-04-12,Beauty,Face Moisturizer,4,Couldn't be happier with my Face Moisturizer. Five stars all the way!,Latin America,Positive
+REV0533,2025-08-21,Electronics,Smart Watch Pro,4,Super happy with this Smart Watch Pro. It's even better than described.,Middle East,Positive
+REV0534,2026-03-05,Home Appliances,Iron,4,Absolutely love this Iron! Best purchase I've made this year.,Latin America,Positive
+REV0535,2026-03-21,Books,Art Design,5,Absolutely love this Art Design! Best purchase I've made this year.,Latin America,Positive
+REV0536,2025-07-16,Home Appliances,Heater,3,The Heater is okay. Nothing special but does the job.,Europe,Neutral
+REV0537,2025-08-28,Home Appliances,Coffee Maker,3,"Received the Coffee Maker as described. No complaints, no praise.",Latin America,Neutral
+REV0538,2026-01-29,Beauty,Perfume,5,Perfect! Exactly what I was looking for. Highly recommend the Perfume.,Asia Pacific,Positive
+REV0539,2025-12-14,Home Appliances,Blender,5,Outstanding product! The Blender has made my life so much easier.,Latin America,Positive
+REV0540,2025-10-14,Fashion,Summer Dress,3,It's a standard Summer Dress. Does the job but nothing special.,North America,Neutral
+REV0541,2025-07-15,Home Appliances,Fan,4,Best Fan I've ever owned. Worth every penny!,North America,Positive
+REV0542,2025-12-17,Books,Business Strategy,2,The Business Strategy arrived late and in poor condition. Very disappointed.,Europe,Negative
+REV0543,2026-01-31,Home Appliances,Coffee Maker,4,Best Coffee Maker I've ever owned. Worth every penny!,Middle East,Positive
+REV0544,2026-02-21,Books,Biography,5,Perfect! Exactly what I was looking for. Highly recommend the Biography.,Europe,Positive
+REV0545,2025-09-18,Fashion,Running Shoes,4,The Running Shoes is exactly what I needed. Great value for money.,Latin America,Positive
+REV0546,2025-09-13,Fashion,Casual Sneakers,4,Great quality and fast shipping. The Casual Sneakers exceeded my expectations.,Latin America,Positive
+REV0547,2026-03-13,Beauty,Body Lotion,5,Best Body Lotion I've ever owned. Worth every penny!,Latin America,Positive
+REV0548,2025-06-08,Books,Biography,3,Average quality for the price. The Biography meets basic expectations.,Latin America,Neutral
+REV0549,2025-08-17,Fashion,Casual Sneakers,3,The Casual Sneakers is satisfactory. Meets basic needs.,North America,Neutral
+REV0550,2026-03-17,Electronics,Wireless Mouse,2,Poor quality and bad customer service. Do not buy this Wireless Mouse.,Latin America,Negative
+REV0551,2025-10-15,Beauty,Nail Polish,3,The Nail Polish is okay. Nothing special but does the job.,Europe,Neutral
+REV0552,2025-10-21,Beauty,Hair Dryer,3,The Hair Dryer is okay. Nothing special but does the job.,Latin America,Neutral
+REV0553,2025-11-18,Fashion,Cotton T-Shirt,3,The Cotton T-Shirt is satisfactory. Meets basic needs.,Asia Pacific,Neutral
+REV0554,2025-06-12,Home Appliances,Iron,5,Perfect condition and works perfectly. The Iron is amazing!,North America,Positive
+REV0555,2025-09-26,Fashion,Summer Dress,2,Avoid this Summer Dress. It's a complete waste of time and money.,Asia Pacific,Negative
+REV0556,2025-10-17,Beauty,Sunscreen,3,It's an okay Sunscreen. Nothing to write home about.,Europe,Neutral
+REV0557,2025-12-27,Beauty,Body Lotion,1,Very frustrated with this Body Lotion. Save your money and buy something else.,Europe,Negative
+REV0558,2025-07-05,Home Appliances,Fan,4,Perfect! Exactly what I was looking for. Highly recommend the Fan.,Europe,Positive
+REV0559,2025-09-12,Electronics,USB-C Hub,4,Great investment! The USB-C Hub has exceeded all my expectations.,Asia Pacific,Positive
+REV0560,2026-05-28,Fashion,Summer Dress,5,Best Summer Dress I've ever owned. Worth every penny!,Latin America,Positive
+REV0561,2026-04-23,Electronics,Wireless Bluetooth Headphones,5,Couldn't be happier with my Wireless Bluetooth Headphones. Five stars all the way!,Latin America,Positive
+REV0562,2025-08-31,Beauty,Sunscreen,3,"It's a decent Sunscreen. Not great, not terrible.",Asia Pacific,Neutral
+REV0563,2026-05-20,Electronics,Wireless Mouse,4,Perfect! Exactly what I was looking for. Highly recommend the Wireless Mouse.,Middle East,Positive
+REV0564,2025-09-19,Fashion,Winter Jacket,3,Middle of the road Winter Jacket. Acceptable but not impressive.,Latin America,Neutral
+REV0565,2026-02-19,Electronics,Wireless Bluetooth Headphones,3,Middle of the road Wireless Bluetooth Headphones. Acceptable but not impressive.,Europe,Neutral
+REV0566,2026-04-05,Electronics,USB-C Hub,5,Fantastic quality and arrived quickly. Love my new USB-C Hub!,Asia Pacific,Positive
+REV0567,2026-01-04,Beauty,Skincare Set,3,It's an okay Skincare Set. Nothing to write home about.,Asia Pacific,Neutral
+REV0568,2026-05-14,Books,Biography,4,Absolutely love this Biography! Best purchase I've made this year.,Middle East,Positive
+REV0569,2026-05-07,Home Appliances,Fan,3,"Received the Fan as described. No complaints, no praise.",North America,Neutral
+REV0570,2026-02-03,Electronics,Mechanical Keyboard,2,The Mechanical Keyboard is nothing special. Expected much better for the price.,Asia Pacific,Negative
+REV0571,2025-10-13,Home Appliances,Vacuum Cleaner,4,Great investment! The Vacuum Cleaner has exceeded all my expectations.,North America,Positive
+REV0572,2026-04-05,Beauty,Skincare Set,3,Middle of the road Skincare Set. Acceptable but not impressive.,Latin America,Neutral
+REV0573,2025-10-31,Home Appliances,Electric Kettle,4,Couldn't be happier with my Electric Kettle. Five stars all the way!,Middle East,Positive
+REV0574,2025-09-07,Home Appliances,Vacuum Cleaner,3,The Vacuum Cleaner is satisfactory. Meets basic needs.,Asia Pacific,Neutral
+REV0575,2026-02-16,Home Appliances,Blender,1,The Blender is nothing like the pictures. Very misleading.,North America,Negative
+REV0576,2026-01-29,Fashion,Summer Dress,3,Middle of the road Summer Dress. Acceptable but not impressive.,Asia Pacific,Neutral
+REV0577,2026-05-03,Electronics,USB-C Hub,5,Super happy with this USB-C Hub. It's even better than described.,Asia Pacific,Positive
+REV0578,2025-12-09,Home Appliances,Heater,4,Outstanding product! The Heater has made my life so much easier.,North America,Positive
+REV0579,2026-04-22,Books,Biography,1,Worst purchase ever. The Biography doesn't work as advertised.,Europe,Negative
+REV0580,2026-02-13,Electronics,Portable Charger,3,The Portable Charger is okay. Nothing special but does the job.,Europe,Neutral
+REV0581,2025-08-11,Fashion,Leather Belt,5,Perfect! Exactly what I was looking for. Highly recommend the Leather Belt.,Asia Pacific,Positive
+REV0582,2025-09-02,Electronics,Webcam HD,4,Excellent quality for the price. The Webcam HD is fantastic.,North America,Positive
+REV0583,2025-06-04,Beauty,Perfume,4,Couldn't be happier with my Perfume. Five stars all the way!,Europe,Positive
+REV0584,2026-02-07,Electronics,Laptop Stand,3,The Laptop Stand is adequate. Meets minimum requirements.,Latin America,Neutral
+REV0585,2026-02-01,Beauty,Face Moisturizer,4,Fantastic quality and arrived quickly. Love my new Face Moisturizer!,Asia Pacific,Positive
+REV0586,2025-06-09,Home Appliances,Fan,4,The Fan is exactly what I needed. Great value for money.,Europe,Positive
+REV0587,2025-09-25,Home Appliances,Iron,5,Best Iron I've ever owned. Worth every penny!,Middle East,Positive
+REV0588,2025-11-05,Fashion,Denim Jeans,2,The Denim Jeans is nothing like the pictures. Very misleading.,Latin America,Negative
+REV0589,2026-02-23,Books,Children Stories,4,Excellent quality for the price. The Children Stories is fantastic.,Latin America,Positive
+REV0590,2025-12-02,Fashion,Running Shoes,2,Very disappointed with this Running Shoes. Poor quality and broke after a week.,Europe,Negative
+REV0591,2025-09-24,Fashion,Winter Jacket,3,Average quality for the price. The Winter Jacket meets basic expectations.,Asia Pacific,Neutral
+REV0592,2026-06-01,Electronics,Portable Charger,2,Avoid this Portable Charger. It's a complete waste of time and money.,Middle East,Negative
+REV0593,2026-04-17,Electronics,Tablet Screen Protector,1,Absolutely terrible Tablet Screen Protector. Broke after first use.,North America,Negative
+REV0594,2025-06-26,Electronics,Portable Charger,4,Best Portable Charger I've ever owned. Worth every penny!,Asia Pacific,Positive
+REV0595,2026-01-30,Fashion,Winter Jacket,3,"Received the Winter Jacket as described. No complaints, no praise.",Latin America,Neutral
+REV0596,2026-05-06,Electronics,Smartphone Case,4,Super happy with this Smartphone Case. It's even better than described.,North America,Positive
+REV0597,2026-02-18,Books,Novel Collection,4,Outstanding product! The Novel Collection has made my life so much easier.,Europe,Positive
+REV0598,2026-04-09,Fashion,Summer Dress,1,Poor quality control. My Summer Dress had multiple defects.,Latin America,Negative
+REV0599,2025-10-31,Fashion,Cotton T-Shirt,3,"The Cotton T-Shirt works as expected. Nothing more, nothing less.",Latin America,Neutral
+REV0600,2025-11-18,Fashion,Cotton T-Shirt,4,Great investment! The Cotton T-Shirt has exceeded all my expectations.,North America,Positive
+REV0601,2026-03-22,Beauty,Hair Dryer,1,Not happy at all. The Hair Dryer is cheaply made and unreliable.,North America,Negative
+REV0602,2025-10-11,Fashion,Backpack,2,The Backpack is nothing like the pictures. Very misleading.,Latin America,Negative
+REV0603,2025-06-27,Electronics,Laptop Stand,2,Poor quality control. My Laptop Stand had multiple defects.,Asia Pacific,Negative
+REV0604,2026-01-06,Electronics,Smart Watch Pro,1,Very disappointed with this Smart Watch Pro. Poor quality and broke after a week.,Europe,Negative
+REV0605,2026-05-07,Fashion,Leather Belt,5,Couldn't be happier with my Leather Belt. Five stars all the way!,Asia Pacific,Positive
+REV0606,2025-07-19,Home Appliances,Toaster,5,Super happy with this Toaster. It's even better than described.,Latin America,Positive
+REV0607,2025-10-19,Beauty,Nail Polish,1,Not worth the money. The Nail Polish stopped working after a few days.,Europe,Negative
+REV0608,2026-05-24,Electronics,Laptop Stand,5,This Laptop Stand is a game-changer. So happy with my purchase.,Middle East,Positive
+REV0609,2026-05-15,Beauty,Hair Dryer,3,The Hair Dryer is decent value. Nothing extraordinary.,North America,Neutral
+REV0610,2026-05-18,Fashion,Backpack,1,Poor quality and bad customer service. Do not buy this Backpack.,Latin America,Negative
+REV0611,2026-01-13,Electronics,Smart Watch Pro,5,Absolutely love this Smart Watch Pro! Best purchase I've made this year.,Middle East,Positive
+REV0612,2026-03-24,Books,Cooking Recipes,2,Very frustrated with this Cooking Recipes. Save your money and buy something else.,Middle East,Negative
+REV0613,2026-05-20,Books,Novel Collection,4,Outstanding product! The Novel Collection has made my life so much easier.,Asia Pacific,Positive
+REV0614,2026-05-07,Beauty,Hair Dryer,1,Very disappointed with this Hair Dryer. Poor quality and broke after a week.,Europe,Negative
+REV0615,2026-02-15,Beauty,Nail Polish,1,Avoid this Nail Polish. It's a complete waste of time and money.,Latin America,Negative
+REV0616,2025-11-13,Fashion,Leather Belt,1,Very frustrated with this Leather Belt. Save your money and buy something else.,Europe,Negative
+REV0617,2026-03-10,Beauty,Hair Straightener,1,Worst purchase ever. The Hair Straightener doesn't work as advertised.,Latin America,Negative
+REV0618,2026-03-22,Beauty,Lipstick Set,2,Poor quality control. My Lipstick Set had multiple defects.,North America,Negative
+REV0619,2026-02-11,Electronics,Smart Watch Pro,4,Best Smart Watch Pro I've ever owned. Worth every penny!,Middle East,Positive
+REV0620,2025-06-02,Electronics,Tablet Screen Protector,2,Poor quality and bad customer service. Do not buy this Tablet Screen Protector.,Middle East,Negative
+REV0621,2026-03-16,Fashion,Backpack,2,The Backpack is nothing special. Expected much better for the price.,North America,Negative
+REV0622,2025-09-24,Beauty,Skincare Set,3,"The Skincare Set works as expected. Nothing more, nothing less.",Asia Pacific,Neutral
+REV0623,2026-01-19,Electronics,Smart Watch Pro,1,Very disappointed with this Smart Watch Pro. Poor quality and broke after a week.,Asia Pacific,Negative
+REV0624,2025-11-30,Home Appliances,Fan,3,The Fan is okay. Nothing special but does the job.,Europe,Neutral
+REV0625,2026-02-09,Fashion,Sunglasses,4,Amazing product! The Sunglasses works perfectly and looks great.,North America,Positive
+REV0626,2025-12-20,Fashion,Backpack,1,Not happy at all. The Backpack is cheaply made and unreliable.,Asia Pacific,Negative
+REV0627,2025-07-27,Beauty,Face Moisturizer,1,Avoid this Face Moisturizer. It's a complete waste of time and money.,Latin America,Negative
+REV0628,2026-01-22,Books,Children Stories,5,Absolutely love this Children Stories! Best purchase I've made this year.,Middle East,Positive
+REV0629,2025-06-26,Books,Business Strategy,2,Poor quality and bad customer service. Do not buy this Business Strategy.,Middle East,Negative
+REV0630,2025-08-31,Books,Self-Help Book,3,Average quality for the price. The Self-Help Book meets basic expectations.,Latin America,Neutral
+REV0631,2026-05-04,Books,Biography,2,Regret buying this Biography. It's overpriced for what you get.,Middle East,Negative
+REV0632,2026-05-22,Fashion,Summer Dress,5,Very satisfied with my Summer Dress. Will definitely buy again.,Latin America,Positive
+REV0633,2025-08-09,Fashion,Sunglasses,3,Average experience with the Sunglasses. Could use some improvements.,Middle East,Neutral
+REV0634,2025-11-09,Books,Cooking Recipes,5,The Cooking Recipes is exactly what I needed. Great value for money.,Asia Pacific,Positive
+REV0635,2026-05-12,Fashion,Running Shoes,3,"The Running Shoes works as expected. Nothing more, nothing less.",North America,Neutral
+REV0636,2025-11-29,Books,Art Design,3,Middle of the road Art Design. Acceptable but not impressive.,Middle East,Neutral
+REV0637,2025-10-26,Beauty,Face Moisturizer,3,The Face Moisturizer is adequate. Meets minimum requirements.,Europe,Neutral
+REV0638,2025-06-29,Electronics,USB-C Hub,4,Very satisfied with my USB-C Hub. Will definitely buy again.,Asia Pacific,Positive
+REV0639,2025-08-15,Electronics,Wireless Mouse,4,Excellent quality for the price. The Wireless Mouse is fantastic.,Latin America,Positive
+REV0640,2025-07-24,Books,Children Stories,2,Would not recommend this Children Stories. Complete waste of money.,Middle East,Negative
+REV0641,2026-05-24,Home Appliances,Air Fryer,2,Regret buying this Air Fryer. It's overpriced for what you get.,Asia Pacific,Negative
+REV0642,2026-03-11,Electronics,Wireless Bluetooth Headphones,3,The Wireless Bluetooth Headphones is decent value. Nothing extraordinary.,Latin America,Neutral
+REV0643,2025-09-25,Home Appliances,Heater,3,It's a standard Heater. Does the job but nothing special.,Europe,Neutral
+REV0644,2025-10-30,Beauty,Hair Dryer,1,Terrible experience. The Hair Dryer arrived damaged and customer service was unhelpful.,Europe,Negative
+REV0645,2026-02-20,Electronics,Portable Charger,5,Best Portable Charger I've ever owned. Worth every penny!,Asia Pacific,Positive
+REV0646,2025-08-07,Fashion,Casual Sneakers,1,Poor quality control. My Casual Sneakers had multiple defects.,Latin America,Negative
+REV0647,2026-05-31,Fashion,Cotton T-Shirt,5,Couldn't be happier with my Cotton T-Shirt. Five stars all the way!,North America,Positive
+REV0648,2026-04-18,Books,Science Fiction,3,Average quality for the price. The Science Fiction meets basic expectations.,Asia Pacific,Neutral
+REV0649,2026-02-26,Fashion,Running Shoes,3,The Running Shoes is adequate. Meets minimum requirements.,Middle East,Neutral
+REV0650,2026-03-03,Beauty,Lipstick Set,4,The Lipstick Set is exactly what I needed. Great value for money.,Asia Pacific,Positive
+REV0651,2025-11-18,Home Appliances,Iron,5,Best Iron I've ever owned. Worth every penny!,North America,Positive
+REV0652,2025-07-30,Home Appliances,Microwave Oven,4,Absolutely love this Microwave Oven! Best purchase I've made this year.,Asia Pacific,Positive
+REV0653,2025-12-14,Electronics,Portable Charger,5,Absolutely love this Portable Charger! Best purchase I've made this year.,Middle East,Positive
+REV0654,2025-12-10,Books,Children Stories,4,Very satisfied with my Children Stories. Will definitely buy again.,Europe,Positive
+REV0655,2025-11-13,Books,Novel Collection,1,Avoid this Novel Collection. It's a complete waste of time and money.,Middle East,Negative
+REV0656,2026-03-02,Electronics,Smart Watch Pro,4,Perfect condition and works perfectly. The Smart Watch Pro is amazing!,Latin America,Positive
+REV0657,2025-07-25,Fashion,Wrist Watch,2,Absolutely terrible Wrist Watch. Broke after first use.,North America,Negative
+REV0658,2026-05-19,Fashion,Cotton T-Shirt,3,The Cotton T-Shirt is okay. Nothing special but does the job.,North America,Neutral
+REV0659,2025-07-09,Electronics,Laptop Stand,1,The Laptop Stand arrived late and in poor condition. Very disappointed.,Europe,Negative
+REV0660,2025-10-12,Beauty,Hair Straightener,3,The Hair Straightener is adequate. Meets minimum requirements.,Asia Pacific,Neutral
+REV0661,2025-06-10,Beauty,Lipstick Set,3,It's a standard Lipstick Set. Does the job but nothing special.,Middle East,Neutral
+REV0662,2025-06-25,Electronics,Mechanical Keyboard,1,The Mechanical Keyboard is nothing like the pictures. Very misleading.,Asia Pacific,Negative
+REV0663,2026-04-08,Electronics,Wireless Mouse,2,Regret buying this Wireless Mouse. It's overpriced for what you get.,Latin America,Negative
+REV0664,2026-05-06,Electronics,Webcam HD,4,Perfect! Exactly what I was looking for. Highly recommend the Webcam HD.,Latin America,Positive
+REV0665,2026-03-08,Home Appliances,Blender,5,Absolutely love this Blender! Best purchase I've made this year.,Middle East,Positive
+REV0666,2026-03-13,Fashion,Denim Jeans,5,Best Denim Jeans I've ever owned. Worth every penny!,Middle East,Positive
+REV0667,2025-07-15,Home Appliances,Vacuum Cleaner,3,The Vacuum Cleaner is fine for basic use. Could be better.,Latin America,Neutral
+REV0668,2026-04-28,Books,Self-Help Book,4,Couldn't be happier with my Self-Help Book. Five stars all the way!,Asia Pacific,Positive
+REV0669,2025-09-09,Electronics,Laptop Stand,3,Average experience with the Laptop Stand. Could use some improvements.,Middle East,Neutral
+REV0670,2026-01-24,Books,Novel Collection,4,Very satisfied with my Novel Collection. Will definitely buy again.,North America,Positive
+REV0671,2025-09-11,Books,Art Design,2,Terrible experience. The Art Design arrived damaged and customer service was unhelpful.,Europe,Negative
+REV0672,2025-07-23,Home Appliances,Heater,4,Excellent quality for the price. The Heater is fantastic.,Latin America,Positive
+REV0673,2026-01-18,Home Appliances,Heater,3,The Heater is decent value. Nothing extraordinary.,Middle East,Neutral
+REV0674,2025-12-05,Home Appliances,Electric Kettle,5,Amazing product! The Electric Kettle works perfectly and looks great.,Europe,Positive
+REV0675,2026-06-01,Beauty,Perfume,1,Absolutely terrible Perfume. Broke after first use.,Asia Pacific,Negative
+REV0676,2026-02-02,Beauty,Nail Polish,5,Outstanding product! The Nail Polish has made my life so much easier.,Middle East,Positive
+REV0677,2025-07-27,Fashion,Casual Sneakers,5,Perfect condition and works perfectly. The Casual Sneakers is amazing!,Europe,Positive
+REV0678,2026-03-04,Fashion,Summer Dress,3,"The Summer Dress works as expected. Nothing more, nothing less.",North America,Neutral
+REV0679,2025-06-11,Books,Python Programming Book,2,Avoid this Python Programming Book. It's a complete waste of time and money.,Middle East,Negative
+REV0680,2025-09-18,Electronics,Smartphone Case,5,The Smartphone Case is exactly what I needed. Great value for money.,Europe,Positive
+REV0681,2025-12-06,Beauty,Makeup Kit,2,Terrible experience. The Makeup Kit arrived damaged and customer service was unhelpful.,Latin America,Negative
+REV0682,2026-02-13,Books,Novel Collection,4,The Novel Collection is exactly what I needed. Great value for money.,Europe,Positive
+REV0683,2026-04-12,Fashion,Wrist Watch,4,Perfect! Exactly what I was looking for. Highly recommend the Wrist Watch.,Middle East,Positive
+REV0684,2026-03-18,Fashion,Backpack,1,Would not recommend this Backpack. Complete waste of money.,Latin America,Negative
+REV0685,2025-09-28,Electronics,Wireless Mouse,4,The Wireless Mouse is exactly what I needed. Great value for money.,Europe,Positive
+REV0686,2026-02-22,Home Appliances,Electric Kettle,3,The Electric Kettle is satisfactory. Meets basic needs.,North America,Neutral
+REV0687,2025-06-22,Home Appliances,Coffee Maker,3,Average experience with the Coffee Maker. Could use some improvements.,Asia Pacific,Neutral
+REV0688,2026-03-25,Books,Biography,5,Excellent quality for the price. The Biography is fantastic.,Middle East,Positive
+REV0689,2026-05-02,Electronics,Smartphone Case,4,Best Smartphone Case I've ever owned. Worth every penny!,Latin America,Positive
+REV0690,2025-11-29,Home Appliances,Microwave Oven,1,Very frustrated with this Microwave Oven. Save your money and buy something else.,Europe,Negative
+REV0691,2026-01-13,Fashion,Winter Jacket,5,Amazing product! The Winter Jacket works perfectly and looks great.,Europe,Positive
+REV0692,2025-09-05,Fashion,Leather Belt,3,Middle of the road Leather Belt. Acceptable but not impressive.,Europe,Neutral
+REV0693,2025-12-31,Home Appliances,Coffee Maker,3,It's an okay Coffee Maker. Nothing to write home about.,Europe,Neutral
+REV0694,2026-03-31,Fashion,Sunglasses,4,Perfect! Exactly what I was looking for. Highly recommend the Sunglasses.,Middle East,Positive
+REV0695,2026-04-01,Fashion,Running Shoes,3,The Running Shoes is satisfactory. Meets basic needs.,Middle East,Neutral
+REV0696,2025-08-16,Electronics,Laptop Stand,4,Best Laptop Stand I've ever owned. Worth every penny!,Latin America,Positive
+REV0697,2026-04-04,Books,Python Programming Book,2,Not worth the money. The Python Programming Book stopped working after a few days.,Europe,Negative
+REV0698,2026-01-17,Books,Art Design,1,Would not recommend this Art Design. Complete waste of money.,Latin America,Negative
+REV0699,2026-04-05,Fashion,Casual Sneakers,1,The Casual Sneakers arrived late and in poor condition. Very disappointed.,Middle East,Negative
+REV0700,2025-10-15,Fashion,Leather Belt,1,Would not recommend this Leather Belt. Complete waste of money.,Latin America,Negative
+REV0701,2025-12-16,Fashion,Denim Jeans,5,Perfect condition and works perfectly. The Denim Jeans is amazing!,Europe,Positive
+REV0702,2026-04-08,Electronics,Laptop Stand,3,The Laptop Stand is satisfactory. Meets basic needs.,Middle East,Neutral
+REV0703,2026-02-14,Electronics,Smart Watch Pro,3,The Smart Watch Pro is satisfactory. Meets basic needs.,Middle East,Neutral
+REV0704,2026-03-05,Electronics,Portable Charger,3,Average experience with the Portable Charger. Could use some improvements.,North America,Neutral
+REV0705,2026-05-25,Books,Business Strategy,5,This Business Strategy is a game-changer. So happy with my purchase.,Latin America,Positive
+REV0706,2025-11-28,Books,Biography,4,Very satisfied with my Biography. Will definitely buy again.,Latin America,Positive
+REV0707,2025-09-29,Electronics,Wireless Mouse,3,"Received the Wireless Mouse as described. No complaints, no praise.",Europe,Neutral
+REV0708,2025-06-04,Electronics,Tablet Screen Protector,3,The Tablet Screen Protector is adequate. Meets minimum requirements.,Europe,Neutral
+REV0709,2026-05-20,Home Appliances,Electric Kettle,4,Super happy with this Electric Kettle. It's even better than described.,Middle East,Positive
+REV0710,2025-10-09,Home Appliances,Fan,5,Couldn't be happier with my Fan. Five stars all the way!,Asia Pacific,Positive
+REV0711,2026-05-16,Beauty,Makeup Kit,5,Perfect! Exactly what I was looking for. Highly recommend the Makeup Kit.,Asia Pacific,Positive
+REV0712,2026-03-15,Books,Art Design,5,Couldn't be happier with my Art Design. Five stars all the way!,Asia Pacific,Positive
+REV0713,2026-05-29,Beauty,Hair Dryer,1,Not happy at all. The Hair Dryer is cheaply made and unreliable.,Europe,Negative
+REV0714,2026-01-16,Fashion,Denim Jeans,5,This Denim Jeans is a game-changer. So happy with my purchase.,Asia Pacific,Positive
+REV0715,2026-03-10,Books,Python Programming Book,4,This Python Programming Book is a game-changer. So happy with my purchase.,North America,Positive
+REV0716,2025-08-15,Beauty,Sunscreen,4,Very satisfied with my Sunscreen. Will definitely buy again.,Europe,Positive
+REV0717,2025-12-08,Electronics,Tablet Screen Protector,5,Great investment! The Tablet Screen Protector has exceeded all my expectations.,Latin America,Positive
+REV0718,2026-04-12,Books,Science Fiction,3,It's a standard Science Fiction. Does the job but nothing special.,Europe,Neutral
+REV0719,2026-04-25,Beauty,Nail Polish,5,Amazing product! The Nail Polish works perfectly and looks great.,North America,Positive
+REV0720,2026-04-04,Books,Children Stories,3,Middle of the road Children Stories. Acceptable but not impressive.,North America,Neutral
+REV0721,2025-12-03,Fashion,Cotton T-Shirt,1,The Cotton T-Shirt is nothing like the pictures. Very misleading.,Latin America,Negative
+REV0722,2025-11-29,Beauty,Hair Straightener,3,"The Hair Straightener works as expected. Nothing more, nothing less.",North America,Neutral
+REV0723,2025-07-18,Books,Science Fiction,3,Standard quality Science Fiction. Does what it's supposed to do.,Asia Pacific,Neutral
+REV0724,2025-09-25,Books,Cooking Recipes,3,The Cooking Recipes is decent value. Nothing extraordinary.,North America,Neutral
+REV0725,2025-10-13,Fashion,Sunglasses,3,Basic functionality works. The Sunglasses is average at best.,Asia Pacific,Neutral
+REV0726,2025-11-23,Electronics,Smartphone Case,2,Not happy at all. The Smartphone Case is cheaply made and unreliable.,Latin America,Negative
+REV0727,2025-12-12,Books,Art Design,2,Avoid this Art Design. It's a complete waste of time and money.,Latin America,Negative
+REV0728,2026-05-16,Beauty,Sunscreen,2,Not worth the money. The Sunscreen stopped working after a few days.,Asia Pacific,Negative
+REV0729,2025-07-06,Beauty,Makeup Kit,3,It's a standard Makeup Kit. Does the job but nothing special.,Asia Pacific,Neutral
+REV0730,2025-12-30,Home Appliances,Fan,3,The Fan is fine for basic use. Could be better.,Asia Pacific,Neutral
+REV0731,2025-07-19,Beauty,Skincare Set,4,Outstanding product! The Skincare Set has made my life so much easier.,Asia Pacific,Positive
+REV0732,2025-11-30,Fashion,Casual Sneakers,4,Outstanding product! The Casual Sneakers has made my life so much easier.,Europe,Positive
+REV0733,2025-09-30,Fashion,Summer Dress,4,Perfect condition and works perfectly. The Summer Dress is amazing!,Europe,Positive
+REV0734,2026-04-14,Home Appliances,Blender,1,Poor quality and bad customer service. Do not buy this Blender.,North America,Negative
+REV0735,2026-05-14,Beauty,Sunscreen,4,Perfect condition and works perfectly. The Sunscreen is amazing!,Latin America,Positive
+REV0736,2025-12-09,Books,History Book,3,It's an okay History Book. Nothing to write home about.,Europe,Neutral
+REV0737,2026-02-18,Home Appliances,Electric Kettle,4,Absolutely love this Electric Kettle! Best purchase I've made this year.,Middle East,Positive
+REV0738,2026-01-04,Beauty,Body Lotion,5,Super happy with this Body Lotion. It's even better than described.,Europe,Positive
+REV0739,2026-01-22,Electronics,Smartphone Case,3,The Smartphone Case is okay. Nothing special but does the job.,Europe,Neutral
+REV0740,2025-12-13,Books,Novel Collection,5,Perfect! Exactly what I was looking for. Highly recommend the Novel Collection.,Middle East,Positive
+REV0741,2025-10-14,Fashion,Summer Dress,3,Standard quality Summer Dress. Does what it's supposed to do.,Europe,Neutral
+REV0742,2026-02-12,Beauty,Makeup Kit,5,Excellent quality for the price. The Makeup Kit is fantastic.,Latin America,Positive
+REV0743,2025-10-23,Beauty,Hair Dryer,3,Average experience with the Hair Dryer. Could use some improvements.,North America,Neutral
+REV0744,2025-10-18,Fashion,Wrist Watch,5,Amazing product! The Wrist Watch works perfectly and looks great.,Europe,Positive
+REV0745,2025-08-17,Beauty,Face Moisturizer,5,Perfect! Exactly what I was looking for. Highly recommend the Face Moisturizer.,Middle East,Positive
+REV0746,2026-03-02,Home Appliances,Microwave Oven,4,Super happy with this Microwave Oven. It's even better than described.,North America,Positive
+REV0747,2026-05-21,Fashion,Cotton T-Shirt,5,Outstanding product! The Cotton T-Shirt has made my life so much easier.,North America,Positive
+REV0748,2026-01-18,Home Appliances,Iron,5,Excellent quality for the price. The Iron is fantastic.,North America,Positive
+REV0749,2025-12-29,Electronics,Mechanical Keyboard,1,The Mechanical Keyboard arrived late and in poor condition. Very disappointed.,Middle East,Negative
+REV0750,2026-04-30,Books,Self-Help Book,2,Poor quality control. My Self-Help Book had multiple defects.,Asia Pacific,Negative
+REV0751,2026-05-12,Books,Art Design,2,Poor quality and bad customer service. Do not buy this Art Design.,North America,Negative
+REV0752,2025-12-14,Books,Science Fiction,3,Average experience with the Science Fiction. Could use some improvements.,Europe,Neutral
+REV0753,2026-04-25,Home Appliances,Electric Kettle,3,Average experience with the Electric Kettle. Could use some improvements.,North America,Neutral
+REV0754,2025-07-12,Fashion,Leather Belt,5,The Leather Belt is exactly what I needed. Great value for money.,Asia Pacific,Positive
+REV0755,2026-05-31,Home Appliances,Heater,3,The Heater is satisfactory. Meets basic needs.,Latin America,Neutral
+REV0756,2025-12-04,Books,Children Stories,2,Terrible experience. The Children Stories arrived damaged and customer service was unhelpful.,Europe,Negative
+REV0757,2025-06-13,Fashion,Winter Jacket,3,The Winter Jacket is fine for basic use. Could be better.,Europe,Neutral
+REV0758,2025-12-22,Electronics,Smart Watch Pro,5,Best Smart Watch Pro I've ever owned. Worth every penny!,North America,Positive
+REV0759,2025-06-15,Beauty,Body Lotion,1,Not worth the money. The Body Lotion stopped working after a few days.,Asia Pacific,Negative
+REV0760,2026-04-14,Fashion,Denim Jeans,3,"Received the Denim Jeans as described. No complaints, no praise.",Europe,Neutral
+REV0761,2025-10-06,Home Appliances,Microwave Oven,3,Basic functionality works. The Microwave Oven is average at best.,Europe,Neutral
+REV0762,2025-06-16,Electronics,Mechanical Keyboard,2,The Mechanical Keyboard is nothing special. Expected much better for the price.,Latin America,Negative
+REV0763,2026-01-27,Books,Science Fiction,3,"The Science Fiction works as expected. Nothing more, nothing less.",Middle East,Neutral
+REV0764,2025-08-31,Books,Biography,3,Basic functionality works. The Biography is average at best.,Middle East,Neutral
+REV0765,2025-11-07,Home Appliances,Microwave Oven,3,It's an okay Microwave Oven. Nothing to write home about.,Asia Pacific,Neutral
+REV0766,2025-12-06,Beauty,Perfume,4,Absolutely love this Perfume! Best purchase I've made this year.,Middle East,Positive
+REV0767,2025-08-10,Home Appliances,Iron,3,"The Iron works as expected. Nothing more, nothing less.",Latin America,Neutral
+REV0768,2026-02-01,Home Appliances,Air Fryer,2,The Air Fryer arrived late and in poor condition. Very disappointed.,Europe,Negative
+REV0769,2025-06-05,Books,History Book,5,Super happy with this History Book. It's even better than described.,Europe,Positive
+REV0770,2025-08-24,Beauty,Hair Straightener,4,Super happy with this Hair Straightener. It's even better than described.,Europe,Positive
+REV0771,2026-02-21,Books,Science Fiction,5,Super happy with this Science Fiction. It's even better than described.,Europe,Positive
+REV0772,2025-07-07,Fashion,Running Shoes,5,Couldn't be happier with my Running Shoes. Five stars all the way!,Latin America,Positive
+REV0773,2025-10-19,Books,Art Design,4,Perfect! Exactly what I was looking for. Highly recommend the Art Design.,North America,Positive
+REV0774,2026-03-02,Electronics,Laptop Stand,2,The Laptop Stand is nothing like the pictures. Very misleading.,Europe,Negative
+REV0775,2026-01-12,Electronics,USB-C Hub,4,Outstanding product! The USB-C Hub has made my life so much easier.,Europe,Positive
+REV0776,2025-11-24,Beauty,Perfume,2,Poor quality control. My Perfume had multiple defects.,Latin America,Negative
+REV0777,2026-05-24,Electronics,Mechanical Keyboard,4,Absolutely love this Mechanical Keyboard! Best purchase I've made this year.,Asia Pacific,Positive
+REV0778,2025-12-19,Electronics,Smartphone Case,3,The Smartphone Case is satisfactory. Meets basic needs.,Asia Pacific,Neutral
+REV0779,2025-12-14,Electronics,Smart Watch Pro,1,Regret buying this Smart Watch Pro. It's overpriced for what you get.,Latin America,Negative
+REV0780,2025-10-06,Electronics,USB-C Hub,3,Basic functionality works. The USB-C Hub is average at best.,Europe,Neutral
+REV0781,2026-01-30,Beauty,Perfume,1,Absolutely terrible Perfume. Broke after first use.,North America,Negative
+REV0782,2026-03-10,Books,Novel Collection,5,Amazing product! The Novel Collection works perfectly and looks great.,Asia Pacific,Positive
+REV0783,2025-06-28,Fashion,Denim Jeans,5,Excellent quality for the price. The Denim Jeans is fantastic.,North America,Positive
+REV0784,2025-08-26,Home Appliances,Heater,4,Absolutely love this Heater! Best purchase I've made this year.,North America,Positive
+REV0785,2026-03-26,Beauty,Sunscreen,4,Amazing product! The Sunscreen works perfectly and looks great.,Europe,Positive
+REV0786,2026-02-12,Electronics,Tablet Screen Protector,4,Absolutely love this Tablet Screen Protector! Best purchase I've made this year.,Asia Pacific,Positive
+REV0787,2026-04-28,Fashion,Wrist Watch,1,Worst purchase ever. The Wrist Watch doesn't work as advertised.,Europe,Negative
+REV0788,2025-11-11,Books,History Book,2,Not happy at all. The History Book is cheaply made and unreliable.,Europe,Negative
+REV0789,2025-06-12,Beauty,Skincare Set,3,The Skincare Set is satisfactory. Meets basic needs.,North America,Neutral
+REV0790,2026-02-05,Beauty,Body Lotion,5,Amazing product! The Body Lotion works perfectly and looks great.,Middle East,Positive
+REV0791,2025-09-05,Books,History Book,5,Very satisfied with my History Book. Will definitely buy again.,Middle East,Positive
+REV0792,2026-03-12,Fashion,Denim Jeans,3,"Received the Denim Jeans as described. No complaints, no praise.",Asia Pacific,Neutral
+REV0793,2026-03-06,Home Appliances,Microwave Oven,5,Fantastic quality and arrived quickly. Love my new Microwave Oven!,Europe,Positive
+REV0794,2025-06-11,Books,History Book,1,Poor quality control. My History Book had multiple defects.,North America,Negative
+REV0795,2026-05-05,Books,Business Strategy,5,This Business Strategy is a game-changer. So happy with my purchase.,Middle East,Positive
+REV0796,2025-08-19,Books,Science Fiction,5,Great quality and fast shipping. The Science Fiction exceeded my expectations.,North America,Positive
+REV0797,2026-02-24,Electronics,Wireless Bluetooth Headphones,1,Terrible experience. The Wireless Bluetooth Headphones arrived damaged and customer service was unhelpful.,North America,Negative
+REV0798,2025-09-13,Electronics,Webcam HD,4,Couldn't be happier with my Webcam HD. Five stars all the way!,Latin America,Positive
+REV0799,2026-05-04,Beauty,Body Lotion,3,The Body Lotion is okay. Nothing special but does the job.,Asia Pacific,Neutral
+REV0800,2025-09-23,Books,Novel Collection,4,The Novel Collection is exactly what I needed. Great value for money.,Latin America,Positive
+REV0801,2025-07-12,Beauty,Face Moisturizer,5,Perfect condition and works perfectly. The Face Moisturizer is amazing!,Asia Pacific,Positive
+REV0802,2026-05-30,Electronics,Tablet Screen Protector,4,Fantastic quality and arrived quickly. Love my new Tablet Screen Protector!,North America,Positive
+REV0803,2025-11-04,Electronics,USB-C Hub,1,Not worth the money. The USB-C Hub stopped working after a few days.,Europe,Negative
+REV0804,2026-03-01,Beauty,Makeup Kit,4,Couldn't be happier with my Makeup Kit. Five stars all the way!,Europe,Positive
+REV0805,2026-03-14,Books,Business Strategy,3,Middle of the road Business Strategy. Acceptable but not impressive.,Latin America,Neutral
+REV0806,2026-05-27,Beauty,Lipstick Set,4,Best Lipstick Set I've ever owned. Worth every penny!,Latin America,Positive
+REV0807,2026-02-15,Home Appliances,Blender,3,The Blender is satisfactory. Meets basic needs.,Asia Pacific,Neutral
+REV0808,2025-11-10,Books,History Book,2,Avoid this History Book. It's a complete waste of time and money.,Latin America,Negative
+REV0809,2025-11-14,Books,Cooking Recipes,3,The Cooking Recipes is adequate. Meets minimum requirements.,Middle East,Neutral
+REV0810,2025-10-10,Home Appliances,Microwave Oven,5,Absolutely love this Microwave Oven! Best purchase I've made this year.,North America,Positive
+REV0811,2025-10-25,Books,Python Programming Book,3,The Python Programming Book is okay. Nothing special but does the job.,Asia Pacific,Neutral
+REV0812,2025-09-23,Fashion,Leather Belt,5,Great investment! The Leather Belt has exceeded all my expectations.,Middle East,Positive
+REV0813,2026-02-18,Books,Biography,1,Not worth the money. The Biography stopped working after a few days.,North America,Negative
+REV0814,2026-01-23,Home Appliances,Blender,5,Great investment! The Blender has exceeded all my expectations.,Middle East,Positive
+REV0815,2025-10-07,Fashion,Summer Dress,1,The Summer Dress arrived late and in poor condition. Very disappointed.,Latin America,Negative
+REV0816,2026-03-20,Fashion,Denim Jeans,3,"It's a decent Denim Jeans. Not great, not terrible.",Latin America,Neutral
+REV0817,2026-05-21,Books,Novel Collection,3,The Novel Collection is okay. Nothing special but does the job.,Middle East,Neutral
+REV0818,2025-12-14,Electronics,Wireless Bluetooth Headphones,2,Poor quality control. My Wireless Bluetooth Headphones had multiple defects.,Latin America,Negative
+REV0819,2026-01-01,Electronics,USB-C Hub,3,Middle of the road USB-C Hub. Acceptable but not impressive.,Latin America,Neutral
+REV0820,2025-06-29,Home Appliances,Fan,4,Excellent quality for the price. The Fan is fantastic.,Middle East,Positive
+REV0821,2026-05-25,Fashion,Running Shoes,5,Outstanding product! The Running Shoes has made my life so much easier.,Middle East,Positive
+REV0822,2026-03-23,Books,Novel Collection,5,This Novel Collection is a game-changer. So happy with my purchase.,Latin America,Positive
+REV0823,2025-08-16,Fashion,Leather Belt,4,Best Leather Belt I've ever owned. Worth every penny!,Latin America,Positive
+REV0824,2025-10-14,Electronics,Portable Charger,3,It's a standard Portable Charger. Does the job but nothing special.,Europe,Neutral
+REV0825,2026-02-03,Books,Cooking Recipes,3,Basic functionality works. The Cooking Recipes is average at best.,Middle East,Neutral
+REV0826,2026-02-25,Fashion,Winter Jacket,5,Excellent quality for the price. The Winter Jacket is fantastic.,Middle East,Positive
+REV0827,2025-07-17,Electronics,Portable Charger,5,Amazing product! The Portable Charger works perfectly and looks great.,Asia Pacific,Positive
+REV0828,2025-11-25,Books,Python Programming Book,1,Poor quality control. My Python Programming Book had multiple defects.,Middle East,Negative
+REV0829,2026-01-14,Books,Self-Help Book,4,Amazing product! The Self-Help Book works perfectly and looks great.,Asia Pacific,Positive
+REV0830,2025-08-20,Electronics,Smart Watch Pro,3,The Smart Watch Pro is decent value. Nothing extraordinary.,Europe,Neutral
+REV0831,2025-10-27,Electronics,Mechanical Keyboard,3,"Received the Mechanical Keyboard as described. No complaints, no praise.",Latin America,Neutral
+REV0832,2026-01-29,Electronics,Mechanical Keyboard,4,Amazing product! The Mechanical Keyboard works perfectly and looks great.,Middle East,Positive
+REV0833,2026-02-24,Home Appliances,Fan,3,"The Fan works as expected. Nothing more, nothing less.",North America,Neutral
+REV0834,2025-12-11,Books,Children Stories,4,Absolutely love this Children Stories! Best purchase I've made this year.,Asia Pacific,Positive
+REV0835,2025-09-12,Books,Science Fiction,4,Great quality and fast shipping. The Science Fiction exceeded my expectations.,Latin America,Positive
+REV0836,2026-05-06,Home Appliances,Toaster,1,The Toaster is nothing like the pictures. Very misleading.,Latin America,Negative
+REV0837,2025-09-28,Beauty,Body Lotion,1,Poor quality and bad customer service. Do not buy this Body Lotion.,Asia Pacific,Negative
+REV0838,2026-02-05,Books,Children Stories,4,Best Children Stories I've ever owned. Worth every penny!,Latin America,Positive
+REV0839,2026-03-16,Electronics,Wireless Bluetooth Headphones,5,Excellent quality for the price. The Wireless Bluetooth Headphones is fantastic.,Latin America,Positive
+REV0840,2025-12-20,Fashion,Cotton T-Shirt,5,Excellent quality for the price. The Cotton T-Shirt is fantastic.,Asia Pacific,Positive
+REV0841,2025-09-30,Books,Science Fiction,2,Poor quality and bad customer service. Do not buy this Science Fiction.,Latin America,Negative
+REV0842,2025-06-17,Books,Science Fiction,5,Great investment! The Science Fiction has exceeded all my expectations.,Latin America,Positive
+REV0843,2026-05-04,Fashion,Denim Jeans,3,The Denim Jeans is adequate. Meets minimum requirements.,Europe,Neutral
+REV0844,2026-03-22,Fashion,Sunglasses,2,Worst purchase ever. The Sunglasses doesn't work as advertised.,Middle East,Negative
+REV0845,2025-08-08,Fashion,Running Shoes,3,Average experience with the Running Shoes. Could use some improvements.,Europe,Neutral
+REV0846,2025-11-07,Books,Self-Help Book,4,The Self-Help Book is exactly what I needed. Great value for money.,Middle East,Positive
+REV0847,2025-08-21,Home Appliances,Coffee Maker,3,"It's a decent Coffee Maker. Not great, not terrible.",Asia Pacific,Neutral
+REV0848,2025-08-15,Electronics,Mechanical Keyboard,2,Regret buying this Mechanical Keyboard. It's overpriced for what you get.,Asia Pacific,Negative
+REV0849,2026-01-14,Home Appliances,Blender,1,Terrible experience. The Blender arrived damaged and customer service was unhelpful.,Europe,Negative
+REV0850,2025-06-15,Books,Biography,4,Couldn't be happier with my Biography. Five stars all the way!,Europe,Positive
+REV0851,2025-09-28,Electronics,Mechanical Keyboard,5,Perfect! Exactly what I was looking for. Highly recommend the Mechanical Keyboard.,Middle East,Positive
+REV0852,2026-04-07,Beauty,Skincare Set,5,Outstanding product! The Skincare Set has made my life so much easier.,Latin America,Positive
+REV0853,2025-08-11,Fashion,Winter Jacket,5,This Winter Jacket is a game-changer. So happy with my purchase.,North America,Positive
+REV0854,2025-10-18,Beauty,Makeup Kit,3,It's a standard Makeup Kit. Does the job but nothing special.,Europe,Neutral
+REV0855,2025-07-05,Fashion,Backpack,2,Not happy at all. The Backpack is cheaply made and unreliable.,Asia Pacific,Negative
+REV0856,2026-01-22,Fashion,Sunglasses,4,Couldn't be happier with my Sunglasses. Five stars all the way!,Latin America,Positive
+REV0857,2025-11-09,Beauty,Sunscreen,1,Very frustrated with this Sunscreen. Save your money and buy something else.,North America,Negative
+REV0858,2026-01-19,Beauty,Face Moisturizer,1,Very frustrated with this Face Moisturizer. Save your money and buy something else.,Middle East,Negative
+REV0859,2025-12-21,Electronics,Smartphone Case,4,Amazing product! The Smartphone Case works perfectly and looks great.,Asia Pacific,Positive
+REV0860,2026-01-13,Beauty,Perfume,2,Worst purchase ever. The Perfume doesn't work as advertised.,Europe,Negative
+REV0861,2026-01-04,Home Appliances,Heater,1,Worst purchase ever. The Heater doesn't work as advertised.,Latin America,Negative
+REV0862,2025-07-18,Books,Novel Collection,4,Super happy with this Novel Collection. It's even better than described.,Latin America,Positive
+REV0863,2025-11-14,Beauty,Face Moisturizer,4,Great investment! The Face Moisturizer has exceeded all my expectations.,Latin America,Positive
+REV0864,2025-07-18,Home Appliances,Toaster,3,"The Toaster works as expected. Nothing more, nothing less.",North America,Neutral
+REV0865,2025-07-18,Electronics,Webcam HD,3,Basic functionality works. The Webcam HD is average at best.,Latin America,Neutral
+REV0866,2026-02-18,Books,Self-Help Book,5,Absolutely love this Self-Help Book! Best purchase I've made this year.,Europe,Positive
+REV0867,2025-11-20,Books,Self-Help Book,4,Perfect! Exactly what I was looking for. Highly recommend the Self-Help Book.,North America,Positive
+REV0868,2026-01-02,Home Appliances,Iron,3,"Received the Iron as described. No complaints, no praise.",Europe,Neutral
+REV0869,2025-08-01,Fashion,Winter Jacket,5,Absolutely love this Winter Jacket! Best purchase I've made this year.,Latin America,Positive
+REV0870,2026-02-11,Beauty,Body Lotion,2,Would not recommend this Body Lotion. Complete waste of money.,Europe,Negative
+REV0871,2026-03-30,Beauty,Nail Polish,4,Couldn't be happier with my Nail Polish. Five stars all the way!,Middle East,Positive
+REV0872,2025-06-05,Fashion,Wrist Watch,4,Absolutely love this Wrist Watch! Best purchase I've made this year.,Europe,Positive
+REV0873,2025-08-16,Electronics,Mechanical Keyboard,4,The Mechanical Keyboard is exactly what I needed. Great value for money.,Middle East,Positive
+REV0874,2026-04-06,Home Appliances,Toaster,1,Not worth the money. The Toaster stopped working after a few days.,Latin America,Negative
+REV0875,2025-09-01,Fashion,Summer Dress,3,It's an okay Summer Dress. Nothing to write home about.,Middle East,Neutral
+REV0876,2025-12-03,Electronics,Smart Watch Pro,2,Poor quality control. My Smart Watch Pro had multiple defects.,Latin America,Negative
+REV0877,2025-07-06,Beauty,Body Lotion,5,Perfect! Exactly what I was looking for. Highly recommend the Body Lotion.,North America,Positive
+REV0878,2026-05-23,Home Appliances,Toaster,3,"The Toaster works as expected. Nothing more, nothing less.",Europe,Neutral
+REV0879,2026-04-11,Electronics,Smart Watch Pro,3,It's an okay Smart Watch Pro. Nothing to write home about.,Middle East,Neutral
+REV0880,2026-05-29,Home Appliances,Electric Kettle,3,"Received the Electric Kettle as described. No complaints, no praise.",Middle East,Neutral
+REV0881,2026-03-23,Books,History Book,2,Very frustrated with this History Book. Save your money and buy something else.,Latin America,Negative
+REV0882,2026-02-09,Fashion,Casual Sneakers,5,Amazing product! The Casual Sneakers works perfectly and looks great.,North America,Positive
+REV0883,2025-08-01,Electronics,Webcam HD,3,"The Webcam HD works as expected. Nothing more, nothing less.",Europe,Neutral
+REV0884,2026-04-13,Beauty,Hair Straightener,5,Best Hair Straightener I've ever owned. Worth every penny!,Europe,Positive
+REV0885,2025-06-07,Fashion,Summer Dress,4,Very satisfied with my Summer Dress. Will definitely buy again.,Asia Pacific,Positive
+REV0886,2026-02-16,Books,History Book,1,Absolutely terrible History Book. Broke after first use.,Asia Pacific,Negative
+REV0887,2025-11-23,Beauty,Sunscreen,3,Average experience with the Sunscreen. Could use some improvements.,Europe,Neutral
+REV0888,2025-09-09,Home Appliances,Toaster,2,Poor quality and bad customer service. Do not buy this Toaster.,Latin America,Negative
+REV0889,2025-06-20,Fashion,Backpack,5,Great investment! The Backpack has exceeded all my expectations.,Middle East,Positive
+REV0890,2025-11-20,Beauty,Hair Straightener,1,The Hair Straightener is nothing special. Expected much better for the price.,Middle East,Negative
+REV0891,2025-11-02,Books,History Book,3,The History Book is fine for basic use. Could be better.,Middle East,Neutral
+REV0892,2026-05-18,Home Appliances,Toaster,4,Very satisfied with my Toaster. Will definitely buy again.,North America,Positive
+REV0893,2025-11-22,Beauty,Body Lotion,2,Terrible experience. The Body Lotion arrived damaged and customer service was unhelpful.,Middle East,Negative
+REV0894,2025-07-31,Home Appliances,Toaster,3,The Toaster is adequate. Meets minimum requirements.,North America,Neutral
+REV0895,2026-02-11,Fashion,Leather Belt,3,The Leather Belt is fine for basic use. Could be better.,Middle East,Neutral
+REV0896,2025-11-03,Fashion,Denim Jeans,4,This Denim Jeans is a game-changer. So happy with my purchase.,Europe,Positive
+REV0897,2025-07-19,Beauty,Body Lotion,5,Great investment! The Body Lotion has exceeded all my expectations.,Middle East,Positive
+REV0898,2025-08-19,Fashion,Leather Belt,2,Avoid this Leather Belt. It's a complete waste of time and money.,Asia Pacific,Negative
+REV0899,2025-08-14,Electronics,Smartphone Case,3,The Smartphone Case is fine for basic use. Could be better.,North America,Neutral
+REV0900,2026-01-23,Beauty,Body Lotion,5,Great investment! The Body Lotion has exceeded all my expectations.,North America,Positive
+REV0901,2026-05-19,Books,Novel Collection,4,Great quality and fast shipping. The Novel Collection exceeded my expectations.,Middle East,Positive
+REV0902,2026-05-05,Home Appliances,Air Fryer,3,Middle of the road Air Fryer. Acceptable but not impressive.,Europe,Neutral
+REV0903,2025-11-13,Fashion,Winter Jacket,5,This Winter Jacket is a game-changer. So happy with my purchase.,Latin America,Positive
+REV0904,2026-05-11,Electronics,Wireless Mouse,5,Great quality and fast shipping. The Wireless Mouse exceeded my expectations.,North America,Positive
+REV0905,2026-04-16,Books,Children Stories,5,Best Children Stories I've ever owned. Worth every penny!,Asia Pacific,Positive
+REV0906,2025-10-18,Fashion,Summer Dress,3,Average quality for the price. The Summer Dress meets basic expectations.,Asia Pacific,Neutral
+REV0907,2026-04-11,Home Appliances,Fan,4,Absolutely love this Fan! Best purchase I've made this year.,Latin America,Positive
+REV0908,2026-05-13,Electronics,Smart Watch Pro,4,Super happy with this Smart Watch Pro. It's even better than described.,Latin America,Positive
+REV0909,2025-09-01,Books,Biography,3,The Biography is decent value. Nothing extraordinary.,Asia Pacific,Neutral
+REV0910,2025-11-08,Home Appliances,Vacuum Cleaner,3,The Vacuum Cleaner is satisfactory. Meets basic needs.,Latin America,Neutral
+REV0911,2026-03-19,Fashion,Denim Jeans,2,Not worth the money. The Denim Jeans stopped working after a few days.,Latin America,Negative
+REV0912,2025-11-07,Beauty,Nail Polish,4,Perfect! Exactly what I was looking for. Highly recommend the Nail Polish.,Middle East,Positive
+REV0913,2025-10-12,Home Appliances,Electric Kettle,5,This Electric Kettle is a game-changer. So happy with my purchase.,Asia Pacific,Positive
+REV0914,2026-01-20,Beauty,Face Moisturizer,4,Excellent quality for the price. The Face Moisturizer is fantastic.,Latin America,Positive
+REV0915,2026-01-24,Fashion,Summer Dress,1,Very frustrated with this Summer Dress. Save your money and buy something else.,North America,Negative
+REV0916,2025-12-26,Electronics,Mechanical Keyboard,3,It's a standard Mechanical Keyboard. Does the job but nothing special.,Asia Pacific,Neutral
+REV0917,2026-03-01,Beauty,Hair Straightener,3,The Hair Straightener is decent value. Nothing extraordinary.,Europe,Neutral
+REV0918,2026-03-09,Fashion,Backpack,5,Amazing product! The Backpack works perfectly and looks great.,Middle East,Positive
+REV0919,2026-01-08,Beauty,Sunscreen,1,Terrible experience. The Sunscreen arrived damaged and customer service was unhelpful.,North America,Negative
+REV0920,2026-06-01,Books,Art Design,5,Excellent quality for the price. The Art Design is fantastic.,Middle East,Positive
+REV0921,2025-07-21,Beauty,Hair Dryer,5,Great quality and fast shipping. The Hair Dryer exceeded my expectations.,Middle East,Positive
+REV0922,2025-07-27,Books,Business Strategy,4,Great quality and fast shipping. The Business Strategy exceeded my expectations.,Europe,Positive
+REV0923,2025-08-12,Books,Python Programming Book,1,Worst purchase ever. The Python Programming Book doesn't work as advertised.,Middle East,Negative
+REV0924,2025-10-29,Beauty,Sunscreen,3,The Sunscreen is fine for basic use. Could be better.,Asia Pacific,Neutral
+REV0925,2025-11-02,Books,Science Fiction,2,Not happy at all. The Science Fiction is cheaply made and unreliable.,Asia Pacific,Negative
+REV0926,2025-07-17,Books,Python Programming Book,3,Average experience with the Python Programming Book. Could use some improvements.,Europe,Neutral
+REV0927,2025-10-30,Electronics,Mechanical Keyboard,1,Very disappointed with this Mechanical Keyboard. Poor quality and broke after a week.,Middle East,Negative
+REV0928,2025-12-02,Electronics,Wireless Mouse,1,Regret buying this Wireless Mouse. It's overpriced for what you get.,Middle East,Negative
+REV0929,2025-12-20,Home Appliances,Electric Kettle,5,Best Electric Kettle I've ever owned. Worth every penny!,Europe,Positive
+REV0930,2026-05-07,Fashion,Backpack,5,Perfect condition and works perfectly. The Backpack is amazing!,Asia Pacific,Positive
+REV0931,2026-01-01,Fashion,Summer Dress,1,Terrible experience. The Summer Dress arrived damaged and customer service was unhelpful.,North America,Negative
+REV0932,2025-07-08,Electronics,Laptop Stand,3,Middle of the road Laptop Stand. Acceptable but not impressive.,Latin America,Neutral
+REV0933,2025-08-10,Electronics,Laptop Stand,3,Average experience with the Laptop Stand. Could use some improvements.,Latin America,Neutral
+REV0934,2026-05-24,Books,Business Strategy,3,Basic functionality works. The Business Strategy is average at best.,Latin America,Neutral
+REV0935,2026-03-11,Beauty,Hair Straightener,4,Super happy with this Hair Straightener. It's even better than described.,Middle East,Positive
+REV0936,2025-06-05,Books,Art Design,1,Not happy at all. The Art Design is cheaply made and unreliable.,Middle East,Negative
+REV0937,2025-10-17,Beauty,Body Lotion,3,The Body Lotion is okay. Nothing special but does the job.,Middle East,Neutral
+REV0938,2026-02-04,Home Appliances,Coffee Maker,3,"It's a decent Coffee Maker. Not great, not terrible.",Middle East,Neutral
+REV0939,2025-10-23,Beauty,Body Lotion,4,Amazing product! The Body Lotion works perfectly and looks great.,Latin America,Positive
+REV0940,2026-04-20,Electronics,Smartphone Case,2,The Smartphone Case arrived late and in poor condition. Very disappointed.,North America,Negative
+REV0941,2025-11-24,Books,Python Programming Book,3,The Python Programming Book is decent value. Nothing extraordinary.,Asia Pacific,Neutral
+REV0942,2026-01-03,Home Appliances,Iron,4,Fantastic quality and arrived quickly. Love my new Iron!,Middle East,Positive
+REV0943,2025-11-04,Books,Science Fiction,5,Couldn't be happier with my Science Fiction. Five stars all the way!,Europe,Positive
+REV0944,2026-03-22,Electronics,Wireless Mouse,1,The Wireless Mouse is nothing like the pictures. Very misleading.,Latin America,Negative
+REV0945,2025-07-14,Fashion,Wrist Watch,5,Very satisfied with my Wrist Watch. Will definitely buy again.,Europe,Positive
+REV0946,2026-04-13,Home Appliances,Iron,1,Not happy at all. The Iron is cheaply made and unreliable.,North America,Negative
+REV0947,2026-04-07,Fashion,Casual Sneakers,3,Standard quality Casual Sneakers. Does what it's supposed to do.,Europe,Neutral
+REV0948,2025-10-13,Fashion,Backpack,4,Excellent quality for the price. The Backpack is fantastic.,North America,Positive
+REV0949,2025-08-15,Books,Self-Help Book,2,Avoid this Self-Help Book. It's a complete waste of time and money.,Latin America,Negative
+REV0950,2025-10-01,Beauty,Hair Dryer,5,Absolutely love this Hair Dryer! Best purchase I've made this year.,Asia Pacific,Positive
+REV0951,2025-07-31,Electronics,Laptop Stand,3,"Received the Laptop Stand as described. No complaints, no praise.",Latin America,Neutral
+REV0952,2026-03-01,Fashion,Sunglasses,3,It's an okay Sunglasses. Nothing to write home about.,Asia Pacific,Neutral
+REV0953,2025-08-15,Books,Business Strategy,5,Super happy with this Business Strategy. It's even better than described.,Asia Pacific,Positive
+REV0954,2026-02-28,Electronics,Smart Watch Pro,2,The Smart Watch Pro is nothing special. Expected much better for the price.,Latin America,Negative
+REV0955,2026-04-10,Home Appliances,Toaster,4,Very satisfied with my Toaster. Will definitely buy again.,Middle East,Positive
+REV0956,2025-12-19,Beauty,Makeup Kit,3,Basic functionality works. The Makeup Kit is average at best.,Asia Pacific,Neutral
+REV0957,2026-05-14,Fashion,Leather Belt,3,Average experience with the Leather Belt. Could use some improvements.,North America,Neutral
+REV0958,2025-06-08,Beauty,Lipstick Set,3,Standard quality Lipstick Set. Does what it's supposed to do.,Europe,Neutral
+REV0959,2025-10-25,Home Appliances,Vacuum Cleaner,4,Absolutely love this Vacuum Cleaner! Best purchase I've made this year.,Middle East,Positive
+REV0960,2026-05-04,Fashion,Casual Sneakers,3,Average quality for the price. The Casual Sneakers meets basic expectations.,Middle East,Neutral
+REV0961,2025-08-07,Beauty,Sunscreen,1,Poor quality and bad customer service. Do not buy this Sunscreen.,North America,Negative
+REV0962,2026-05-24,Fashion,Summer Dress,4,The Summer Dress is exactly what I needed. Great value for money.,Latin America,Positive
+REV0963,2025-10-21,Beauty,Skincare Set,4,Very satisfied with my Skincare Set. Will definitely buy again.,North America,Positive
+REV0964,2025-12-14,Beauty,Skincare Set,2,The Skincare Set is nothing special. Expected much better for the price.,Asia Pacific,Negative
+REV0965,2025-09-01,Beauty,Lipstick Set,3,The Lipstick Set is decent value. Nothing extraordinary.,Latin America,Neutral
+REV0966,2025-09-01,Beauty,Lipstick Set,5,Amazing product! The Lipstick Set works perfectly and looks great.,Middle East,Positive
+REV0967,2026-04-27,Electronics,Webcam HD,3,The Webcam HD is okay. Nothing special but does the job.,North America,Neutral
+REV0968,2025-07-08,Books,Science Fiction,1,Poor quality and bad customer service. Do not buy this Science Fiction.,Latin America,Negative
+REV0969,2025-08-17,Electronics,Wireless Bluetooth Headphones,3,"It's a decent Wireless Bluetooth Headphones. Not great, not terrible.",Asia Pacific,Neutral
+REV0970,2025-12-19,Books,Python Programming Book,3,It's an okay Python Programming Book. Nothing to write home about.,Latin America,Neutral
+REV0971,2025-12-25,Electronics,Smartphone Case,5,Fantastic quality and arrived quickly. Love my new Smartphone Case!,Latin America,Positive
+REV0972,2025-08-03,Books,Children Stories,2,Poor quality control. My Children Stories had multiple defects.,Asia Pacific,Negative
+REV0973,2025-12-24,Electronics,Smart Watch Pro,5,Great quality and fast shipping. The Smart Watch Pro exceeded my expectations.,Latin America,Positive
+REV0974,2025-10-28,Fashion,Running Shoes,3,Middle of the road Running Shoes. Acceptable but not impressive.,Europe,Neutral
+REV0975,2025-11-02,Beauty,Lipstick Set,3,It's an okay Lipstick Set. Nothing to write home about.,North America,Neutral
+REV0976,2026-04-21,Beauty,Makeup Kit,4,Absolutely love this Makeup Kit! Best purchase I've made this year.,Middle East,Positive
+REV0977,2025-10-02,Beauty,Hair Straightener,5,Outstanding product! The Hair Straightener has made my life so much easier.,Middle East,Positive
+REV0978,2026-01-18,Electronics,Wireless Bluetooth Headphones,5,This Wireless Bluetooth Headphones is a game-changer. So happy with my purchase.,North America,Positive
+REV0979,2025-12-26,Electronics,USB-C Hub,2,Absolutely terrible USB-C Hub. Broke after first use.,Middle East,Negative
+REV0980,2025-08-17,Books,Cooking Recipes,1,Not happy at all. The Cooking Recipes is cheaply made and unreliable.,Europe,Negative
+REV0981,2026-02-07,Electronics,Webcam HD,1,Would not recommend this Webcam HD. Complete waste of money.,Europe,Negative
+REV0982,2025-06-09,Fashion,Cotton T-Shirt,1,Worst purchase ever. The Cotton T-Shirt doesn't work as advertised.,Middle East,Negative
+REV0983,2025-08-28,Books,Novel Collection,1,Not worth the money. The Novel Collection stopped working after a few days.,Latin America,Negative
+REV0984,2026-04-02,Books,Cooking Recipes,4,Super happy with this Cooking Recipes. It's even better than described.,Asia Pacific,Positive
+REV0985,2026-05-15,Beauty,Skincare Set,4,Excellent quality for the price. The Skincare Set is fantastic.,Europe,Positive
+REV0986,2025-06-25,Books,Self-Help Book,4,Very satisfied with my Self-Help Book. Will definitely buy again.,Europe,Positive
+REV0987,2025-12-31,Fashion,Leather Belt,3,The Leather Belt is fine for basic use. Could be better.,Middle East,Neutral
+REV0988,2025-06-22,Fashion,Denim Jeans,2,Avoid this Denim Jeans. It's a complete waste of time and money.,Europe,Negative
+REV0989,2025-06-10,Beauty,Lipstick Set,4,Great investment! The Lipstick Set has exceeded all my expectations.,North America,Positive
+REV0990,2026-05-29,Books,Science Fiction,5,Fantastic quality and arrived quickly. Love my new Science Fiction!,Europe,Positive
+REV0991,2025-09-15,Fashion,Summer Dress,3,The Summer Dress is fine for basic use. Could be better.,Europe,Neutral
+REV0992,2026-04-10,Electronics,Tablet Screen Protector,5,Couldn't be happier with my Tablet Screen Protector. Five stars all the way!,North America,Positive
+REV0993,2026-04-19,Home Appliances,Toaster,4,Amazing product! The Toaster works perfectly and looks great.,North America,Positive
+REV0994,2026-02-28,Electronics,Tablet Screen Protector,4,Outstanding product! The Tablet Screen Protector has made my life so much easier.,Europe,Positive
+REV0995,2025-10-21,Electronics,USB-C Hub,4,The USB-C Hub is exactly what I needed. Great value for money.,Latin America,Positive
+REV0996,2026-02-11,Fashion,Running Shoes,3,The Running Shoes is okay. Nothing special but does the job.,Asia Pacific,Neutral
+REV0997,2025-10-25,Fashion,Sunglasses,5,Absolutely love this Sunglasses! Best purchase I've made this year.,North America,Positive
+REV0998,2025-06-28,Books,Self-Help Book,4,Outstanding product! The Self-Help Book has made my life so much easier.,Middle East,Positive
+REV0999,2025-07-31,Electronics,USB-C Hub,3,The USB-C Hub is adequate. Meets minimum requirements.,Europe,Neutral
+REV1000,2026-05-14,Home Appliances,Vacuum Cleaner,2,Would not recommend this Vacuum Cleaner. Complete waste of money.,North America,Negative
+REV1001,2025-10-01,Beauty,Makeup Kit,4,Great quality and fast shipping. The Makeup Kit exceeded my expectations.,Latin America,Positive
+REV1002,2026-03-28,Beauty,Face Moisturizer,1,Would not recommend this Face Moisturizer. Complete waste of money.,Middle East,Negative
+REV1003,2026-01-20,Fashion,Sunglasses,5,Fantastic quality and arrived quickly. Love my new Sunglasses!,Europe,Positive
+REV1004,2026-04-21,Home Appliances,Iron,4,Absolutely love this Iron! Best purchase I've made this year.,Middle East,Positive
+REV1005,2025-07-02,Home Appliances,Blender,5,Outstanding product! The Blender has made my life so much easier.,Latin America,Positive
+REV1006,2025-08-28,Home Appliances,Vacuum Cleaner,1,Avoid this Vacuum Cleaner. It's a complete waste of time and money.,Middle East,Negative
+REV1007,2025-08-28,Books,Children Stories,1,Regret buying this Children Stories. It's overpriced for what you get.,Middle East,Negative
+REV1008,2026-02-07,Fashion,Casual Sneakers,3,"Received the Casual Sneakers as described. No complaints, no praise.",North America,Neutral
+REV1009,2026-01-07,Fashion,Winter Jacket,4,Great investment! The Winter Jacket has exceeded all my expectations.,Middle East,Positive
+REV1010,2025-08-17,Books,Python Programming Book,4,Absolutely love this Python Programming Book! Best purchase I've made this year.,Latin America,Positive
+REV1011,2026-02-15,Electronics,Portable Charger,3,It's a standard Portable Charger. Does the job but nothing special.,North America,Neutral
+REV1012,2026-01-19,Beauty,Makeup Kit,4,Fantastic quality and arrived quickly. Love my new Makeup Kit!,Latin America,Positive
+REV1013,2025-09-21,Fashion,Leather Belt,4,Absolutely love this Leather Belt! Best purchase I've made this year.,Latin America,Positive
+REV1014,2026-05-10,Home Appliances,Blender,3,It's an okay Blender. Nothing to write home about.,Latin America,Neutral
+REV1015,2025-08-11,Beauty,Hair Dryer,2,Absolutely terrible Hair Dryer. Broke after first use.,Latin America,Negative
+REV1016,2026-05-28,Electronics,Smart Watch Pro,5,Best Smart Watch Pro I've ever owned. Worth every penny!,North America,Positive
+REV1017,2025-10-31,Beauty,Perfume,3,It's a standard Perfume. Does the job but nothing special.,North America,Neutral
+REV1018,2026-04-15,Home Appliances,Air Fryer,3,The Air Fryer is satisfactory. Meets basic needs.,North America,Neutral
+REV1019,2025-07-28,Beauty,Skincare Set,3,Standard quality Skincare Set. Does what it's supposed to do.,Asia Pacific,Neutral
+REV1020,2025-08-30,Books,Novel Collection,3,"It's a decent Novel Collection. Not great, not terrible.",Asia Pacific,Neutral
+REV1021,2025-10-02,Books,Novel Collection,3,It's a standard Novel Collection. Does the job but nothing special.,Europe,Neutral
+REV1022,2025-11-13,Home Appliances,Iron,3,"Received the Iron as described. No complaints, no praise.",North America,Neutral
+REV1023,2025-07-04,Home Appliances,Toaster,3,It's an okay Toaster. Nothing to write home about.,Middle East,Neutral
+REV1024,2026-05-15,Books,Science Fiction,3,It's a standard Science Fiction. Does the job but nothing special.,North America,Neutral
+REV1025,2025-09-06,Beauty,Lipstick Set,4,Very satisfied with my Lipstick Set. Will definitely buy again.,North America,Positive
+REV1026,2025-07-27,Fashion,Summer Dress,4,Outstanding product! The Summer Dress has made my life so much easier.,Europe,Positive
+REV1027,2025-09-14,Books,Python Programming Book,4,Outstanding product! The Python Programming Book has made my life so much easier.,Asia Pacific,Positive
+REV1028,2026-01-03,Beauty,Face Moisturizer,4,Absolutely love this Face Moisturizer! Best purchase I've made this year.,Europe,Positive
+REV1029,2026-02-23,Home Appliances,Electric Kettle,3,It's an okay Electric Kettle. Nothing to write home about.,Middle East,Neutral
+REV1030,2026-05-08,Books,Children Stories,5,Couldn't be happier with my Children Stories. Five stars all the way!,Europe,Positive
+REV1031,2025-11-05,Fashion,Summer Dress,5,Very satisfied with my Summer Dress. Will definitely buy again.,North America,Positive
+REV1032,2025-08-16,Home Appliances,Iron,3,The Iron is decent value. Nothing extraordinary.,Europe,Neutral
+REV1033,2026-06-01,Books,Science Fiction,4,Perfect condition and works perfectly. The Science Fiction is amazing!,Europe,Positive
+REV1034,2025-08-23,Fashion,Denim Jeans,5,Couldn't be happier with my Denim Jeans. Five stars all the way!,Europe,Positive
+REV1035,2026-01-13,Home Appliances,Toaster,4,The Toaster is exactly what I needed. Great value for money.,Asia Pacific,Positive
+REV1036,2025-11-25,Fashion,Leather Belt,4,Best Leather Belt I've ever owned. Worth every penny!,Asia Pacific,Positive
+REV1037,2025-08-03,Electronics,Portable Charger,1,Worst purchase ever. The Portable Charger doesn't work as advertised.,Asia Pacific,Negative
+REV1038,2025-08-20,Electronics,Smartphone Case,2,Absolutely terrible Smartphone Case. Broke after first use.,Asia Pacific,Negative
+REV1039,2026-01-30,Home Appliances,Heater,3,Standard quality Heater. Does what it's supposed to do.,North America,Neutral
+REV1040,2026-02-02,Electronics,Laptop Stand,3,"Received the Laptop Stand as described. No complaints, no praise.",North America,Neutral
+REV1041,2025-12-24,Books,Cooking Recipes,4,Excellent quality for the price. The Cooking Recipes is fantastic.,North America,Positive
+REV1042,2026-04-09,Fashion,Casual Sneakers,3,The Casual Sneakers is fine for basic use. Could be better.,North America,Neutral
+REV1043,2025-07-14,Books,Art Design,3,Basic functionality works. The Art Design is average at best.,Latin America,Neutral
+REV1044,2025-09-09,Beauty,Skincare Set,3,The Skincare Set is satisfactory. Meets basic needs.,Asia Pacific,Neutral
+REV1045,2025-12-22,Fashion,Sunglasses,5,Absolutely love this Sunglasses! Best purchase I've made this year.,Asia Pacific,Positive
+REV1046,2025-11-25,Home Appliances,Iron,1,Would not recommend this Iron. Complete waste of money.,Latin America,Negative
+REV1047,2025-12-31,Beauty,Perfume,5,Fantastic quality and arrived quickly. Love my new Perfume!,Latin America,Positive
+REV1048,2025-08-12,Books,Biography,4,Very satisfied with my Biography. Will definitely buy again.,Latin America,Positive
+REV1049,2026-02-25,Home Appliances,Coffee Maker,2,Not worth the money. The Coffee Maker stopped working after a few days.,North America,Negative
+REV1050,2025-12-28,Home Appliances,Electric Kettle,5,Fantastic quality and arrived quickly. Love my new Electric Kettle!,Middle East,Positive
+REV1051,2025-08-11,Fashion,Running Shoes,2,Very frustrated with this Running Shoes. Save your money and buy something else.,Latin America,Negative
+REV1052,2025-06-23,Home Appliances,Heater,5,Amazing product! The Heater works perfectly and looks great.,North America,Positive
+REV1053,2025-06-03,Fashion,Summer Dress,5,Great quality and fast shipping. The Summer Dress exceeded my expectations.,Asia Pacific,Positive
+REV1054,2026-01-01,Fashion,Backpack,1,Very disappointed with this Backpack. Poor quality and broke after a week.,North America,Negative
+REV1055,2025-10-21,Beauty,Lipstick Set,3,The Lipstick Set is decent value. Nothing extraordinary.,Latin America,Neutral
+REV1056,2026-03-18,Beauty,Perfume,3,"The Perfume works as expected. Nothing more, nothing less.",North America,Neutral
+REV1057,2025-12-10,Books,Biography,5,Perfect! Exactly what I was looking for. Highly recommend the Biography.,Middle East,Positive
+REV1058,2025-07-01,Fashion,Leather Belt,3,Standard quality Leather Belt. Does what it's supposed to do.,Europe,Neutral
+REV1059,2025-06-29,Home Appliances,Toaster,5,Absolutely love this Toaster! Best purchase I've made this year.,Asia Pacific,Positive
+REV1060,2025-10-29,Books,Novel Collection,3,It's a standard Novel Collection. Does the job but nothing special.,North America,Neutral
+REV1061,2026-04-04,Fashion,Wrist Watch,5,Perfect condition and works perfectly. The Wrist Watch is amazing!,Asia Pacific,Positive
+REV1062,2025-10-18,Home Appliances,Coffee Maker,3,Average experience with the Coffee Maker. Could use some improvements.,Europe,Neutral
+REV1063,2025-06-08,Fashion,Wrist Watch,5,Super happy with this Wrist Watch. It's even better than described.,Asia Pacific,Positive
+REV1064,2025-08-24,Electronics,USB-C Hub,4,Perfect condition and works perfectly. The USB-C Hub is amazing!,Europe,Positive
+REV1065,2026-03-15,Books,Children Stories,1,Regret buying this Children Stories. It's overpriced for what you get.,Latin America,Negative
+REV1066,2025-07-11,Electronics,Laptop Stand,2,Poor quality control. My Laptop Stand had multiple defects.,Asia Pacific,Negative
+REV1067,2026-05-21,Home Appliances,Blender,2,Terrible experience. The Blender arrived damaged and customer service was unhelpful.,Asia Pacific,Negative
+REV1068,2025-06-16,Electronics,USB-C Hub,4,Fantastic quality and arrived quickly. Love my new USB-C Hub!,Europe,Positive
+REV1069,2025-11-06,Fashion,Winter Jacket,4,Super happy with this Winter Jacket. It's even better than described.,North America,Positive
+REV1070,2025-07-11,Electronics,Webcam HD,1,Would not recommend this Webcam HD. Complete waste of money.,North America,Negative
+REV1071,2025-06-18,Books,Biography,4,Great investment! The Biography has exceeded all my expectations.,Asia Pacific,Positive
+REV1072,2025-06-24,Electronics,Wireless Mouse,3,It's a standard Wireless Mouse. Does the job but nothing special.,North America,Neutral
+REV1073,2026-04-06,Fashion,Casual Sneakers,1,Absolutely terrible Casual Sneakers. Broke after first use.,Asia Pacific,Negative
+REV1074,2025-06-16,Electronics,Laptop Stand,2,The Laptop Stand arrived late and in poor condition. Very disappointed.,Asia Pacific,Negative
+REV1075,2025-11-29,Fashion,Wrist Watch,1,Very frustrated with this Wrist Watch. Save your money and buy something else.,Middle East,Negative
+REV1076,2025-07-06,Electronics,Tablet Screen Protector,1,Not happy at all. The Tablet Screen Protector is cheaply made and unreliable.,Europe,Negative
+REV1077,2025-10-24,Fashion,Wrist Watch,4,Great investment! The Wrist Watch has exceeded all my expectations.,Europe,Positive
+REV1078,2026-02-15,Beauty,Skincare Set,3,It's an okay Skincare Set. Nothing to write home about.,North America,Neutral
+REV1079,2025-09-02,Home Appliances,Electric Kettle,4,Super happy with this Electric Kettle. It's even better than described.,North America,Positive
+REV1080,2025-11-09,Electronics,Webcam HD,4,Outstanding product! The Webcam HD has made my life so much easier.,Asia Pacific,Positive
+REV1081,2026-05-28,Home Appliances,Fan,3,Standard quality Fan. Does what it's supposed to do.,Latin America,Neutral
+REV1082,2025-07-31,Beauty,Perfume,3,Middle of the road Perfume. Acceptable but not impressive.,Latin America,Neutral
+REV1083,2025-09-25,Books,Business Strategy,5,Amazing product! The Business Strategy works perfectly and looks great.,North America,Positive
+REV1084,2026-01-31,Home Appliances,Blender,5,The Blender is exactly what I needed. Great value for money.,North America,Positive
+REV1085,2025-12-21,Beauty,Body Lotion,3,Average quality for the price. The Body Lotion meets basic expectations.,Europe,Neutral
+REV1086,2025-12-21,Beauty,Sunscreen,1,Not worth the money. The Sunscreen stopped working after a few days.,Asia Pacific,Negative
+REV1087,2025-09-11,Home Appliances,Vacuum Cleaner,3,Average quality for the price. The Vacuum Cleaner meets basic expectations.,Europe,Neutral
+REV1088,2026-01-05,Beauty,Perfume,2,Avoid this Perfume. It's a complete waste of time and money.,Latin America,Negative
+REV1089,2025-12-01,Beauty,Sunscreen,2,Very frustrated with this Sunscreen. Save your money and buy something else.,Asia Pacific,Negative
+REV1090,2025-08-16,Beauty,Lipstick Set,5,Outstanding product! The Lipstick Set has made my life so much easier.,Europe,Positive
+REV1091,2026-04-19,Fashion,Cotton T-Shirt,4,Perfect condition and works perfectly. The Cotton T-Shirt is amazing!,North America,Positive
+REV1092,2026-02-12,Electronics,Laptop Stand,5,Perfect! Exactly what I was looking for. Highly recommend the Laptop Stand.,Asia Pacific,Positive
+REV1093,2026-04-16,Books,Novel Collection,2,Avoid this Novel Collection. It's a complete waste of time and money.,Latin America,Negative
+REV1094,2025-09-13,Home Appliances,Microwave Oven,3,Basic functionality works. The Microwave Oven is average at best.,Asia Pacific,Neutral
+REV1095,2026-03-05,Books,Python Programming Book,1,Regret buying this Python Programming Book. It's overpriced for what you get.,North America,Negative
+REV1096,2025-12-15,Beauty,Skincare Set,2,Worst purchase ever. The Skincare Set doesn't work as advertised.,North America,Negative
+REV1097,2025-06-18,Fashion,Wrist Watch,3,The Wrist Watch is satisfactory. Meets basic needs.,Europe,Neutral
+REV1098,2026-02-08,Beauty,Hair Dryer,5,Outstanding product! The Hair Dryer has made my life so much easier.,North America,Positive
+REV1099,2026-03-20,Beauty,Body Lotion,3,It's an okay Body Lotion. Nothing to write home about.,Middle East,Neutral
+REV1100,2025-08-21,Books,Python Programming Book,5,Couldn't be happier with my Python Programming Book. Five stars all the way!,Latin America,Positive
+REV1101,2026-04-13,Home Appliances,Iron,4,Couldn't be happier with my Iron. Five stars all the way!,North America,Positive
+REV1102,2025-08-06,Home Appliances,Toaster,1,Avoid this Toaster. It's a complete waste of time and money.,Asia Pacific,Negative
+REV1103,2025-12-13,Electronics,Portable Charger,5,Super happy with this Portable Charger. It's even better than described.,Asia Pacific,Positive
+REV1104,2025-06-30,Fashion,Winter Jacket,5,Couldn't be happier with my Winter Jacket. Five stars all the way!,North America,Positive
+REV1105,2026-05-20,Electronics,Wireless Mouse,4,Absolutely love this Wireless Mouse! Best purchase I've made this year.,Middle East,Positive
+REV1106,2025-11-15,Electronics,Webcam HD,3,The Webcam HD is decent value. Nothing extraordinary.,Middle East,Neutral
+REV1107,2026-01-03,Home Appliances,Air Fryer,3,Standard quality Air Fryer. Does what it's supposed to do.,Latin America,Neutral
+REV1108,2026-03-21,Beauty,Skincare Set,3,Average quality for the price. The Skincare Set meets basic expectations.,Europe,Neutral
+REV1109,2025-11-21,Beauty,Body Lotion,2,Terrible experience. The Body Lotion arrived damaged and customer service was unhelpful.,Middle East,Negative
+REV1110,2025-11-02,Home Appliances,Electric Kettle,4,Perfect condition and works perfectly. The Electric Kettle is amazing!,Middle East,Positive
+REV1111,2025-09-19,Home Appliances,Iron,5,This Iron is a game-changer. So happy with my purchase.,Europe,Positive
+REV1112,2026-04-17,Electronics,Tablet Screen Protector,5,Very satisfied with my Tablet Screen Protector. Will definitely buy again.,North America,Positive
+REV1113,2026-03-19,Books,Art Design,5,This Art Design is a game-changer. So happy with my purchase.,North America,Positive
+REV1114,2026-05-01,Home Appliances,Fan,2,Absolutely terrible Fan. Broke after first use.,Middle East,Negative
+REV1115,2025-11-09,Fashion,Sunglasses,5,The Sunglasses is exactly what I needed. Great value for money.,Middle East,Positive
+REV1116,2025-09-02,Electronics,Smartphone Case,2,Would not recommend this Smartphone Case. Complete waste of money.,Latin America,Negative
+REV1117,2025-10-17,Books,Biography,2,Poor quality and bad customer service. Do not buy this Biography.,Middle East,Negative
+REV1118,2026-04-18,Electronics,Smartphone Case,5,Perfect! Exactly what I was looking for. Highly recommend the Smartphone Case.,Europe,Positive
+REV1119,2025-08-18,Home Appliances,Electric Kettle,4,The Electric Kettle is exactly what I needed. Great value for money.,Europe,Positive
+REV1120,2025-12-30,Home Appliances,Iron,3,Middle of the road Iron. Acceptable but not impressive.,Middle East,Neutral
+REV1121,2025-09-30,Beauty,Makeup Kit,4,Absolutely love this Makeup Kit! Best purchase I've made this year.,Europe,Positive
+REV1122,2025-11-07,Beauty,Nail Polish,3,The Nail Polish is adequate. Meets minimum requirements.,North America,Neutral
+REV1123,2025-09-13,Fashion,Summer Dress,5,This Summer Dress is a game-changer. So happy with my purchase.,Asia Pacific,Positive
+REV1124,2026-05-05,Books,Self-Help Book,3,"The Self-Help Book works as expected. Nothing more, nothing less.",Latin America,Neutral
+REV1125,2025-06-12,Electronics,Smart Watch Pro,5,Perfect condition and works perfectly. The Smart Watch Pro is amazing!,North America,Positive
+REV1126,2025-12-27,Home Appliances,Coffee Maker,4,Amazing product! The Coffee Maker works perfectly and looks great.,North America,Positive
+REV1127,2026-03-21,Books,Novel Collection,3,It's an okay Novel Collection. Nothing to write home about.,North America,Neutral
+REV1128,2025-10-01,Books,Novel Collection,2,Poor quality control. My Novel Collection had multiple defects.,Middle East,Negative
+REV1129,2025-12-18,Fashion,Sunglasses,4,Perfect! Exactly what I was looking for. Highly recommend the Sunglasses.,Europe,Positive
+REV1130,2025-10-20,Beauty,Hair Straightener,4,Outstanding product! The Hair Straightener has made my life so much easier.,Middle East,Positive
+REV1131,2025-12-10,Electronics,Mechanical Keyboard,3,Middle of the road Mechanical Keyboard. Acceptable but not impressive.,Europe,Neutral
+REV1132,2025-10-22,Fashion,Leather Belt,3,Average experience with the Leather Belt. Could use some improvements.,Asia Pacific,Neutral
+REV1133,2025-06-12,Books,Python Programming Book,1,Not happy at all. The Python Programming Book is cheaply made and unreliable.,Europe,Negative
+REV1134,2025-10-09,Books,Business Strategy,5,Great investment! The Business Strategy has exceeded all my expectations.,North America,Positive
+REV1135,2026-03-02,Fashion,Backpack,5,Great investment! The Backpack has exceeded all my expectations.,Asia Pacific,Positive
+REV1136,2025-11-03,Electronics,USB-C Hub,4,Great investment! The USB-C Hub has exceeded all my expectations.,Latin America,Positive
+REV1137,2026-04-21,Home Appliances,Electric Kettle,2,The Electric Kettle is nothing special. Expected much better for the price.,North America,Negative
+REV1138,2026-02-08,Beauty,Hair Straightener,2,Not happy at all. The Hair Straightener is cheaply made and unreliable.,Latin America,Negative
+REV1139,2025-07-23,Fashion,Summer Dress,3,The Summer Dress is adequate. Meets minimum requirements.,Middle East,Neutral
+REV1140,2026-03-09,Home Appliances,Microwave Oven,3,Middle of the road Microwave Oven. Acceptable but not impressive.,Europe,Neutral
+REV1141,2026-04-20,Beauty,Hair Dryer,4,The Hair Dryer is exactly what I needed. Great value for money.,Asia Pacific,Positive
+REV1142,2025-11-09,Books,Novel Collection,4,Best Novel Collection I've ever owned. Worth every penny!,Europe,Positive
+REV1143,2026-04-02,Beauty,Skincare Set,3,"Received the Skincare Set as described. No complaints, no praise.",Europe,Neutral
+REV1144,2026-05-19,Books,History Book,1,Not worth the money. The History Book stopped working after a few days.,Latin America,Negative
+REV1145,2025-12-07,Fashion,Sunglasses,1,Very disappointed with this Sunglasses. Poor quality and broke after a week.,North America,Negative
+REV1146,2026-03-14,Books,Cooking Recipes,2,Would not recommend this Cooking Recipes. Complete waste of money.,Asia Pacific,Negative
+REV1147,2026-05-27,Fashion,Cotton T-Shirt,5,Couldn't be happier with my Cotton T-Shirt. Five stars all the way!,Asia Pacific,Positive
+REV1148,2025-08-17,Electronics,Mechanical Keyboard,4,Absolutely love this Mechanical Keyboard! Best purchase I've made this year.,Middle East,Positive
+REV1149,2026-01-10,Beauty,Nail Polish,4,Amazing product! The Nail Polish works perfectly and looks great.,Asia Pacific,Positive
+REV1150,2025-10-27,Beauty,Hair Straightener,4,Couldn't be happier with my Hair Straightener. Five stars all the way!,Europe,Positive
+REV1151,2025-10-24,Fashion,Sunglasses,4,Absolutely love this Sunglasses! Best purchase I've made this year.,Asia Pacific,Positive
+REV1152,2025-10-14,Fashion,Casual Sneakers,3,Standard quality Casual Sneakers. Does what it's supposed to do.,Middle East,Neutral
+REV1153,2026-05-18,Beauty,Lipstick Set,4,Perfect condition and works perfectly. The Lipstick Set is amazing!,Asia Pacific,Positive
+REV1154,2026-05-22,Beauty,Makeup Kit,3,"The Makeup Kit works as expected. Nothing more, nothing less.",Middle East,Neutral
+REV1155,2025-10-11,Electronics,Smart Watch Pro,3,Standard quality Smart Watch Pro. Does what it's supposed to do.,Europe,Neutral
+REV1156,2026-01-29,Home Appliances,Heater,1,Very disappointed with this Heater. Poor quality and broke after a week.,Asia Pacific,Negative
+REV1157,2026-02-15,Books,Business Strategy,5,The Business Strategy is exactly what I needed. Great value for money.,Asia Pacific,Positive
+REV1158,2025-08-08,Books,Python Programming Book,3,"It's a decent Python Programming Book. Not great, not terrible.",Middle East,Neutral
+REV1159,2026-02-09,Home Appliances,Microwave Oven,5,Fantastic quality and arrived quickly. Love my new Microwave Oven!,Middle East,Positive
+REV1160,2026-01-09,Fashion,Summer Dress,4,Perfect! Exactly what I was looking for. Highly recommend the Summer Dress.,Latin America,Positive
+REV1161,2025-10-23,Home Appliances,Electric Kettle,5,Couldn't be happier with my Electric Kettle. Five stars all the way!,Asia Pacific,Positive
+REV1162,2026-02-21,Home Appliances,Electric Kettle,2,Not happy at all. The Electric Kettle is cheaply made and unreliable.,Latin America,Negative
+REV1163,2025-08-18,Books,Art Design,4,Absolutely love this Art Design! Best purchase I've made this year.,Europe,Positive
+REV1164,2025-09-03,Electronics,Webcam HD,5,Super happy with this Webcam HD. It's even better than described.,North America,Positive
+REV1165,2026-02-10,Electronics,Webcam HD,5,Outstanding product! The Webcam HD has made my life so much easier.,Latin America,Positive
+REV1166,2025-07-29,Fashion,Denim Jeans,4,Perfect condition and works perfectly. The Denim Jeans is amazing!,Asia Pacific,Positive
+REV1167,2025-09-02,Fashion,Wrist Watch,1,The Wrist Watch arrived late and in poor condition. Very disappointed.,North America,Negative
+REV1168,2026-02-26,Books,Self-Help Book,4,Amazing product! The Self-Help Book works perfectly and looks great.,Latin America,Positive
+REV1169,2026-05-14,Electronics,Mechanical Keyboard,4,Super happy with this Mechanical Keyboard. It's even better than described.,Asia Pacific,Positive
+REV1170,2026-03-31,Electronics,Mechanical Keyboard,4,Outstanding product! The Mechanical Keyboard has made my life so much easier.,Latin America,Positive
+REV1171,2026-01-20,Home Appliances,Heater,3,The Heater is okay. Nothing special but does the job.,Middle East,Neutral
+REV1172,2026-01-19,Home Appliances,Heater,4,This Heater is a game-changer. So happy with my purchase.,Asia Pacific,Positive
+REV1173,2025-11-14,Electronics,Smart Watch Pro,3,Average quality for the price. The Smart Watch Pro meets basic expectations.,Latin America,Neutral
+REV1174,2025-10-10,Fashion,Winter Jacket,2,Not worth the money. The Winter Jacket stopped working after a few days.,North America,Negative
+REV1175,2025-09-16,Fashion,Sunglasses,2,Absolutely terrible Sunglasses. Broke after first use.,Europe,Negative
+REV1176,2025-08-02,Home Appliances,Microwave Oven,2,Poor quality and bad customer service. Do not buy this Microwave Oven.,Middle East,Negative
+REV1177,2025-08-08,Home Appliances,Coffee Maker,1,Worst purchase ever. The Coffee Maker doesn't work as advertised.,Latin America,Negative
+REV1178,2025-12-17,Beauty,Perfume,3,Average quality for the price. The Perfume meets basic expectations.,Latin America,Neutral
+REV1179,2025-12-07,Books,Self-Help Book,5,Great quality and fast shipping. The Self-Help Book exceeded my expectations.,North America,Positive
+REV1180,2026-02-19,Home Appliances,Microwave Oven,3,The Microwave Oven is satisfactory. Meets basic needs.,Latin America,Neutral
+REV1181,2026-02-26,Books,Novel Collection,5,Great quality and fast shipping. The Novel Collection exceeded my expectations.,Latin America,Positive
+REV1182,2025-11-02,Fashion,Running Shoes,3,Average experience with the Running Shoes. Could use some improvements.,Europe,Neutral
+REV1183,2026-02-24,Beauty,Perfume,3,The Perfume is satisfactory. Meets basic needs.,North America,Neutral
+REV1184,2026-02-19,Electronics,Smartphone Case,4,Outstanding product! The Smartphone Case has made my life so much easier.,Middle East,Positive
+REV1185,2025-10-09,Home Appliances,Iron,3,Average quality for the price. The Iron meets basic expectations.,Latin America,Neutral
+REV1186,2025-09-01,Fashion,Sunglasses,5,Great investment! The Sunglasses has exceeded all my expectations.,Asia Pacific,Positive
+REV1187,2025-11-09,Books,Art Design,2,The Art Design arrived late and in poor condition. Very disappointed.,Asia Pacific,Negative
+REV1188,2025-11-23,Fashion,Winter Jacket,5,Perfect condition and works perfectly. The Winter Jacket is amazing!,North America,Positive
+REV1189,2026-01-10,Books,Python Programming Book,4,Absolutely love this Python Programming Book! Best purchase I've made this year.,Europe,Positive
+REV1190,2026-05-03,Beauty,Nail Polish,3,"Received the Nail Polish as described. No complaints, no praise.",Middle East,Neutral
+REV1191,2026-04-13,Home Appliances,Electric Kettle,1,Terrible experience. The Electric Kettle arrived damaged and customer service was unhelpful.,Europe,Negative
+REV1192,2025-06-09,Fashion,Denim Jeans,1,The Denim Jeans is nothing special. Expected much better for the price.,North America,Negative
+REV1193,2025-09-17,Beauty,Hair Dryer,3,Average experience with the Hair Dryer. Could use some improvements.,Middle East,Neutral
+REV1194,2025-09-07,Electronics,Wireless Mouse,1,Worst purchase ever. The Wireless Mouse doesn't work as advertised.,Latin America,Negative
+REV1195,2025-06-13,Electronics,Laptop Stand,2,Worst purchase ever. The Laptop Stand doesn't work as advertised.,Latin America,Negative
+REV1196,2025-06-12,Beauty,Sunscreen,5,Couldn't be happier with my Sunscreen. Five stars all the way!,Latin America,Positive
+REV1197,2025-06-28,Home Appliances,Air Fryer,5,Super happy with this Air Fryer. It's even better than described.,Latin America,Positive
+REV1198,2026-03-25,Books,Children Stories,1,Worst purchase ever. The Children Stories doesn't work as advertised.,Latin America,Negative
+REV1199,2026-02-05,Books,Biography,3,The Biography is fine for basic use. Could be better.,North America,Neutral
+REV1200,2026-02-27,Electronics,Portable Charger,3,"Received the Portable Charger as described. No complaints, no praise.",Latin America,Neutral
+REV1201,2026-01-30,Electronics,Webcam HD,3,It's an okay Webcam HD. Nothing to write home about.,Latin America,Neutral
+REV1202,2025-06-12,Fashion,Summer Dress,3,Standard quality Summer Dress. Does what it's supposed to do.,Latin America,Neutral
+REV1203,2025-09-28,Books,Cooking Recipes,3,The Cooking Recipes is satisfactory. Meets basic needs.,Middle East,Neutral
+REV1204,2026-05-04,Beauty,Hair Dryer,2,Regret buying this Hair Dryer. It's overpriced for what you get.,Asia Pacific,Negative
+REV1205,2026-01-29,Fashion,Casual Sneakers,4,The Casual Sneakers is exactly what I needed. Great value for money.,Latin America,Positive
+REV1206,2025-08-07,Fashion,Winter Jacket,5,Great quality and fast shipping. The Winter Jacket exceeded my expectations.,Latin America,Positive
+REV1207,2026-02-09,Home Appliances,Vacuum Cleaner,4,Absolutely love this Vacuum Cleaner! Best purchase I've made this year.,Asia Pacific,Positive
+REV1208,2025-10-13,Home Appliances,Blender,4,This Blender is a game-changer. So happy with my purchase.,North America,Positive
+REV1209,2025-11-21,Beauty,Lipstick Set,3,Basic functionality works. The Lipstick Set is average at best.,Europe,Neutral
+REV1210,2026-02-06,Home Appliances,Toaster,1,Avoid this Toaster. It's a complete waste of time and money.,Middle East,Negative
+REV1211,2025-10-16,Fashion,Wrist Watch,3,"The Wrist Watch works as expected. Nothing more, nothing less.",North America,Neutral
+REV1212,2026-01-12,Beauty,Lipstick Set,1,The Lipstick Set is nothing special. Expected much better for the price.,Middle East,Negative
+REV1213,2025-06-23,Books,Novel Collection,4,Perfect condition and works perfectly. The Novel Collection is amazing!,Europe,Positive
+REV1214,2025-12-04,Fashion,Summer Dress,3,"The Summer Dress works as expected. Nothing more, nothing less.",North America,Neutral
+REV1215,2025-08-19,Home Appliances,Toaster,1,The Toaster is nothing special. Expected much better for the price.,Europe,Negative
+REV1216,2026-01-12,Beauty,Face Moisturizer,5,Excellent quality for the price. The Face Moisturizer is fantastic.,Asia Pacific,Positive
+REV1217,2026-02-15,Fashion,Denim Jeans,5,Excellent quality for the price. The Denim Jeans is fantastic.,Europe,Positive
+REV1218,2025-08-18,Books,Business Strategy,1,Avoid this Business Strategy. It's a complete waste of time and money.,Latin America,Negative
+REV1219,2025-12-30,Beauty,Nail Polish,2,Very disappointed with this Nail Polish. Poor quality and broke after a week.,Latin America,Negative
+REV1220,2025-08-15,Electronics,Smartphone Case,1,Poor quality control. My Smartphone Case had multiple defects.,Asia Pacific,Negative
+REV1221,2025-12-24,Fashion,Sunglasses,4,The Sunglasses is exactly what I needed. Great value for money.,Europe,Positive
+REV1222,2026-03-23,Electronics,Smartphone Case,2,Regret buying this Smartphone Case. It's overpriced for what you get.,Middle East,Negative
+REV1223,2025-11-04,Home Appliances,Toaster,5,Great investment! The Toaster has exceeded all my expectations.,Middle East,Positive
+REV1224,2026-04-10,Fashion,Sunglasses,4,Great investment! The Sunglasses has exceeded all my expectations.,Middle East,Positive
+REV1225,2026-04-17,Books,Art Design,3,It's a standard Art Design. Does the job but nothing special.,Europe,Neutral
+REV1226,2025-11-03,Electronics,Wireless Bluetooth Headphones,3,"The Wireless Bluetooth Headphones works as expected. Nothing more, nothing less.",Europe,Neutral
+REV1227,2026-02-23,Books,Science Fiction,5,Best Science Fiction I've ever owned. Worth every penny!,Asia Pacific,Positive
+REV1228,2026-04-23,Fashion,Cotton T-Shirt,5,Amazing product! The Cotton T-Shirt works perfectly and looks great.,Asia Pacific,Positive
+REV1229,2026-01-04,Books,Novel Collection,3,"Received the Novel Collection as described. No complaints, no praise.",Middle East,Neutral
+REV1230,2025-11-30,Electronics,Wireless Bluetooth Headphones,1,Worst purchase ever. The Wireless Bluetooth Headphones doesn't work as advertised.,Asia Pacific,Negative
+REV1231,2026-03-22,Electronics,Webcam HD,4,This Webcam HD is a game-changer. So happy with my purchase.,Middle East,Positive
+REV1232,2026-03-18,Books,Biography,5,Very satisfied with my Biography. Will definitely buy again.,Middle East,Positive
+REV1233,2026-05-12,Fashion,Sunglasses,3,Average quality for the price. The Sunglasses meets basic expectations.,Asia Pacific,Neutral
+REV1234,2026-02-21,Books,Cooking Recipes,2,Worst purchase ever. The Cooking Recipes doesn't work as advertised.,North America,Negative
+REV1235,2025-08-16,Beauty,Hair Straightener,4,Super happy with this Hair Straightener. It's even better than described.,Europe,Positive
+REV1236,2026-01-31,Fashion,Backpack,5,Couldn't be happier with my Backpack. Five stars all the way!,Middle East,Positive
+REV1237,2026-02-22,Beauty,Perfume,3,It's an okay Perfume. Nothing to write home about.,Latin America,Neutral
+REV1238,2026-01-01,Fashion,Running Shoes,3,"The Running Shoes works as expected. Nothing more, nothing less.",Latin America,Neutral
+REV1239,2025-08-07,Books,Children Stories,4,Outstanding product! The Children Stories has made my life so much easier.,Latin America,Positive
+REV1240,2025-06-18,Fashion,Wrist Watch,4,Couldn't be happier with my Wrist Watch. Five stars all the way!,Latin America,Positive
+REV1241,2025-07-28,Electronics,Mechanical Keyboard,3,Basic functionality works. The Mechanical Keyboard is average at best.,Europe,Neutral
+REV1242,2025-08-01,Home Appliances,Iron,2,The Iron is nothing like the pictures. Very misleading.,Latin America,Negative
+REV1243,2025-06-16,Fashion,Running Shoes,2,Very disappointed with this Running Shoes. Poor quality and broke after a week.,Asia Pacific,Negative
+REV1244,2025-10-25,Fashion,Running Shoes,2,Very disappointed with this Running Shoes. Poor quality and broke after a week.,North America,Negative
+REV1245,2026-03-09,Home Appliances,Coffee Maker,2,Worst purchase ever. The Coffee Maker doesn't work as advertised.,Middle East,Negative
+REV1246,2025-11-07,Books,Art Design,2,Worst purchase ever. The Art Design doesn't work as advertised.,Middle East,Negative
+REV1247,2025-08-08,Fashion,Wrist Watch,3,Middle of the road Wrist Watch. Acceptable but not impressive.,Latin America,Neutral
+REV1248,2025-08-17,Home Appliances,Coffee Maker,2,Regret buying this Coffee Maker. It's overpriced for what you get.,Europe,Negative
+REV1249,2025-12-21,Home Appliances,Fan,5,Fantastic quality and arrived quickly. Love my new Fan!,Asia Pacific,Positive
+REV1250,2026-04-28,Electronics,Laptop Stand,3,Basic functionality works. The Laptop Stand is average at best.,North America,Neutral
+REV1251,2026-04-27,Books,Novel Collection,4,Couldn't be happier with my Novel Collection. Five stars all the way!,Middle East,Positive
+REV1252,2025-09-06,Beauty,Body Lotion,1,Absolutely terrible Body Lotion. Broke after first use.,Middle East,Negative
+REV1253,2025-09-02,Electronics,Wireless Mouse,1,The Wireless Mouse is nothing special. Expected much better for the price.,Middle East,Negative
+REV1254,2026-01-15,Electronics,Smartphone Case,3,The Smartphone Case is decent value. Nothing extraordinary.,North America,Neutral
+REV1255,2026-02-08,Electronics,Mechanical Keyboard,5,Absolutely love this Mechanical Keyboard! Best purchase I've made this year.,Middle East,Positive
+REV1256,2025-11-11,Beauty,Perfume,4,Best Perfume I've ever owned. Worth every penny!,Europe,Positive
+REV1257,2025-10-26,Fashion,Running Shoes,4,Perfect! Exactly what I was looking for. Highly recommend the Running Shoes.,Asia Pacific,Positive
+REV1258,2025-12-27,Fashion,Cotton T-Shirt,3,"It's a decent Cotton T-Shirt. Not great, not terrible.",North America,Neutral
+REV1259,2026-06-02,Electronics,Wireless Mouse,5,Perfect! Exactly what I was looking for. Highly recommend the Wireless Mouse.,Latin America,Positive
+REV1260,2025-11-14,Home Appliances,Electric Kettle,1,Very disappointed with this Electric Kettle. Poor quality and broke after a week.,Europe,Negative
+REV1261,2025-10-02,Books,Biography,5,Great quality and fast shipping. The Biography exceeded my expectations.,Asia Pacific,Positive
+REV1262,2025-07-03,Home Appliances,Microwave Oven,3,It's an okay Microwave Oven. Nothing to write home about.,North America,Neutral
+REV1263,2025-12-27,Fashion,Cotton T-Shirt,4,Amazing product! The Cotton T-Shirt works perfectly and looks great.,Middle East,Positive
+REV1264,2026-05-01,Fashion,Summer Dress,3,Average quality for the price. The Summer Dress meets basic expectations.,Middle East,Neutral
+REV1265,2025-09-14,Fashion,Leather Belt,3,It's a standard Leather Belt. Does the job but nothing special.,Europe,Neutral
+REV1266,2026-03-04,Beauty,Body Lotion,3,Average experience with the Body Lotion. Could use some improvements.,Latin America,Neutral
+REV1267,2026-04-15,Home Appliances,Blender,5,Very satisfied with my Blender. Will definitely buy again.,Middle East,Positive
+REV1268,2025-10-08,Beauty,Skincare Set,1,The Skincare Set arrived late and in poor condition. Very disappointed.,Middle East,Negative
+REV1269,2025-10-24,Electronics,Laptop Stand,3,"Received the Laptop Stand as described. No complaints, no praise.",North America,Neutral
+REV1270,2025-12-21,Electronics,Laptop Stand,3,The Laptop Stand is satisfactory. Meets basic needs.,Latin America,Neutral
+REV1271,2025-09-17,Books,Children Stories,2,Poor quality and bad customer service. Do not buy this Children Stories.,Asia Pacific,Negative
+REV1272,2026-04-23,Home Appliances,Microwave Oven,5,Excellent quality for the price. The Microwave Oven is fantastic.,Europe,Positive
+REV1273,2026-01-23,Books,History Book,4,The History Book is exactly what I needed. Great value for money.,North America,Positive
+REV1274,2026-04-09,Beauty,Face Moisturizer,1,Regret buying this Face Moisturizer. It's overpriced for what you get.,Middle East,Negative
+REV1275,2026-05-24,Beauty,Hair Straightener,3,Basic functionality works. The Hair Straightener is average at best.,North America,Neutral
+REV1276,2026-05-11,Beauty,Lipstick Set,5,Perfect condition and works perfectly. The Lipstick Set is amazing!,Middle East,Positive
+REV1277,2025-12-02,Beauty,Hair Dryer,1,Not worth the money. The Hair Dryer stopped working after a few days.,Latin America,Negative
+REV1278,2025-12-08,Fashion,Backpack,4,This Backpack is a game-changer. So happy with my purchase.,Asia Pacific,Positive
+REV1279,2026-05-16,Home Appliances,Vacuum Cleaner,5,This Vacuum Cleaner is a game-changer. So happy with my purchase.,Europe,Positive
+REV1280,2025-09-29,Beauty,Skincare Set,5,Great investment! The Skincare Set has exceeded all my expectations.,Middle East,Positive
+REV1281,2025-09-17,Electronics,USB-C Hub,2,Not worth the money. The USB-C Hub stopped working after a few days.,Asia Pacific,Negative
+REV1282,2026-03-20,Books,Art Design,4,The Art Design is exactly what I needed. Great value for money.,Middle East,Positive
+REV1283,2026-05-12,Books,Biography,4,Fantastic quality and arrived quickly. Love my new Biography!,North America,Positive
+REV1284,2025-08-06,Home Appliances,Heater,2,Would not recommend this Heater. Complete waste of money.,North America,Negative
+REV1285,2026-05-22,Books,Biography,5,Absolutely love this Biography! Best purchase I've made this year.,Latin America,Positive
+REV1286,2026-04-26,Electronics,Mechanical Keyboard,5,Very satisfied with my Mechanical Keyboard. Will definitely buy again.,North America,Positive
+REV1287,2026-05-16,Books,Art Design,3,The Art Design is satisfactory. Meets basic needs.,Europe,Neutral
+REV1288,2025-06-26,Home Appliances,Electric Kettle,3,The Electric Kettle is okay. Nothing special but does the job.,Latin America,Neutral
+REV1289,2025-09-09,Home Appliances,Coffee Maker,1,Not happy at all. The Coffee Maker is cheaply made and unreliable.,Europe,Negative
+REV1290,2026-05-21,Beauty,Lipstick Set,1,Terrible experience. The Lipstick Set arrived damaged and customer service was unhelpful.,Asia Pacific,Negative
+REV1291,2025-11-08,Electronics,Smart Watch Pro,5,This Smart Watch Pro is a game-changer. So happy with my purchase.,North America,Positive
+REV1292,2026-04-01,Home Appliances,Iron,5,Amazing product! The Iron works perfectly and looks great.,Asia Pacific,Positive
+REV1293,2025-06-29,Home Appliances,Fan,1,Avoid this Fan. It's a complete waste of time and money.,Middle East,Negative
+REV1294,2026-04-15,Beauty,Lipstick Set,3,Average quality for the price. The Lipstick Set meets basic expectations.,North America,Neutral
+REV1295,2025-06-19,Beauty,Skincare Set,1,Avoid this Skincare Set. It's a complete waste of time and money.,Europe,Negative
+REV1296,2025-07-03,Beauty,Face Moisturizer,5,Great quality and fast shipping. The Face Moisturizer exceeded my expectations.,North America,Positive
+REV1297,2026-05-14,Electronics,Smartphone Case,5,Super happy with this Smartphone Case. It's even better than described.,North America,Positive
+REV1298,2026-04-14,Beauty,Makeup Kit,1,Worst purchase ever. The Makeup Kit doesn't work as advertised.,Latin America,Negative
+REV1299,2026-01-25,Beauty,Sunscreen,3,Middle of the road Sunscreen. Acceptable but not impressive.,North America,Neutral
+REV1300,2026-01-20,Books,History Book,3,Average quality for the price. The History Book meets basic expectations.,North America,Neutral
+REV1301,2026-04-02,Electronics,Tablet Screen Protector,1,Poor quality and bad customer service. Do not buy this Tablet Screen Protector.,Middle East,Negative
+REV1302,2025-08-05,Books,Science Fiction,5,Fantastic quality and arrived quickly. Love my new Science Fiction!,Middle East,Positive
+REV1303,2026-01-15,Fashion,Winter Jacket,4,Absolutely love this Winter Jacket! Best purchase I've made this year.,Europe,Positive
+REV1304,2025-11-08,Books,Business Strategy,3,"Received the Business Strategy as described. No complaints, no praise.",Middle East,Neutral
+REV1305,2026-03-06,Fashion,Running Shoes,3,"Received the Running Shoes as described. No complaints, no praise.",Asia Pacific,Neutral
+REV1306,2025-06-06,Books,Biography,3,The Biography is okay. Nothing special but does the job.,Europe,Neutral
+REV1307,2026-02-16,Books,Python Programming Book,4,Amazing product! The Python Programming Book works perfectly and looks great.,Europe,Positive
+REV1308,2025-07-07,Home Appliances,Vacuum Cleaner,3,The Vacuum Cleaner is decent value. Nothing extraordinary.,Asia Pacific,Neutral
+REV1309,2026-03-25,Books,History Book,3,Standard quality History Book. Does what it's supposed to do.,Europe,Neutral
+REV1310,2025-07-25,Beauty,Face Moisturizer,3,Middle of the road Face Moisturizer. Acceptable but not impressive.,Europe,Neutral
+REV1311,2026-05-22,Fashion,Backpack,3,It's an okay Backpack. Nothing to write home about.,Asia Pacific,Neutral
+REV1312,2025-12-11,Fashion,Sunglasses,4,Excellent quality for the price. The Sunglasses is fantastic.,North America,Positive
+REV1313,2025-07-09,Home Appliances,Air Fryer,3,"Received the Air Fryer as described. No complaints, no praise.",Latin America,Neutral
+REV1314,2025-09-09,Books,History Book,4,Amazing product! The History Book works perfectly and looks great.,Europe,Positive
+REV1315,2025-10-25,Fashion,Winter Jacket,1,Poor quality control. My Winter Jacket had multiple defects.,Middle East,Negative
+REV1316,2025-10-05,Fashion,Winter Jacket,5,Great investment! The Winter Jacket has exceeded all my expectations.,North America,Positive
+REV1317,2025-06-12,Fashion,Sunglasses,3,Standard quality Sunglasses. Does what it's supposed to do.,Europe,Neutral
+REV1318,2025-11-05,Beauty,Makeup Kit,5,The Makeup Kit is exactly what I needed. Great value for money.,Europe,Positive
+REV1319,2026-02-26,Books,Business Strategy,1,Not worth the money. The Business Strategy stopped working after a few days.,Europe,Negative
+REV1320,2025-08-07,Fashion,Winter Jacket,3,Standard quality Winter Jacket. Does what it's supposed to do.,Middle East,Neutral
+REV1321,2026-01-07,Fashion,Cotton T-Shirt,1,The Cotton T-Shirt is nothing special. Expected much better for the price.,Middle East,Negative
+REV1322,2025-10-30,Fashion,Leather Belt,5,Perfect condition and works perfectly. The Leather Belt is amazing!,Europe,Positive
+REV1323,2026-02-17,Books,Art Design,4,This Art Design is a game-changer. So happy with my purchase.,Latin America,Positive
+REV1324,2026-05-07,Books,Novel Collection,5,This Novel Collection is a game-changer. So happy with my purchase.,Middle East,Positive
+REV1325,2025-12-10,Beauty,Body Lotion,3,"The Body Lotion works as expected. Nothing more, nothing less.",Asia Pacific,Neutral
+REV1326,2026-02-26,Beauty,Nail Polish,3,Middle of the road Nail Polish. Acceptable but not impressive.,Middle East,Neutral
+REV1327,2026-04-30,Electronics,USB-C Hub,4,Outstanding product! The USB-C Hub has made my life so much easier.,Europe,Positive
+REV1328,2025-12-21,Fashion,Summer Dress,5,Couldn't be happier with my Summer Dress. Five stars all the way!,Europe,Positive
+REV1329,2025-12-10,Home Appliances,Fan,4,Very satisfied with my Fan. Will definitely buy again.,Latin America,Positive
+REV1330,2026-02-22,Home Appliances,Vacuum Cleaner,3,Basic functionality works. The Vacuum Cleaner is average at best.,Middle East,Neutral
+REV1331,2025-11-21,Beauty,Nail Polish,3,Standard quality Nail Polish. Does what it's supposed to do.,Latin America,Neutral
+REV1332,2025-11-11,Home Appliances,Electric Kettle,5,Amazing product! The Electric Kettle works perfectly and looks great.,Asia Pacific,Positive
+REV1333,2026-04-28,Electronics,Mechanical Keyboard,2,The Mechanical Keyboard is nothing special. Expected much better for the price.,Middle East,Negative
+REV1334,2026-02-19,Books,Novel Collection,1,Not worth the money. The Novel Collection stopped working after a few days.,North America,Negative
+REV1335,2025-07-08,Home Appliances,Air Fryer,3,The Air Fryer is fine for basic use. Could be better.,Asia Pacific,Neutral
+REV1336,2025-10-08,Home Appliances,Iron,4,Perfect condition and works perfectly. The Iron is amazing!,Middle East,Positive
+REV1337,2025-10-13,Electronics,Wireless Mouse,5,This Wireless Mouse is a game-changer. So happy with my purchase.,Latin America,Positive
+REV1338,2025-12-26,Books,Python Programming Book,3,Average experience with the Python Programming Book. Could use some improvements.,Latin America,Neutral
+REV1339,2025-09-26,Fashion,Winter Jacket,3,"The Winter Jacket works as expected. Nothing more, nothing less.",Latin America,Neutral
+REV1340,2025-11-23,Electronics,Mechanical Keyboard,2,Avoid this Mechanical Keyboard. It's a complete waste of time and money.,Latin America,Negative
+REV1341,2025-09-17,Beauty,Nail Polish,1,Poor quality control. My Nail Polish had multiple defects.,Europe,Negative
+REV1342,2026-03-24,Fashion,Summer Dress,1,Worst purchase ever. The Summer Dress doesn't work as advertised.,Asia Pacific,Negative
+REV1343,2025-11-22,Fashion,Sunglasses,5,This Sunglasses is a game-changer. So happy with my purchase.,Middle East,Positive
+REV1344,2025-11-02,Home Appliances,Heater,4,Great investment! The Heater has exceeded all my expectations.,Europe,Positive
+REV1345,2025-08-19,Home Appliances,Heater,3,The Heater is adequate. Meets minimum requirements.,Europe,Neutral
+REV1346,2025-12-19,Electronics,Smartphone Case,5,Great quality and fast shipping. The Smartphone Case exceeded my expectations.,Asia Pacific,Positive
+REV1347,2026-03-20,Beauty,Perfume,4,The Perfume is exactly what I needed. Great value for money.,Middle East,Positive
+REV1348,2025-08-31,Electronics,Tablet Screen Protector,3,The Tablet Screen Protector is fine for basic use. Could be better.,North America,Neutral
+REV1349,2025-12-16,Home Appliances,Vacuum Cleaner,4,Outstanding product! The Vacuum Cleaner has made my life so much easier.,North America,Positive
+REV1350,2025-12-07,Books,Python Programming Book,5,Super happy with this Python Programming Book. It's even better than described.,Europe,Positive
+REV1351,2025-07-28,Fashion,Wrist Watch,4,Super happy with this Wrist Watch. It's even better than described.,Europe,Positive
+REV1352,2025-08-07,Fashion,Summer Dress,5,Perfect! Exactly what I was looking for. Highly recommend the Summer Dress.,Middle East,Positive
+REV1353,2026-03-23,Home Appliances,Heater,5,Very satisfied with my Heater. Will definitely buy again.,Europe,Positive
+REV1354,2025-06-05,Fashion,Backpack,5,Couldn't be happier with my Backpack. Five stars all the way!,Europe,Positive
+REV1355,2026-02-26,Home Appliances,Heater,2,Worst purchase ever. The Heater doesn't work as advertised.,Middle East,Negative
+REV1356,2025-06-22,Electronics,Wireless Mouse,3,Standard quality Wireless Mouse. Does what it's supposed to do.,Asia Pacific,Neutral
+REV1357,2025-12-19,Books,Self-Help Book,4,Great investment! The Self-Help Book has exceeded all my expectations.,Middle East,Positive
+REV1358,2026-01-09,Beauty,Hair Straightener,1,Not happy at all. The Hair Straightener is cheaply made and unreliable.,Middle East,Negative
+REV1359,2025-07-20,Beauty,Face Moisturizer,4,Very satisfied with my Face Moisturizer. Will definitely buy again.,Middle East,Positive
+REV1360,2025-10-29,Electronics,USB-C Hub,2,Avoid this USB-C Hub. It's a complete waste of time and money.,Middle East,Negative
+REV1361,2025-08-03,Home Appliances,Coffee Maker,2,Regret buying this Coffee Maker. It's overpriced for what you get.,Latin America,Negative
+REV1362,2025-08-25,Home Appliances,Vacuum Cleaner,3,The Vacuum Cleaner is okay. Nothing special but does the job.,North America,Neutral
+REV1363,2026-04-25,Beauty,Hair Straightener,5,Perfect condition and works perfectly. The Hair Straightener is amazing!,Europe,Positive
+REV1364,2025-12-22,Electronics,Wireless Bluetooth Headphones,4,Excellent quality for the price. The Wireless Bluetooth Headphones is fantastic.,Latin America,Positive
+REV1365,2026-02-05,Beauty,Lipstick Set,4,Fantastic quality and arrived quickly. Love my new Lipstick Set!,Latin America,Positive
+REV1366,2025-08-12,Beauty,Perfume,1,The Perfume is nothing special. Expected much better for the price.,North America,Negative
+REV1367,2026-04-08,Electronics,Laptop Stand,5,Perfect! Exactly what I was looking for. Highly recommend the Laptop Stand.,North America,Positive
+REV1368,2026-05-11,Electronics,Wireless Mouse,5,Perfect! Exactly what I was looking for. Highly recommend the Wireless Mouse.,Europe,Positive
+REV1369,2026-06-02,Electronics,Smartphone Case,4,Perfect condition and works perfectly. The Smartphone Case is amazing!,Middle East,Positive
+REV1370,2026-04-26,Electronics,Portable Charger,3,The Portable Charger is okay. Nothing special but does the job.,Middle East,Neutral
+REV1371,2025-06-04,Electronics,Portable Charger,1,Poor quality control. My Portable Charger had multiple defects.,Europe,Negative
+REV1372,2025-09-12,Electronics,Wireless Bluetooth Headphones,4,Excellent quality for the price. The Wireless Bluetooth Headphones is fantastic.,Europe,Positive
+REV1373,2026-05-16,Electronics,USB-C Hub,1,Avoid this USB-C Hub. It's a complete waste of time and money.,Europe,Negative
+REV1374,2025-08-26,Electronics,Portable Charger,3,Standard quality Portable Charger. Does what it's supposed to do.,Middle East,Neutral
+REV1375,2026-04-18,Fashion,Casual Sneakers,5,Super happy with this Casual Sneakers. It's even better than described.,North America,Positive
+REV1376,2025-09-28,Fashion,Denim Jeans,4,Absolutely love this Denim Jeans! Best purchase I've made this year.,Latin America,Positive
+REV1377,2026-05-02,Home Appliances,Air Fryer,5,Amazing product! The Air Fryer works perfectly and looks great.,North America,Positive
+REV1378,2026-05-04,Home Appliances,Heater,4,Great investment! The Heater has exceeded all my expectations.,Europe,Positive
+REV1379,2025-12-29,Home Appliances,Heater,3,"The Heater works as expected. Nothing more, nothing less.",Middle East,Neutral
+REV1380,2026-03-20,Fashion,Summer Dress,2,Absolutely terrible Summer Dress. Broke after first use.,Latin America,Negative
+REV1381,2026-05-15,Fashion,Leather Belt,5,Perfect condition and works perfectly. The Leather Belt is amazing!,Latin America,Positive
+REV1382,2025-07-06,Home Appliances,Air Fryer,3,The Air Fryer is adequate. Meets minimum requirements.,Middle East,Neutral
+REV1383,2026-04-25,Fashion,Wrist Watch,3,The Wrist Watch is fine for basic use. Could be better.,North America,Neutral
+REV1384,2026-04-13,Electronics,Wireless Mouse,5,This Wireless Mouse is a game-changer. So happy with my purchase.,Europe,Positive
+REV1385,2026-04-15,Electronics,Wireless Bluetooth Headphones,5,Very satisfied with my Wireless Bluetooth Headphones. Will definitely buy again.,Europe,Positive
+REV1386,2025-08-18,Beauty,Makeup Kit,3,The Makeup Kit is satisfactory. Meets basic needs.,Middle East,Neutral
+REV1387,2026-01-15,Home Appliances,Blender,4,Best Blender I've ever owned. Worth every penny!,Latin America,Positive
+REV1388,2026-04-29,Home Appliances,Air Fryer,5,Excellent quality for the price. The Air Fryer is fantastic.,Europe,Positive
+REV1389,2025-09-15,Books,Python Programming Book,1,Avoid this Python Programming Book. It's a complete waste of time and money.,Europe,Negative
+REV1390,2026-04-09,Beauty,Body Lotion,5,The Body Lotion is exactly what I needed. Great value for money.,North America,Positive
+REV1391,2025-07-05,Beauty,Lipstick Set,1,Absolutely terrible Lipstick Set. Broke after first use.,Europe,Negative
+REV1392,2025-09-14,Fashion,Denim Jeans,4,Amazing product! The Denim Jeans works perfectly and looks great.,Middle East,Positive
+REV1393,2025-07-12,Beauty,Nail Polish,4,Amazing product! The Nail Polish works perfectly and looks great.,Latin America,Positive
+REV1394,2025-08-31,Books,Cooking Recipes,5,The Cooking Recipes is exactly what I needed. Great value for money.,Europe,Positive
+REV1395,2025-10-19,Beauty,Lipstick Set,2,Regret buying this Lipstick Set. It's overpriced for what you get.,Latin America,Negative
+REV1396,2025-08-26,Beauty,Nail Polish,5,This Nail Polish is a game-changer. So happy with my purchase.,Europe,Positive
+REV1397,2026-02-03,Electronics,Portable Charger,4,This Portable Charger is a game-changer. So happy with my purchase.,Asia Pacific,Positive
+REV1398,2026-04-02,Books,Self-Help Book,3,"Received the Self-Help Book as described. No complaints, no praise.",Latin America,Neutral
+REV1399,2026-01-25,Home Appliances,Microwave Oven,5,Great quality and fast shipping. The Microwave Oven exceeded my expectations.,Asia Pacific,Positive
+REV1400,2025-08-10,Beauty,Makeup Kit,4,Absolutely love this Makeup Kit! Best purchase I've made this year.,North America,Positive
+REV1401,2026-02-13,Home Appliances,Microwave Oven,5,Super happy with this Microwave Oven. It's even better than described.,Asia Pacific,Positive
+REV1402,2025-12-15,Beauty,Perfume,3,The Perfume is adequate. Meets minimum requirements.,North America,Neutral
+REV1403,2025-08-04,Beauty,Sunscreen,5,Very satisfied with my Sunscreen. Will definitely buy again.,Asia Pacific,Positive
+REV1404,2026-02-17,Beauty,Skincare Set,3,The Skincare Set is satisfactory. Meets basic needs.,Latin America,Neutral
+REV1405,2025-10-06,Fashion,Backpack,5,The Backpack is exactly what I needed. Great value for money.,North America,Positive
+REV1406,2026-05-25,Fashion,Summer Dress,3,"Received the Summer Dress as described. No complaints, no praise.",Europe,Neutral
+REV1407,2026-04-06,Books,Self-Help Book,4,The Self-Help Book is exactly what I needed. Great value for money.,Latin America,Positive
+REV1408,2025-12-22,Books,Novel Collection,3,The Novel Collection is satisfactory. Meets basic needs.,Latin America,Neutral
+REV1409,2025-08-25,Beauty,Perfume,3,The Perfume is decent value. Nothing extraordinary.,Asia Pacific,Neutral
+REV1410,2025-12-29,Electronics,Smart Watch Pro,3,Average experience with the Smart Watch Pro. Could use some improvements.,Europe,Neutral
+REV1411,2025-10-17,Fashion,Sunglasses,3,"It's a decent Sunglasses. Not great, not terrible.",Latin America,Neutral
+REV1412,2025-06-02,Electronics,Smart Watch Pro,2,Very frustrated with this Smart Watch Pro. Save your money and buy something else.,Latin America,Negative
+REV1413,2026-05-03,Home Appliances,Electric Kettle,5,Perfect! Exactly what I was looking for. Highly recommend the Electric Kettle.,Europe,Positive
+REV1414,2025-09-11,Beauty,Hair Dryer,3,It's an okay Hair Dryer. Nothing to write home about.,Middle East,Neutral
+REV1415,2025-09-18,Fashion,Winter Jacket,4,This Winter Jacket is a game-changer. So happy with my purchase.,Europe,Positive
+REV1416,2025-10-12,Beauty,Nail Polish,3,Average experience with the Nail Polish. Could use some improvements.,Europe,Neutral
+REV1417,2025-07-12,Home Appliances,Coffee Maker,5,Great quality and fast shipping. The Coffee Maker exceeded my expectations.,Asia Pacific,Positive
+REV1418,2025-06-17,Books,Cooking Recipes,3,The Cooking Recipes is okay. Nothing special but does the job.,North America,Neutral
+REV1419,2025-10-16,Electronics,Tablet Screen Protector,1,Not worth the money. The Tablet Screen Protector stopped working after a few days.,Europe,Negative
+REV1420,2026-02-24,Electronics,Portable Charger,3,The Portable Charger is satisfactory. Meets basic needs.,Latin America,Neutral
+REV1421,2026-01-30,Home Appliances,Heater,5,The Heater is exactly what I needed. Great value for money.,Asia Pacific,Positive
+REV1422,2025-11-10,Fashion,Leather Belt,3,The Leather Belt is decent value. Nothing extraordinary.,North America,Neutral
+REV1423,2025-12-01,Home Appliances,Coffee Maker,5,Fantastic quality and arrived quickly. Love my new Coffee Maker!,Europe,Positive
+REV1424,2025-06-15,Books,Novel Collection,2,Not happy at all. The Novel Collection is cheaply made and unreliable.,Europe,Negative
+REV1425,2025-12-07,Beauty,Sunscreen,3,Basic functionality works. The Sunscreen is average at best.,Latin America,Neutral
+REV1426,2026-05-06,Fashion,Cotton T-Shirt,2,Very disappointed with this Cotton T-Shirt. Poor quality and broke after a week.,Asia Pacific,Negative
+REV1427,2025-06-25,Home Appliances,Microwave Oven,5,Super happy with this Microwave Oven. It's even better than described.,Middle East,Positive
+REV1428,2025-07-13,Home Appliances,Electric Kettle,2,Absolutely terrible Electric Kettle. Broke after first use.,North America,Negative
+REV1429,2025-12-16,Home Appliances,Heater,4,Perfect condition and works perfectly. The Heater is amazing!,Middle East,Positive
+REV1430,2026-03-21,Books,Python Programming Book,4,Very satisfied with my Python Programming Book. Will definitely buy again.,Middle East,Positive
+REV1431,2026-01-27,Fashion,Backpack,2,Absolutely terrible Backpack. Broke after first use.,Middle East,Negative
+REV1432,2025-10-03,Fashion,Winter Jacket,4,Great quality and fast shipping. The Winter Jacket exceeded my expectations.,Latin America,Positive
+REV1433,2025-06-16,Fashion,Leather Belt,2,Would not recommend this Leather Belt. Complete waste of money.,Asia Pacific,Negative
+REV1434,2026-05-08,Beauty,Lipstick Set,3,Average quality for the price. The Lipstick Set meets basic expectations.,Asia Pacific,Neutral
+REV1435,2025-09-24,Books,Biography,5,Super happy with this Biography. It's even better than described.,Latin America,Positive
+REV1436,2026-05-02,Books,Business Strategy,1,The Business Strategy is nothing like the pictures. Very misleading.,North America,Negative
+REV1437,2025-10-28,Electronics,Smart Watch Pro,4,Fantastic quality and arrived quickly. Love my new Smart Watch Pro!,North America,Positive
+REV1438,2026-03-22,Home Appliances,Blender,2,The Blender arrived late and in poor condition. Very disappointed.,North America,Negative
+REV1439,2025-11-08,Electronics,Tablet Screen Protector,3,The Tablet Screen Protector is adequate. Meets minimum requirements.,Asia Pacific,Neutral
+REV1440,2025-12-05,Fashion,Wrist Watch,3,Average quality for the price. The Wrist Watch meets basic expectations.,Latin America,Neutral
+REV1441,2025-06-06,Books,Art Design,5,Perfect condition and works perfectly. The Art Design is amazing!,Europe,Positive
+REV1442,2026-02-12,Beauty,Hair Dryer,3,"The Hair Dryer works as expected. Nothing more, nothing less.",North America,Neutral
+REV1443,2026-04-04,Home Appliances,Iron,3,"Received the Iron as described. No complaints, no praise.",Middle East,Neutral
+REV1444,2026-02-01,Fashion,Backpack,5,Absolutely love this Backpack! Best purchase I've made this year.,Asia Pacific,Positive
+REV1445,2025-08-19,Fashion,Winter Jacket,3,The Winter Jacket is satisfactory. Meets basic needs.,Europe,Neutral
+REV1446,2026-02-06,Beauty,Perfume,1,Very disappointed with this Perfume. Poor quality and broke after a week.,Middle East,Negative
+REV1447,2025-12-19,Home Appliances,Electric Kettle,3,It's a standard Electric Kettle. Does the job but nothing special.,Latin America,Neutral
+REV1448,2025-12-19,Electronics,Smartphone Case,3,"The Smartphone Case works as expected. Nothing more, nothing less.",Europe,Neutral
+REV1449,2026-05-26,Books,Business Strategy,5,This Business Strategy is a game-changer. So happy with my purchase.,Middle East,Positive
+REV1450,2025-06-29,Home Appliances,Microwave Oven,3,It's an okay Microwave Oven. Nothing to write home about.,Latin America,Neutral
+REV1451,2025-10-29,Fashion,Winter Jacket,4,Fantastic quality and arrived quickly. Love my new Winter Jacket!,North America,Positive
+REV1452,2025-12-04,Books,Novel Collection,3,The Novel Collection is adequate. Meets minimum requirements.,Latin America,Neutral
+REV1453,2026-05-15,Fashion,Cotton T-Shirt,5,Perfect! Exactly what I was looking for. Highly recommend the Cotton T-Shirt.,North America,Positive
+REV1454,2025-08-01,Books,History Book,3,Middle of the road History Book. Acceptable but not impressive.,Latin America,Neutral
+REV1455,2025-10-05,Electronics,Smart Watch Pro,5,Very satisfied with my Smart Watch Pro. Will definitely buy again.,Middle East,Positive
+REV1456,2025-08-29,Beauty,Lipstick Set,2,The Lipstick Set is nothing like the pictures. Very misleading.,Latin America,Negative
+REV1457,2025-12-07,Electronics,Smart Watch Pro,4,Outstanding product! The Smart Watch Pro has made my life so much easier.,Middle East,Positive
+REV1458,2025-09-25,Electronics,Tablet Screen Protector,3,"Received the Tablet Screen Protector as described. No complaints, no praise.",North America,Neutral
+REV1459,2026-04-01,Fashion,Sunglasses,3,"Received the Sunglasses as described. No complaints, no praise.",Middle East,Neutral
+REV1460,2025-08-05,Electronics,Mechanical Keyboard,4,Super happy with this Mechanical Keyboard. It's even better than described.,North America,Positive
+REV1461,2025-12-20,Books,Children Stories,2,Not worth the money. The Children Stories stopped working after a few days.,Middle East,Negative
+REV1462,2026-03-28,Books,Novel Collection,1,Absolutely terrible Novel Collection. Broke after first use.,North America,Negative
+REV1463,2025-09-02,Books,Self-Help Book,5,This Self-Help Book is a game-changer. So happy with my purchase.,Asia Pacific,Positive
+REV1464,2025-08-03,Electronics,Laptop Stand,3,Average quality for the price. The Laptop Stand meets basic expectations.,Middle East,Neutral
+REV1465,2025-10-11,Electronics,Smart Watch Pro,2,Poor quality control. My Smart Watch Pro had multiple defects.,Middle East,Negative
+REV1466,2025-08-28,Beauty,Face Moisturizer,4,Best Face Moisturizer I've ever owned. Worth every penny!,Asia Pacific,Positive
+REV1467,2026-05-05,Books,Art Design,5,Fantastic quality and arrived quickly. Love my new Art Design!,Asia Pacific,Positive
+REV1468,2026-02-24,Home Appliances,Heater,3,"The Heater works as expected. Nothing more, nothing less.",North America,Neutral
+REV1469,2026-05-07,Electronics,USB-C Hub,4,Very satisfied with my USB-C Hub. Will definitely buy again.,Europe,Positive
+REV1470,2025-08-09,Books,Children Stories,5,Very satisfied with my Children Stories. Will definitely buy again.,Europe,Positive
+REV1471,2026-04-16,Beauty,Lipstick Set,3,The Lipstick Set is adequate. Meets minimum requirements.,Europe,Neutral
+REV1472,2025-12-23,Beauty,Lipstick Set,2,Not happy at all. The Lipstick Set is cheaply made and unreliable.,Europe,Negative
+REV1473,2026-03-03,Fashion,Denim Jeans,3,Middle of the road Denim Jeans. Acceptable but not impressive.,Europe,Neutral
+REV1474,2026-06-02,Home Appliances,Heater,3,The Heater is adequate. Meets minimum requirements.,Europe,Neutral
+REV1475,2025-11-10,Beauty,Hair Straightener,4,Great quality and fast shipping. The Hair Straightener exceeded my expectations.,Asia Pacific,Positive
+REV1476,2025-08-04,Books,Novel Collection,3,Average quality for the price. The Novel Collection meets basic expectations.,Asia Pacific,Neutral
+REV1477,2026-04-25,Electronics,Mechanical Keyboard,2,Terrible experience. The Mechanical Keyboard arrived damaged and customer service was unhelpful.,Europe,Negative
+REV1478,2025-10-20,Electronics,Smart Watch Pro,4,Super happy with this Smart Watch Pro. It's even better than described.,North America,Positive
+REV1479,2025-08-04,Fashion,Wrist Watch,3,The Wrist Watch is decent value. Nothing extraordinary.,Latin America,Neutral
+REV1480,2025-07-20,Books,History Book,3,Basic functionality works. The History Book is average at best.,Asia Pacific,Neutral
+REV1481,2026-04-09,Electronics,Wireless Bluetooth Headphones,5,Perfect! Exactly what I was looking for. Highly recommend the Wireless Bluetooth Headphones.,Asia Pacific,Positive
+REV1482,2026-05-15,Books,Children Stories,3,It's an okay Children Stories. Nothing to write home about.,Middle East,Neutral
+REV1483,2025-08-06,Home Appliances,Air Fryer,3,Middle of the road Air Fryer. Acceptable but not impressive.,Europe,Neutral
+REV1484,2025-08-14,Beauty,Sunscreen,3,The Sunscreen is satisfactory. Meets basic needs.,Asia Pacific,Neutral
+REV1485,2026-05-30,Fashion,Casual Sneakers,5,Perfect! Exactly what I was looking for. Highly recommend the Casual Sneakers.,Latin America,Positive
+REV1486,2025-11-30,Beauty,Body Lotion,5,Best Body Lotion I've ever owned. Worth every penny!,Europe,Positive
+REV1487,2025-11-05,Electronics,Wireless Mouse,5,Perfect condition and works perfectly. The Wireless Mouse is amazing!,North America,Positive
+REV1488,2026-04-22,Electronics,Smart Watch Pro,3,"It's a decent Smart Watch Pro. Not great, not terrible.",Middle East,Neutral
+REV1489,2025-07-01,Electronics,Wireless Mouse,3,It's a standard Wireless Mouse. Does the job but nothing special.,North America,Neutral
+REV1490,2026-01-05,Books,Self-Help Book,3,The Self-Help Book is adequate. Meets minimum requirements.,North America,Neutral
+REV1491,2026-04-13,Fashion,Cotton T-Shirt,3,The Cotton T-Shirt is fine for basic use. Could be better.,Middle East,Neutral
+REV1492,2026-05-18,Books,Python Programming Book,3,Middle of the road Python Programming Book. Acceptable but not impressive.,Middle East,Neutral
+REV1493,2025-09-25,Fashion,Denim Jeans,4,Best Denim Jeans I've ever owned. Worth every penny!,Asia Pacific,Positive
+REV1494,2025-06-28,Beauty,Nail Polish,5,Great quality and fast shipping. The Nail Polish exceeded my expectations.,Asia Pacific,Positive
+REV1495,2026-05-15,Fashion,Wrist Watch,1,The Wrist Watch is nothing like the pictures. Very misleading.,Asia Pacific,Negative
+REV1496,2026-02-04,Home Appliances,Iron,5,Amazing product! The Iron works perfectly and looks great.,Asia Pacific,Positive
+REV1497,2026-04-27,Books,Python Programming Book,2,Very disappointed with this Python Programming Book. Poor quality and broke after a week.,Asia Pacific,Negative
+REV1498,2025-06-05,Books,Art Design,5,Great quality and fast shipping. The Art Design exceeded my expectations.,North America,Positive
+REV1499,2025-11-28,Fashion,Sunglasses,4,Super happy with this Sunglasses. It's even better than described.,Latin America,Positive
+REV1500,2025-09-11,Electronics,Smartphone Case,3,The Smartphone Case is adequate. Meets minimum requirements.,North America,Neutral
