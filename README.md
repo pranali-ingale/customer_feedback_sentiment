@@ -9,6 +9,13 @@
 
 ---
 
+**Intern Name:** Pranali Ingale  
+**Intern ID:** CITS2281
+**Domain:** Data Analytics  
+**Organization:** CODTECH IT Solutions
+
+---
+
 ## Project Overview
 
 This is a complete terminal-based Data Analytics project that analyzes customer reviews and feedback to understand customer satisfaction, identify positive and negative sentiments, discover common complaints, and generate actionable business recommendations using Natural Language Processing (NLP) techniques.
@@ -358,17 +365,6 @@ ANALYSIS COMPLETED SUCCESSFULLY
 
 ---
 
-## Project Highlights
-
-### What Makes This Project Unique?
-
-1. **Terminal-Based:** No Jupyter, no web interface - runs entirely from command line
-2. **Automated:** Single command executes entire analysis pipeline
-3. **Professional Output:** High-resolution visualizations and business report
-4. **Beginner-Friendly:** Well-commented code, easy to understand
-5. **Portfolio-Ready:** Professional structure and documentation
-6. **CSI Metric:** Custom Customer Satisfaction Index for quick assessment
-
 ### Skills Demonstrated
 
 - **Data Analysis:** Pandas, NumPy
@@ -378,75 +374,3 @@ ANALYSIS COMPLETED SUCCESSFULLY
 - **Problem Solving:** End-to-end analytics pipeline
 
 ---
-
-## Internship Information
-
-**Project Type:** Data Analytics & NLP Internship Project  
-**Domain:** Customer Experience & Sentiment Analysis  
-**Tech Stack:** Python, NLP, Data Visualization  
-**Dataset Size:** 1,500 Customer Reviews  
-**Duration:** 2-3 Weeks (Recommended)  
-**Role:** Data Analyst / NLP Engineer  
-
-**Learning Outcomes:**
-- Text preprocessing and NLP techniques
-- Sentiment analysis with TextBlob
-- Data visualization with Matplotlib and Seaborn
-- Business intelligence and reporting
-- Command-line application development
-
----
-
-## Future Scope
-
-### Potential Enhancements
-1. **Real-time Analysis:** Implement real-time sentiment analysis for live feedback
-2. **Machine Learning Models:** Train custom ML models for improved sentiment accuracy
-3. **Multi-language Support:** Extend analysis to reviews in multiple languages
-4. **Aspect-based Sentiment:** Analyze sentiment for specific product features
-5. **Predictive Analytics:** Predict customer churn based on sentiment patterns
-6. **Email Alerts:** Set up automated alerts for negative sentiment spikes
-
----
-
-## License
-
-This project is licensed under the MIT License - feel free to use it for learning and portfolio purposes.
-
----
-
-## Author
-
-**Data Analyst / NLP Engineer Intern**
-
-**Skills Demonstrated:**
-- Python Programming
-- Data Analysis
-- Natural Language Processing
-- Data Visualization
-- Business Intelligence
-
----
-
-## Acknowledgments
-
-- NLTK team for excellent NLP tools
-- TextBlob for simple sentiment analysis
-- Pandas and NumPy communities
-- Matplotlib and Seaborn for visualization tools
-
----
-
-## Star This Project
-
-If you find this project helpful for your learning or portfolio, please consider giving it a star! ⭐
-
----
-
-**Project Status:** ✅ Complete and Ready for Submission
-
-**Last Updated:** June 2026
-
----
-
-**Happy Analyzing! 🚀**
