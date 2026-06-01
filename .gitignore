@@ -36,7 +36,3 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Project specific
-outputs/charts/*.png
-data/*.csv
-!data/customer_reviews.csv
